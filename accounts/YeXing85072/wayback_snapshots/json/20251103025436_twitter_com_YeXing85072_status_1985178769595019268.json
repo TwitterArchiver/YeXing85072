@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1985057691509887415",
+    "created_at": "2025-11-03T02:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T03:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985178769595019268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894980688241401862",
+          "start": 0,
+          "username": "yyycoin999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985178769595019268",
+    "in_reply_to_user_id": "1894980688241401862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985057691509887415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyycoin999 点赞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1985057691509887415",
+        "created_at": "2025-11-03T02:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T03:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985178769595019268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894980688241401862",
+              "start": 0,
+              "username": "yyycoin999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985178769595019268",
+        "in_reply_to_user_id": "1894980688241401862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985057691509887415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyycoin999 点赞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894980688241401862",
+        "conversation_id": "1985057691509887415",
+        "created_at": "2025-11-02T18:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985057691509887415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985057691509887415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4094,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "点赞 抽一位叼毛 1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 500,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 262
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T05:19:44.000Z",
+        "description": "价值币推销员  喜欢讲故事   这叼毛说的话不可信  保护好自己的钱包",
+        "id": "1894980688241401862",
+        "name": "瑶总",
+        "pinned_tweet_id": "1977366087780929537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946583679075004418/jNFygFbL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 634,
+          "like_count": 11028,
+          "listed_count": 22,
+          "media_count": 2334,
+          "tweet_count": 8506
+        },
+        "username": "yyycoin999",
+        "verified": true
+      }
+    ]
+  }
+}

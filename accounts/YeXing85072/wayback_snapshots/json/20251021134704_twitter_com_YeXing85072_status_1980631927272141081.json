@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980535960644505875",
+    "created_at": "2025-10-21T13:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980631927272141081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "978282621607161858",
+          "start": 0,
+          "username": "SatoshiX472"
+        },
+        {
+          "end": 23,
+          "id": "1945004295742742528",
+          "start": 13,
+          "username": "U4371Uvxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980631927272141081",
+    "in_reply_to_user_id": "978282621607161858",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980535960644505875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SatoshiX472 @U4371Uvxk 1174017882"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_1980535896823767040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xG56MXIAAJN8a.png",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980535960644505875",
+        "created_at": "2025-10-21T13:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980631927272141081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "978282621607161858",
+              "start": 0,
+              "username": "SatoshiX472"
+            },
+            {
+              "end": 23,
+              "id": "1945004295742742528",
+              "start": 13,
+              "username": "U4371Uvxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980631927272141081",
+        "in_reply_to_user_id": "978282621607161858",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980535960644505875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SatoshiX472 @U4371Uvxk 1174017882"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980535896823767040"
+          ]
+        },
+        "author_id": "978282621607161858",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980535960644505875",
+        "created_at": "2025-10-21T07:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980535960644505875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "978282621607161858",
+              "start": 74,
+              "username": "SatoshiX472"
+            },
+            {
+              "end": 99,
+              "id": "1945004295742742528",
+              "start": 89,
+              "username": "U4371Uvxk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Tu3UZBtNX",
+              "end": 158,
+              "expanded_url": "https://x.com/SatoshiX472/status/1980535960644505875/photo/1",
+              "media_key": "3_1980535896823767040",
+              "start": 135,
+              "url": "https://t.co/8Tu3UZBtNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980535960644505875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9869,
+          "like_count": 129,
+          "quote_count": 5,
+          "reply_count": 137,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "新的一周又开始了，祝大家天天开心，给大家送波福利🎉🎉\n\n抽一台苹果17 pro，激励大家再接再厉\n抽奖全程录屏，公平 公正 公开\n\n❣️要求：关注 @SatoshiX472 和 @U4371Uvxk，转发本推文一键三连即可！！！\n\n记得留下你的币安UID\n72小时开奖 https://t.co/8Tu3UZBtNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 480,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 225
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-26T14:48:47.000Z",
+        "description": "OKX钱包最高20%返佣邀请码：YINGGE888 注册链接： https://t.co/qNFmJ45kgp #Binance 近3亿用户的共同选择：https://t.co/DJ9xOxbJzW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/ul/joindex?ref…",
+                "end": 55,
+                "expanded_url": "https://web3.okx.com/ul/joindex?ref=YINGGE888",
+                "start": 32,
+                "url": "https://t.co/qNFmJ45kgp"
+              },
+              {
+                "display_url": "accounts.binance.com/register?ref=Y…",
+                "end": 99,
+                "expanded_url": "https://accounts.binance.com/register?ref=YINGGE888",
+                "start": 76,
+                "url": "https://t.co/DJ9xOxbJzW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=MjhhuWaq",
+                "end": 23,
+                "expanded_url": "https://gmgn.ai/?ref=MjhhuWaq",
+                "start": 0,
+                "url": "https://t.co/HO6qWYRdT9"
+              }
+            ]
+          }
+        },
+        "id": "978282621607161858",
+        "location": "交易memecoins👉",
+        "name": "中本巫师",
+        "pinned_tweet_id": "1980535960644505875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914684448840540163/AJ9oTRye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 1928,
+          "like_count": 3907,
+          "listed_count": 6,
+          "media_count": 6688,
+          "tweet_count": 19222
+        },
+        "url": "https://t.co/HO6qWYRdT9",
+        "username": "SatoshiX472",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T06:16:09.000Z",
+        "description": "OKX钱包最高20%返佣邀请码：YINGGE888 注册链接： https://t.co/ctBkqyzkXb #Binance 近3亿用户的共同选择：https://t.co/EL1xiSVDVj",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/ul/joindex?ref…",
+                "end": 55,
+                "expanded_url": "https://web3.okx.com/ul/joindex?ref=YINGGE888",
+                "start": 32,
+                "url": "https://t.co/ctBkqyzkXb"
+              },
+              {
+                "display_url": "accounts.binance.com/register?ref=Y…",
+                "end": 99,
+                "expanded_url": "https://accounts.binance.com/register?ref=YINGGE888",
+                "start": 76,
+                "url": "https://t.co/EL1xiSVDVj"
+              }
+            ]
+          }
+        },
+        "id": "1945004295742742528",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "加密小奇犽",
+        "pinned_tweet_id": "1980525032729374775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945004496633085952/UO1EFILe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1096,
+          "like_count": 1808,
+          "listed_count": 0,
+          "media_count": 3926,
+          "tweet_count": 9091
+        },
+        "username": "U4371Uvxk",
+        "verified": true
+      }
+    ]
+  }
+}

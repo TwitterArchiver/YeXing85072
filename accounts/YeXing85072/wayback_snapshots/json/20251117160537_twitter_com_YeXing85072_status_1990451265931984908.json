@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990451252266926080",
+        "3_1990451252250263553"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1990451265931984908",
+    "created_at": "2025-11-17T16:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T17:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990451265931984908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jWRUdpfVaX",
+          "end": 151,
+          "expanded_url": "https://x.com/YeXing85072/status/1990451265931984908/photo/1",
+          "media_key": "3_1990451252266926080",
+          "start": 128,
+          "url": "https://t.co/jWRUdpfVaX"
+        },
+        {
+          "display_url": "pic.x.com/jWRUdpfVaX",
+          "end": 151,
+          "expanded_url": "https://x.com/YeXing85072/status/1990451265931984908/photo/1",
+          "media_key": "3_1990451252250263553",
+          "start": 128,
+          "url": "https://t.co/jWRUdpfVaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990451265931984908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "社区内部群里泉哥开单不仅会提醒我们不同情况下的平仓点位，还会判断各个不同币种该不该跟踪或者该不该盯盘，昨天banans31损了后泉哥让我们好好盯盘，并且临时给了个新挂单点位，这就是我们澜泉社区的无微不至。而且我们不会只晒盈利不发亏损，每天开的单都足够真实 https://t.co/jWRUdpfVaX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 189,
+        "media_key": "3_1990451252266926080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-A3joaAAAF9qp.jpg",
+        "width": 586
+      },
+      {
+        "height": 802,
+        "media_key": "3_1990451252250263553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-A3jkbwAE7adY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990451252266926080",
+            "3_1990451252250263553"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1990451265931984908",
+        "created_at": "2025-11-17T16:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990451265931984908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWRUdpfVaX",
+              "end": 151,
+              "expanded_url": "https://x.com/YeXing85072/status/1990451265931984908/photo/1",
+              "media_key": "3_1990451252266926080",
+              "start": 128,
+              "url": "https://t.co/jWRUdpfVaX"
+            },
+            {
+              "display_url": "pic.x.com/jWRUdpfVaX",
+              "end": 151,
+              "expanded_url": "https://x.com/YeXing85072/status/1990451265931984908/photo/1",
+              "media_key": "3_1990451252250263553",
+              "start": 128,
+              "url": "https://t.co/jWRUdpfVaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990451265931984908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社区内部群里泉哥开单不仅会提醒我们不同情况下的平仓点位，还会判断各个不同币种该不该跟踪或者该不该盯盘，昨天banans31损了后泉哥让我们好好盯盘，并且临时给了个新挂单点位，这就是我们澜泉社区的无微不至。而且我们不会只晒盈利不发亏损，每天开的单都足够真实 https://t.co/jWRUdpfVaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 513,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 323
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

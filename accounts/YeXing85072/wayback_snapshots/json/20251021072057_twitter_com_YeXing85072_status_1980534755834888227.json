@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1979845713564770544",
+    "created_at": "2025-10-21T07:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980534755834888227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1626084307226988546",
+          "start": 0,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980534755834888227",
+    "in_reply_to_user_id": "1626084307226988546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979845713564770544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pilgrim_wyl 大哥威武"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1688,
+        "media_key": "3_1979845710217392128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nTLwuWsAAgru8.jpg",
+        "width": 1207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1979845713564770544",
+        "created_at": "2025-10-21T07:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980534755834888227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626084307226988546",
+              "start": 0,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980534755834888227",
+        "in_reply_to_user_id": "1626084307226988546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979845713564770544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pilgrim_wyl 大哥威武"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979845710217392128"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "conversation_id": "1979845713564770544",
+        "created_at": "2025-10-19T09:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979845713564770544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MJM2R2P8P",
+              "end": 167,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1979845713564770544/photo/1",
+              "media_key": "3_1979845710217392128",
+              "start": 144,
+              "url": "https://t.co/7MJM2R2P8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979845713564770544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近团队的阿甘博士在做异动监控，过几天应该就能做出来，到时候结合监控教你们一套策略，真材实料，我说建立一个独有的氛围，这蛋糕足够大，不怕被分享。但是只在群里分享，不会在推上说，要进的现在进，监控到时会添加到tg群上。\n\n附上一嘴，回测下来这套策略准确性62%，虽然不是很高，但是可以盈利 https://t.co/7MJM2R2P8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 477,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 220
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 66,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1985365758889873552",
+    "created_at": "2025-11-03T15:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985365758889873552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "827100694465257476",
+          "start": 3,
+          "username": "wyl2035"
+        },
+        {
+          "end": 72,
+          "id": "827100694465257476",
+          "start": 64,
+          "username": "wyl2035"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985365758889873552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985291298979611074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wyl2035: 🚨 送出 $40 SOL，大放送来了！🚨\n\n4 位幸运儿即将诞生 🤑\n\n想拿奖励？很简单👇\n⚡️关注 @wyl2035 并打开通知\n⚡️点赞 + 转发这条推文\n⚡️评论区留下你的 SOL 地址\n\n加入《实现财富自由》电报群\n\nhttps://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1985291280591851520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40r5rNbkAATzS_.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1985365758889873552",
+        "created_at": "2025-11-03T15:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985365758889873552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "827100694465257476",
+              "start": 3,
+              "username": "wyl2035"
+            },
+            {
+              "end": 72,
+              "id": "827100694465257476",
+              "start": 64,
+              "username": "wyl2035"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985365758889873552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985291298979611074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wyl2035: 🚨 送出 $40 SOL，大放送来了！🚨\n\n4 位幸运儿即将诞生 🤑\n\n想拿奖励？很简单👇\n⚡️关注 @wyl2035 并打开通知\n⚡️点赞 + 转发这条推文\n⚡️评论区留下你的 SOL 地址\n\n加入《实现财富自由》电报群\n\nhttps://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985291280591851520"
+          ]
+        },
+        "author_id": "827100694465257476",
+        "conversation_id": "1985291298979611074",
+        "created_at": "2025-11-03T10:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985291298979611074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "827100694465257476",
+              "start": 51,
+              "username": "wyl2035"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegr am. Click to",
+              "display_url": "t.me/+SMCdN8jsjns1Y…",
+              "end": 136,
+              "expanded_url": "https://t.me/+SMCdN8jsjns1YzE1",
+              "start": 113,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+SMCdN8jsjns1YzE1",
+              "url": "https://t.co/0mnWcyN1WR"
+            },
+            {
+              "display_url": "pic.x.com/EAkkRn6blB",
+              "end": 182,
+              "expanded_url": "https://x.com/wyl2035/status/1985291298979611074/photo/1",
+              "media_key": "3_1985291280591851520",
+              "start": 159,
+              "url": "https://t.co/EAkkRn6blB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985291298979611074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 185,
+                "start": 182,
+                "tag": "撒钱"
+              },
+              {
+                "end": 189,
+                "start": 186,
+                "tag": "抽奖"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "id": "827100694465257476",
+                "start": 51,
+                "username": "wyl2035"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+SMCdN8jsjns1Y…",
+                "end": 136,
+                "expanded_url": "https://t.me/+SMCdN8jsjns1YzE1",
+                "start": 113,
+                "url": "https://t.co/aVuMcDvpgF"
+              }
+            ]
+          },
+          "text": "🚨 送出 $40 SOL，大放送来了！🚨\n\n4 位幸运儿即将诞生 🤑\n\n想拿奖励？很简单👇\n⚡️关注 @wyl2035 并打开通知\n⚡️点赞 + 转发这条推文\n⚡️评论区留下你的 SOL 地址\n\n加入《实现财富自由》电报群\n\nhttps://t.co/aVuMcDvpgF\n\n仅限已验证用户参与，\n48小时后开奖——\n该出手就出手，不然又要说“早知道就参加了”🔥\n#撒钱 #抽奖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2224,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 送出 $40 SOL，大放送来了！🚨\n\n4 位幸运儿即将诞生 🤑\n\n想拿奖励？很简单👇\n⚡️关注 @wyl2035 并打开通知\n⚡️点赞 + 转发这条推文\n⚡️评论区留下你的 SOL 地址\n\n加入《实现财富自由》电报群\n\nhttps://t.co/0mnWcyN1WR\n\n仅限已验证用户参与，\n48小时后开奖—— https://t.co/EAkkRn6blB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 500,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 268
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-02T10:25:47.000Z",
+        "description": "高端社群，服务会员100000+ 合约，土狗，山寨，一级，二级主流币行情分析。精准提示抄底，逃顶点位，推荐10倍，50倍，百倍币 ❤️我的电报Telegram《实现财富自由》全球中文飞机群: https://t.co/aVuMcDuRr7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+SMCdN8jsjns1Y…",
+                "end": 119,
+                "expanded_url": "https://t.me/+SMCdN8jsjns1YzE1",
+                "start": 96,
+                "url": "https://t.co/aVuMcDuRr7"
+              }
+            ]
+          }
+        },
+        "id": "827100694465257476",
+        "location": "People's Republic of China",
+        "name": "比特币教主",
+        "pinned_tweet_id": "1916180110165872913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734729586821435393/dLDEqq05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37275,
+          "following_count": 1440,
+          "like_count": 57,
+          "listed_count": 43,
+          "media_count": 1860,
+          "tweet_count": 5510
+        },
+        "username": "wyl2035",
+        "verified": true
+      }
+    ]
+  }
+}

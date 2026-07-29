@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980098681891389937",
+    "created_at": "2025-10-20T03:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T04:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980106837887467922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1496891009195810823",
+          "start": 0,
+          "username": "magician_cai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980106837887467922",
+    "in_reply_to_user_id": "1496891009195810823",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980098681891389937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magician_cai 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1980098344144838656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3q48_cXoAAr9cB.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980098681891389937",
+        "created_at": "2025-10-20T03:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980106837887467922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1496891009195810823",
+              "start": 0,
+              "username": "magician_cai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980106837887467922",
+        "in_reply_to_user_id": "1496891009195810823",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980098681891389937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magician_cai 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980098344144838656"
+          ]
+        },
+        "author_id": "1496891009195810823",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1980098681891389937",
+        "created_at": "2025-10-20T02:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980098681891389937"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "BSC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAjToyTIDW",
+              "end": 114,
+              "expanded_url": "https://x.com/magician_cai/status/1980098681891389937/photo/1",
+              "media_key": "3_1980098344144838656",
+              "start": 91,
+              "url": "https://t.co/cAjToyTIDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980098681891389937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 532,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我就是消失的魔术师蔡威泽，周杰伦给了我10个BTC\n但是1011我爆仓了，V我50助我东山再起  \n\n10月20日晚上10点发币，给周杰伦还钱！\n\n留下 $BSC 地址，一键三连！ https://t.co/cAjToyTIDW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 459,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 172
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T16:53:31.000Z",
+        "description": "我就是消失的魔术师蔡威泽，周杰伦给了我10个BTC，但是我1011爆仓破产了，V我50助我东山再起\n\n10月20日晚上10点发币，给周杰伦还钱！",
+        "id": "1496891009195810823",
+        "location": "Taiwan",
+        "name": "魔术师",
+        "pinned_tweet_id": "1976301742565347837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979937016688078849/1UuAs7aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23981,
+          "following_count": 19,
+          "like_count": 541,
+          "listed_count": 19,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "magician_cai",
+        "verified": true
+      }
+    ]
+  }
+}

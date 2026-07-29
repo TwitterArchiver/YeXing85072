@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990216621168922624"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1990216628534235434",
+    "created_at": "2025-11-17T00:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990216628534235434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vITY6GzP2V",
+          "end": 64,
+          "expanded_url": "https://x.com/YeXing85072/status/1990216628534235434/photo/1",
+          "media_key": "3_1990216621168922624",
+          "start": 41,
+          "url": "https://t.co/vITY6GzP2V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990216628534235434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨日社区收益表，周六周末没行情，不过泉哥说了找回踩ma30山寨做多，确实仍在盈利 https://t.co/vITY6GzP2V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_1990216621168922624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G56reOraEAAjluw.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990216621168922624"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1990216628534235434",
+        "created_at": "2025-11-17T00:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990216628534235434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vITY6GzP2V",
+              "end": 64,
+              "expanded_url": "https://x.com/YeXing85072/status/1990216628534235434/photo/1",
+              "media_key": "3_1990216621168922624",
+              "start": 41,
+              "url": "https://t.co/vITY6GzP2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990216628534235434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨日社区收益表，周六周末没行情，不过泉哥说了找回踩ma30山寨做多，确实仍在盈利 https://t.co/vITY6GzP2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 507,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 315
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

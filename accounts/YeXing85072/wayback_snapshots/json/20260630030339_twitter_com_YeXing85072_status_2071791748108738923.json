@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071791735383212032",
+        "3_2071791735559340032",
+        "3_2071791735173443585",
+        "3_2071791735169339392"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "2071791748108738923",
+    "created_at": "2026-06-30T03:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071791748108738923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W9BXyul0YD",
+          "end": 27,
+          "expanded_url": "https://x.com/YeXing85072/status/2071791748108738923/photo/1",
+          "media_key": "3_2071791735383212032",
+          "start": 4,
+          "url": "https://t.co/W9BXyul0YD"
+        },
+        {
+          "display_url": "pic.x.com/W9BXyul0YD",
+          "end": 27,
+          "expanded_url": "https://x.com/YeXing85072/status/2071791748108738923/photo/1",
+          "media_key": "3_2071791735559340032",
+          "start": 4,
+          "url": "https://t.co/W9BXyul0YD"
+        },
+        {
+          "display_url": "pic.x.com/W9BXyul0YD",
+          "end": 27,
+          "expanded_url": "https://x.com/YeXing85072/status/2071791748108738923/photo/1",
+          "media_key": "3_2071791735173443585",
+          "start": 4,
+          "url": "https://t.co/W9BXyul0YD"
+        },
+        {
+          "display_url": "pic.x.com/W9BXyul0YD",
+          "end": 27,
+          "expanded_url": "https://x.com/YeXing85072/status/2071791748108738923/photo/1",
+          "media_key": "3_2071791735169339392",
+          "start": 4,
+          "url": "https://t.co/W9BXyul0YD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071791748108738923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦牛逼 https://t.co/W9BXyul0YD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071791735383212032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB7m0QbQAAIMMj.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071791735559340032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB7m06awAAd1cF.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071791735173443585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB7mzeacAEzBvd.jpg",
+        "width": 472
+      },
+      {
+        "height": 924,
+        "media_key": "3_2071791735169339392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB7mzdb0AAH4Xe.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071791735383212032",
+            "3_2071791735559340032",
+            "3_2071791735173443585",
+            "3_2071791735169339392"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "2071791748108738923",
+        "created_at": "2026-06-30T03:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071791748108738923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9BXyul0YD",
+              "end": 27,
+              "expanded_url": "https://x.com/YeXing85072/status/2071791748108738923/photo/1",
+              "media_key": "3_2071791735383212032",
+              "start": 4,
+              "url": "https://t.co/W9BXyul0YD"
+            },
+            {
+              "display_url": "pic.x.com/W9BXyul0YD",
+              "end": 27,
+              "expanded_url": "https://x.com/YeXing85072/status/2071791748108738923/photo/1",
+              "media_key": "3_2071791735559340032",
+              "start": 4,
+              "url": "https://t.co/W9BXyul0YD"
+            },
+            {
+              "display_url": "pic.x.com/W9BXyul0YD",
+              "end": 27,
+              "expanded_url": "https://x.com/YeXing85072/status/2071791748108738923/photo/1",
+              "media_key": "3_2071791735173443585",
+              "start": 4,
+              "url": "https://t.co/W9BXyul0YD"
+            },
+            {
+              "display_url": "pic.x.com/W9BXyul0YD",
+              "end": 27,
+              "expanded_url": "https://x.com/YeXing85072/status/2071791748108738923/photo/1",
+              "media_key": "3_2071791735169339392",
+              "start": 4,
+              "url": "https://t.co/W9BXyul0YD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071791748108738923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦牛逼 https://t.co/W9BXyul0YD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 640,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

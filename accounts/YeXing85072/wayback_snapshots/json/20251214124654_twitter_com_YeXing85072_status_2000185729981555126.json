@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "2000185729981555126",
+    "created_at": "2025-12-14T12:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000185729981555126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000185729981555126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999867538549948896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 社区里面我很少说牛熊，只讲短期涨跌，大周期对现有的交易频率来说作用不大，但是大周期该讲的，还是要简单说下。\n我对过去、当前及未来的比特币周期进行一次回顾和前瞻。\n2020-2021年牛市过程： 市场快速拉升，斜率陡峭，体现了早期加密市场特有的爆…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1999867521445617664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D06j2bYAAUHLU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "2000185729981555126",
+        "created_at": "2025-12-14T12:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000185729981555126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000185729981555126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999867538549948896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 社区里面我很少说牛熊，只讲短期涨跌，大周期对现有的交易频率来说作用不大，但是大周期该讲的，还是要简单说下。\n我对过去、当前及未来的比特币周期进行一次回顾和前瞻。\n2020-2021年牛市过程： 市场快速拉升，斜率陡峭，体现了早期加密市场特有的爆…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999867521445617664"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "conversation_id": "1999867538549948896",
+        "created_at": "2025-12-13T15:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999867538549948896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBMCx3sqoP",
+              "end": 174,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1999867538549948896/photo/1",
+              "media_key": "3_1999867521445617664",
+              "start": 151,
+              "url": "https://t.co/aBMCx3sqoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999867538549948896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "社区里面我很少说牛熊，只讲短期涨跌，大周期对现有的交易频率来说作用不大，但是大周期该讲的，还是要简单说下。\n我对过去、当前及未来的比特币周期进行一次回顾和前瞻。\n2020-2021年牛市过程： 市场快速拉升，斜率陡峭，体现了早期加密市场特有的爆发式增长和高波动性。\n2021年末-2022年熊市过程： 随后出现的是大幅度、快速的调整，即图中橙色方框所示，市场回调深度大，持续时间相对较短。\n2022-2026年：当前周期正在运行的牛市结构，核心特征是时间足够长，上升稳健。这意味比特币正在从投机资产向成熟资产过渡。\n\n我个人两个重要的观点\n1.随着比特币市值增大、市场深度加深，未来牛市的涨幅斜率将变得更平缓。这意味着牛市的持续时间会拉长，市场上涨将是更具韧性、更稳健的慢牛行情。\n2.在下一次熊市中，抛售的深度（振幅）和时间将大幅减少。机构资金的涌入和更高的市场底线将提供更强大的支撑，使未来的回调更像是高位横盘整理，而非灾难性的崩盘。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社区里面我很少说牛熊，只讲短期涨跌，大周期对现有的交易频率来说作用不大，但是大周期该讲的，还是要简单说下。\n我对过去、当前及未来的比特币周期进行一次回顾和前瞻。\n2020-2021年牛市过程： 市场快速拉升，斜率陡峭，体现了早期加密市场特有的爆发式增长和高波动性。\n2021年末-2022年熊市过程： https://t.co/aBMCx3sqoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 531,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "五年行业经验，二级交易员，擅长捕抓各类多空信号，精准把握趋势方向，社区群里每单都有记录，战绩可查，低倍杠杆十倍二十倍回报常有，这是抓住趋势的魅力。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvN0VL"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 61,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/A5fdBvN0VL",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

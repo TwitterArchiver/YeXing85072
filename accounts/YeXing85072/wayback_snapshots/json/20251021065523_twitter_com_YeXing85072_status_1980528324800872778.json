@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980380574666625024"
+      ],
+      "media_source_tweet_id": [
+        "1980380579964268978"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1468157909318045697",
+          "name": "Solana cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1468157909318045697",
+          "name": "Solana cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1980528324800872778",
+    "created_at": "2025-10-21T06:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980528324800872778"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "SOL",
+          "probability": 0.4503,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "cashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "SOL"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1475554155271970818",
+          "start": 3,
+          "username": "crypto_pump00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9mkeBLGbDh",
+          "end": 116,
+          "expanded_url": "https://x.com/crypto_pump00/status/1980380579964268978/photo/1",
+          "media_key": "3_1980380574666625024",
+          "start": 93,
+          "url": "https://t.co/9mkeBLGbDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980528324800872778",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980380579964268978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crypto_pump00: Drop your $SOL address 👇\n\nI will send you $15,500 in 24h❤\n\nRT and Follow🔥 https://t.co/9mkeBLGbDh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_1980380574666625024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3u5o-EWkAADOD8.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980380574666625024"
+          ],
+          "media_source_tweet_id": [
+            "1980380579964268978"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1980528324800872778",
+        "created_at": "2025-10-21T06:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980528324800872778"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "SOL",
+              "probability": 0.4503,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "SOL"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1475554155271970818",
+              "start": 3,
+              "username": "crypto_pump00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mkeBLGbDh",
+              "end": 116,
+              "expanded_url": "https://x.com/crypto_pump00/status/1980380579964268978/photo/1",
+              "media_key": "3_1980380574666625024",
+              "start": 93,
+              "url": "https://t.co/9mkeBLGbDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980528324800872778",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980380579964268978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crypto_pump00: Drop your $SOL address 👇\n\nI will send you $15,500 in 24h❤\n\nRT and Follow🔥 https://t.co/9mkeBLGbDh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980380574666625024"
+          ]
+        },
+        "author_id": "1475554155271970818",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1980380579964268978",
+        "created_at": "2025-10-20T21:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T22:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980380579964268978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "SOL",
+              "probability": 0.4061,
+              "start": 11,
+              "type": "Organization"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "SOL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mkeBLGbDh",
+              "end": 97,
+              "expanded_url": "https://x.com/crypto_pump00/status/1980380579964268978/photo/1",
+              "media_key": "3_1980380574666625024",
+              "start": 74,
+              "url": "https://t.co/9mkeBLGbDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980380579964268978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3687,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 120,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "Drop your $SOL address 👇\n\nI will send you $15,500 in 24h❤\n\nRT and Follow🔥 https://t.co/9mkeBLGbDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 464,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 186
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-27T19:48:50.000Z",
+        "description": "",
+        "id": "1475554155271970818",
+        "name": "Crypto Pump",
+        "pinned_tweet_id": "1979491688277275097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661428733801103368/pvdXVseF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83602,
+          "following_count": 15,
+          "like_count": 20,
+          "listed_count": 39,
+          "media_count": 41,
+          "tweet_count": 63
+        },
+        "username": "crypto_pump00",
+        "verified": true
+      }
+    ]
+  }
+}

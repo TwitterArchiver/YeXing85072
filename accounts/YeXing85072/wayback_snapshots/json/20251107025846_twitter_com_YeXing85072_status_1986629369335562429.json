@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1986624801591709781",
+    "created_at": "2025-11-07T02:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T03:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986629369335562429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1626084307226988546",
+          "start": 0,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986629369335562429",
+    "in_reply_to_user_id": "1626084307226988546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986624801591709781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pilgrim_wyl 哥说的都是真话，币圈太多虚伪的自认真诚者"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986624792301355008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5HouRcbQAAhGzJ.jpg",
+        "width": 1037
+      },
+      {
+        "height": 2248,
+        "media_key": "3_1986624798043348993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Houm1bIAEREl8.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1986624801591709781",
+        "created_at": "2025-11-07T02:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986629369335562429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626084307226988546",
+              "start": 0,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986629369335562429",
+        "in_reply_to_user_id": "1626084307226988546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986624801591709781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pilgrim_wyl 哥说的都是真话，币圈太多虚伪的自认真诚者"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986624792301355008",
+            "3_1986624798043348993"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "conversation_id": "1986624801591709781",
+        "created_at": "2025-11-07T02:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986624801591709781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "只用实力说话"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRl8TObycm",
+              "end": 163,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1986624801591709781/photo/1",
+              "media_key": "3_1986624792301355008",
+              "start": 140,
+              "url": "https://t.co/bRl8TObycm"
+            },
+            {
+              "display_url": "pic.x.com/bRl8TObycm",
+              "end": 163,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1986624801591709781/photo/1",
+              "media_key": "3_1986624798043348993",
+              "start": 140,
+              "url": "https://t.co/bRl8TObycm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986624801591709781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#只用实力说话 第1期\n隔壁社区开50倍吃两三个点就嗷嗷叫，半个月吃到一次十几个点的单就要吹上天。那么，我几天就吃到一个50个点幅度的单，怎么没人来，怎么没人看呢，带你赚钱还TM看不起，非要给别人割?某些收费群，天天消息币，说五个币四个归零，就这种煞笔你还帮他说话，还盈亏自负? https://t.co/bRl8TObycm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 500,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 284
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

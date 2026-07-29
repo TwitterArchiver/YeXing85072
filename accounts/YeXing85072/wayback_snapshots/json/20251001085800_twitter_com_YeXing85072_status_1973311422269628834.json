@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973311415277834240",
+        "3_1973311415273529345",
+        "3_1973311415298695173"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1973311422269628834",
+    "created_at": "2025-10-01T08:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T09:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973311422269628834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwns6OPgaR",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1973311422269628834/photo/1",
+          "media_key": "3_1973311415277834240",
+          "start": 0,
+          "url": "https://t.co/kwns6OPgaR"
+        },
+        {
+          "display_url": "pic.x.com/kwns6OPgaR",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1973311422269628834/photo/1",
+          "media_key": "3_1973311415273529345",
+          "start": 0,
+          "url": "https://t.co/kwns6OPgaR"
+        },
+        {
+          "display_url": "pic.x.com/kwns6OPgaR",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1973311422269628834/photo/1",
+          "media_key": "3_1973311415298695173",
+          "start": 0,
+          "url": "https://t.co/kwns6OPgaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973311422269628834",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kwns6OPgaR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973311415277834240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KcRvLb0AAhyPx.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973311415273529345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KcRvKaIAEbWX5.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973311415298695173",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KcRvQaIAUfyY8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973311415277834240",
+            "3_1973311415273529345",
+            "3_1973311415298695173"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1973311422269628834",
+        "created_at": "2025-10-01T08:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T09:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973311422269628834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwns6OPgaR",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1973311422269628834/photo/1",
+              "media_key": "3_1973311415277834240",
+              "start": 0,
+              "url": "https://t.co/kwns6OPgaR"
+            },
+            {
+              "display_url": "pic.x.com/kwns6OPgaR",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1973311422269628834/photo/1",
+              "media_key": "3_1973311415273529345",
+              "start": 0,
+              "url": "https://t.co/kwns6OPgaR"
+            },
+            {
+              "display_url": "pic.x.com/kwns6OPgaR",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1973311422269628834/photo/1",
+              "media_key": "3_1973311415298695173",
+              "start": 0,
+              "url": "https://t.co/kwns6OPgaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973311422269628834",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kwns6OPgaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 311,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 49
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

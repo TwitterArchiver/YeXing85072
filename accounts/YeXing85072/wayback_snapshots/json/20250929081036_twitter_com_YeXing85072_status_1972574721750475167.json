@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1972483779232153964",
+    "created_at": "2025-09-29T08:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T09:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972574721750475167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1358783067939213317",
+          "start": 0,
+          "username": "hiiragiakaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972574721750475167",
+    "in_reply_to_user_id": "1358783067939213317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972483779232153964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiiragiakaren 有点手抖，吃点维b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13345,
+        "height": 1280,
+        "media_key": "7_1972483704582029312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1972483704582029312/pu/img/FzrBVX4YTPmJjB0a.jpg",
+        "public_metrics": {
+          "view_count": 445
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483704582029312/pu/vid/avc1/320x568/g-8uaxSAYbeNx8Oe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483704582029312/pu/vid/avc1/480x852/cRnQmn3OvrWQ24Q4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483704582029312/pu/vid/avc1/720x1280/vVPOa57ytCHrNZm9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1972483704582029312/pu/pl/yEn6rbfuNP1Uy7t4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 27300,
+        "height": 1280,
+        "media_key": "7_1972483721002635264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1972483721002635264/pu/img/ae1kuwfHiETw-vVr.jpg",
+        "public_metrics": {
+          "view_count": 105
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483721002635264/pu/vid/avc1/320x568/0T4qrtwbGuJtK0LY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483721002635264/pu/vid/avc1/480x852/Zx905AGKrIb7Vd3i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483721002635264/pu/vid/avc1/720x1280/TPMdv6b5xDUDXrzu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1972483721002635264/pu/pl/ZNaU-isIpTUci4Ag.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 19818,
+        "height": 1280,
+        "media_key": "7_1972483734411804672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1972483734411804672/pu/img/idUbaLwXRh6ucqbt.jpg",
+        "public_metrics": {
+          "view_count": 112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483734411804672/pu/vid/avc1/320x568/HH8ZOvDSj8feK4_I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483734411804672/pu/vid/avc1/480x852/6Hgzt0LFKIUnyd4i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972483734411804672/pu/vid/avc1/720x1280/3L-asJrUiFM82j5l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1972483734411804672/pu/pl/i-Z7SqRlRDPWhdAD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1972483779232153964",
+        "created_at": "2025-09-29T08:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972574721750475167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1358783067939213317",
+              "start": 0,
+              "username": "hiiragiakaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972574721750475167",
+        "in_reply_to_user_id": "1358783067939213317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972483779232153964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiiragiakaren 有点手抖，吃点维b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1972483704582029312",
+            "7_1972483721002635264",
+            "7_1972483734411804672"
+          ]
+        },
+        "author_id": "1358783067939213317",
+        "conversation_id": "1972483779232153964",
+        "created_at": "2025-09-29T02:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972483779232153964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RPmWdb36R",
+              "end": 30,
+              "expanded_url": "https://x.com/hiiragiakaren/status/1972483779232153964/video/1",
+              "media_key": "7_1972483704582029312",
+              "start": 7,
+              "url": "https://t.co/7RPmWdb36R"
+            },
+            {
+              "display_url": "pic.x.com/7RPmWdb36R",
+              "end": 30,
+              "expanded_url": "https://x.com/hiiragiakaren/status/1972483779232153964/video/1",
+              "media_key": "7_1972483721002635264",
+              "start": 7,
+              "url": "https://t.co/7RPmWdb36R"
+            },
+            {
+              "display_url": "pic.x.com/7RPmWdb36R",
+              "end": 30,
+              "expanded_url": "https://x.com/hiiragiakaren/status/1972483779232153964/video/1",
+              "media_key": "7_1972483734411804672",
+              "start": 7,
+              "url": "https://t.co/7RPmWdb36R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972483779232153964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1680,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下坠下坠下坠 https://t.co/7RPmWdb36R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 293,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 33
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T14:22:09.000Z",
+        "description": "🚪88/188/588/1888/5888/18888｜好友 纯绿 半绿 非绿 性奴 结婚｜🉑接线下~",
+        "id": "1358783067939213317",
+        "location": "極樂桃源鄉",
+        "name": "柊赤蓮",
+        "pinned_tweet_id": "1955656089468543399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967167776688340992/BbzSgSqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1185,
+          "like_count": 10261,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2991
+        },
+        "username": "hiiragiakaren",
+        "verified": false
+      }
+    ]
+  }
+}

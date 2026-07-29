@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1982305764078444767",
+    "created_at": "2025-10-26T04:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T05:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982305764078444767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735700650472955904",
+          "start": 3,
+          "username": "ErQiu8013"
+        },
+        {
+          "end": 59,
+          "id": "1959978816430022656",
+          "start": 46,
+          "username": "gui_hei58942"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/1m5IU",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/1m5IU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982305764078444767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981992525930885323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ErQiu8013: 鸟币价格涨了。币数量降低。要空投的按这个空投数量来\n\n1.关注@gui_hei58942\n2.关注本人\n3.转发本条推特\n（必须完成3个任务才会收到空投，我会逐一核对）\n\n留bnb地址。空投66666666鸟币 https://t.co/1m5IU…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 152,
+        "media_key": "3_1981992523569516544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FzsvrXUAAJhIH.jpg",
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1982305764078444767",
+        "created_at": "2025-10-26T04:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982305764078444767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735700650472955904",
+              "start": 3,
+              "username": "ErQiu8013"
+            },
+            {
+              "end": 59,
+              "id": "1959978816430022656",
+              "start": 46,
+              "username": "gui_hei58942"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/1m5IU",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/1m5IU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982305764078444767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981992525930885323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ErQiu8013: 鸟币价格涨了。币数量降低。要空投的按这个空投数量来\n\n1.关注@gui_hei58942\n2.关注本人\n3.转发本条推特\n（必须完成3个任务才会收到空投，我会逐一核对）\n\n留bnb地址。空投66666666鸟币 https://t.co/1m5IU…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981992523569516544"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "conversation_id": "1981992525930885323",
+        "created_at": "2025-10-25T07:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981992525930885323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1959978816430022656",
+              "start": 31,
+              "username": "gui_hei58942"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1m5IUWxPOT",
+              "end": 129,
+              "expanded_url": "https://x.com/ErQiu8013/status/1981992525930885323/photo/1",
+              "media_key": "3_1981992523569516544",
+              "start": 106,
+              "url": "https://t.co/1m5IUWxPOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981992525930885323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2180,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 93,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "鸟币价格涨了。币数量降低。要空投的按这个空投数量来\n\n1.关注@gui_hei58942\n2.关注本人\n3.转发本条推特\n（必须完成3个任务才会收到空投，我会逐一核对）\n\n留bnb地址。空投66666666鸟币 https://t.co/1m5IUWxPOT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 488,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 231
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "初音ミク/後藤 ひとり/葬送のフリーレン/Cyberpunk: Edgerunners/よふかしのうた/進撃の巨人/86，eva，……/genshin，hsr\n   薬物⚠️，低能量⚠️，日常/欢迎互fo\n拿空投投shi致歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Iri023r",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/Iri023r",
+                "start": 0,
+                "url": "https://t.co/Azm3By4Bns"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "垃圾场",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "1981992525930885323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1686,
+          "like_count": 22415,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 4369
+        },
+        "url": "https://t.co/Azm3By4Bns",
+        "username": "ErQiu8013",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T13:59:12.000Z",
+        "description": "17年入圈，三次去中心化。但是币圈是普通人唯一的机会。这次我一定能行！/（地推团队）一天1000➕真人地址/币安注册https://t.co/1g7ZDaTL0L商务对接，需要帮空投直接推特私聊我。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "accounts.maxweb.black/register?ref=1…",
+                "end": 81,
+                "expanded_url": "https://accounts.maxweb.black/register?ref=1163487739",
+                "start": 58,
+                "url": "https://t.co/1g7ZDaTL0L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jih.cc",
+                "end": 23,
+                "expanded_url": "http://jih.cc",
+                "start": 0,
+                "url": "https://t.co/ivhK4aSdgL"
+              }
+            ]
+          }
+        },
+        "id": "1959978816430022656",
+        "location": "Vila Chinesa, Mogi das Cruzes",
+        "name": "和尚",
+        "pinned_tweet_id": "1982292780102918470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972716280747589632/SSgWvj-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 560,
+          "like_count": 436,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/ivhK4aSdgL",
+        "username": "gui_hei58942",
+        "verified": true
+      }
+    ]
+  }
+}

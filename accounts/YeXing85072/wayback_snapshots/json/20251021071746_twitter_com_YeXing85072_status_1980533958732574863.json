@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980331162573894121",
+    "created_at": "2025-10-21T07:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980533958732574863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1935023975526187009",
+          "start": 0,
+          "username": "0xarkle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980533958732574863",
+    "in_reply_to_user_id": "1935023975526187009",
+    "lang": "fi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980331162573894121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xarkle 9SR9sWcSmfq2BZyAz952zHKSLFetxJatxX923fLrqJZw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_1980331160161959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3uMsqsXQAA9pgM.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980331162573894121",
+        "created_at": "2025-10-21T07:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980533958732574863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1935023975526187009",
+              "start": 0,
+              "username": "0xarkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980533958732574863",
+        "in_reply_to_user_id": "1935023975526187009",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980331162573894121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xarkle 9SR9sWcSmfq2BZyAz952zHKSLFetxJatxX923fLrqJZw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980331160161959936"
+          ]
+        },
+        "author_id": "1935023975526187009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1980331162573894121",
+        "created_at": "2025-10-20T17:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T18:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980331162573894121"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "SOL",
+              "probability": 0.5749,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "SOL",
+              "probability": 0.5589,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "SOL"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "SOL"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 94,
+              "id": "1935023975526187009",
+              "start": 86,
+              "username": "0xarkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m5tYn87KY7",
+              "end": 128,
+              "expanded_url": "https://x.com/0xarkle/status/1980331162573894121/photo/1",
+              "media_key": "3_1980331160161959936",
+              "start": 105,
+              "url": "https://t.co/m5tYn87KY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980331162573894121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1413,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 79,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "Every wallet Gets 1 $SOL\n\nJust drop your $SOL  address, RT ♻️ &amp; Like ❤️ 🔔 \nFollow @0xarkle\nFirst 800 https://t.co/m5tYn87KY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 477,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 215
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T17:17:41.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arklelab.xyz",
+                "end": 23,
+                "expanded_url": "http://arklelab.xyz",
+                "start": 0,
+                "url": "https://t.co/JoajEZsmZQ"
+              }
+            ]
+          }
+        },
+        "id": "1935023975526187009",
+        "location": "United States",
+        "name": "ARKLE",
+        "pinned_tweet_id": "1959858706184831141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951624031486332928/YaUpSps0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8184,
+          "following_count": 70,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/JoajEZsmZQ",
+        "username": "0xarkle",
+        "verified": true
+      }
+    ]
+  }
+}

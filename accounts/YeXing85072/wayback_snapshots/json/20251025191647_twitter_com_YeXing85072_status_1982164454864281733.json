@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1981690208308560356",
+    "created_at": "2025-10-25T19:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T20:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982164454864281733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "755471561566646272",
+          "start": 0,
+          "username": "shengqingweb3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982164454864281733",
+    "in_reply_to_user_id": "755471561566646272",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981690208308560356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengqingweb3 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1981689994390511616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BgjOqXoAAN23F.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1981690208308560356",
+        "created_at": "2025-10-25T19:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T20:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982164454864281733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "755471561566646272",
+              "start": 0,
+              "username": "shengqingweb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982164454864281733",
+        "in_reply_to_user_id": "755471561566646272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981690208308560356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengqingweb3 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981689994390511616"
+          ]
+        },
+        "author_id": "755471561566646272",
+        "conversation_id": "1981690208308560356",
+        "created_at": "2025-10-24T11:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981690208308560356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cf5KpEqF7U",
+              "end": 118,
+              "expanded_url": "https://x.com/shengqingweb3/status/1981690208308560356/photo/1",
+              "media_key": "3_1981689994390511616",
+              "start": 95,
+              "url": "https://t.co/cf5KpEqF7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981690208308560356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 34714,
+          "like_count": 561,
+          "quote_count": 5,
+          "reply_count": 601,
+          "retweet_count": 514
+        },
+        "reply_settings": "everyone",
+        "text": "币圈无情，人间有爱  \n这次阳光普照 1000U 资助 10人，每人 100U  \n参与方式： 点赞，转发本条推文 关注我的账号，留下你的bsc地址  \n10.24号开始，11.11号开奖 https://t.co/cf5KpEqF7U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 487,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 229
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-19T18:37:11.000Z",
+        "description": "记录开合约，打金狗的日常。无任何投资建议\n私信一般不回\n合作TG:https://t.co/jgzxYpmB1c\n微信：Shenqingwbe3\ngate返佣40%:https://t.co/K8bLWyh1U5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/shengqingweb3",
+                "end": 56,
+                "expanded_url": "https://t.me/shengqingweb3",
+                "start": 33,
+                "url": "https://t.co/jgzxYpmB1c"
+              },
+              {
+                "display_url": "gateweb.store/share/BAOFUBOT",
+                "end": 106,
+                "expanded_url": "https://www.gateweb.store/share/BAOFUBOT",
+                "start": 83,
+                "url": "https://t.co/K8bLWyh1U5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gateweb.store/share/BAOFUBOT",
+                "end": 23,
+                "expanded_url": "https://www.gateweb.store/share/BAOFUBOT",
+                "start": 0,
+                "url": "https://t.co/K8bLWyh1U5"
+              }
+            ]
+          }
+        },
+        "id": "755471561566646272",
+        "location": "gate返佣40%",
+        "name": "深情wbe3",
+        "pinned_tweet_id": "1980903380190175560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978304574382645248/kwfD7Dj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26341,
+          "following_count": 371,
+          "like_count": 168,
+          "listed_count": 13,
+          "media_count": 90,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/K8bLWyh1U5",
+        "username": "shengqingweb3",
+        "verified": true
+      }
+    ]
+  }
+}

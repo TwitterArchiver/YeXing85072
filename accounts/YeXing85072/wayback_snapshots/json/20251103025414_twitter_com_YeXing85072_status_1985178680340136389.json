@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1985178680340136389",
+    "created_at": "2025-11-03T02:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T03:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985178680340136389"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "BTC插针反弹后"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985178680340136389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984779479718510666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 早间分析\n＃BTC插针反弹后，稳住了跌势开启横盘，昨天振幅1.1%，开启不当人横盘模式，这时候机会在山寨身上。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1985178680340136389",
+        "created_at": "2025-11-03T02:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T03:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985178680340136389"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "BTC插针反弹后"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985178680340136389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984779479718510666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 早间分析\n＃BTC插针反弹后，稳住了跌势开启横盘，昨天振幅1.1%，开启不当人横盘模式，这时候机会在山寨身上。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626084307226988546",
+        "conversation_id": "1984779479718510666",
+        "created_at": "2025-11-02T00:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T01:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984779479718510666"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "BTC插针反弹后"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984779479718510666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 5,
+                "tag": "BTC插针反弹后"
+              },
+              {
+                "end": 251,
+                "start": 238,
+                "tag": "ETH守住3810上方后"
+              }
+            ]
+          },
+          "text": "早间分析\n＃BTC插针反弹后，稳住了跌势开启横盘，昨天振幅1.1%，开启不当人横盘模式，这时候机会在山寨身上。\n接下来怎么看：风险释放后转为横盘，由于又缝周末，更多的是山寨的机会，还是那句话周末主流横住，山寨就是做多性价比高，挑ma30的币种去开多，简单不难。日内合约主流比较难做，先观望，走出一段区间后再操作。\n小级别压制111750\n大级别压制116000\n第一支撑位105000-106000\n第二支撑位101000\n操作建议：依旧撑压位挂多空，中间位置建议不要操作，\n＃ETH守住3810上方后，和BTC一样转为横盘，昨日振幅2%。\n接下来怎么看：守住3810上方暂时不看坏，但是反弹依旧无力，和昨日看法一样在3810-3940区间震荡概率比较大，ETH上方压制重重，不会轻易涨很多。\n小级别压制3940\n大级别压制4085\n第一支撑位3650\n第二支撑位3405\n操作建议：看法和昨日不变，价格到3810-3940区间上下沿盯盘做，撑压位可以挂多空。\n\n补充：记住泉哥说的话，周末主流横盘时山寨做多性价比高。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "早间分析\n＃BTC插针反弹后，稳住了跌势开启横盘，昨天振幅1.1%，开启不当人横盘模式，这时候机会在山寨身上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 500,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 261
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

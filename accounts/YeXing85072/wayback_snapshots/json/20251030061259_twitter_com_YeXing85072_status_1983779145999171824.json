@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1983405141182296158",
+    "created_at": "2025-10-30T06:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T07:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983779145999171824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897822740167688192",
+          "start": 0,
+          "username": "oJn1tMEkGC5376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983779145999171824",
+    "in_reply_to_user_id": "1897822740167688192",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983405141182296158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oJn1tMEkGC5376 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1983405138472849408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Z4dwRb0AA9w-s.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1983405141182296158",
+        "created_at": "2025-10-30T06:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983779145999171824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897822740167688192",
+              "start": 0,
+              "username": "oJn1tMEkGC5376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983779145999171824",
+        "in_reply_to_user_id": "1897822740167688192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983405141182296158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oJn1tMEkGC5376 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983405138472849408"
+          ]
+        },
+        "author_id": "1897822740167688192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983405141182296158",
+        "created_at": "2025-10-29T05:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T06:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983405141182296158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWYiMd50yU",
+              "end": 83,
+              "expanded_url": "https://x.com/oJn1tMEkGC5376/status/1983405141182296158/photo/1",
+              "media_key": "3_1983405138472849408",
+              "start": 60,
+              "url": "https://t.co/xWYiMd50yU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983405141182296158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 46841,
+          "like_count": 376,
+          "quote_count": 10,
+          "reply_count": 643,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "随机空投1piece代币，有bsc钱包的快来领取，之前领过的就不要重复来领，牛市来了给大家一波福利，一起翻身上岸😁😁😁 https://t.co/xWYiMd50yU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 495,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 239
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T01:33:09.000Z",
+        "description": "路飞社区的建设者，1piece的推动者，加密数字货币的爱好者\n1piece ca:0xf263cc32caed261a819713f3dcc494a96c3e5111\n\nluffy ca:0xfac78bfcf76051c64d891de1a830472766a77777",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.share11.top/OnePieceGlobal…",
+                "end": 23,
+                "expanded_url": "http://s.share11.top/OnePieceGlobalCommunity",
+                "start": 0,
+                "url": "https://t.co/GR6vOh0HDU"
+              }
+            ]
+          }
+        },
+        "id": "1897822740167688192",
+        "name": "妮妮·LUFFY",
+        "pinned_tweet_id": "1919909781562916927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974334570855337984/ruiH1jS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 234,
+          "like_count": 3831,
+          "listed_count": 1,
+          "media_count": 822,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/GR6vOh0HDU",
+        "username": "oJn1tMEkGC5376",
+        "verified": false
+      }
+    ]
+  }
+}

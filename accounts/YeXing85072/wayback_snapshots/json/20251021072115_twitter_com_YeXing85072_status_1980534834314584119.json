@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980534834314584119",
+    "created_at": "2025-10-21T07:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980534834314584119"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "RVV"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980534834314584119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979788163876020406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: #RVV\n一开始很好的局面，就是消息不对称搞的，社区这单基本没啥损失，止损点位也小。消息不对称时候都通知社区直接离场，紧接着后面直接停止alpha现货交易，合约暴跌。\n因为每一单社区都有跟踪，所以每一次都不要盲目抗单瞎操作，不然就算我们有80%…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980534834314584119",
+        "created_at": "2025-10-21T07:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980534834314584119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "RVV"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980534834314584119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979788163876020406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: #RVV\n一开始很好的局面，就是消息不对称搞的，社区这单基本没啥损失，止损点位也小。消息不对称时候都通知社区直接离场，紧接着后面直接停止alpha现货交易，合约暴跌。\n因为每一单社区都有跟踪，所以每一次都不要盲目抗单瞎操作，不然就算我们有80%…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626084307226988546",
+        "conversation_id": "1979788163876020406",
+        "created_at": "2025-10-19T05:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T06:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979788163876020406"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "RVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979788163876020406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#RVV\n一开始很好的局面，就是消息不对称搞的，社区这单基本没啥损失，止损点位也小。消息不对称时候都通知社区直接离场，紧接着后面直接停止alpha现货交易，合约暴跌。\n因为每一单社区都有跟踪，所以每一次都不要盲目抗单瞎操作，不然就算我们有80%胜率，你也会死在20%的偏差中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 477,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 222
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 66,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

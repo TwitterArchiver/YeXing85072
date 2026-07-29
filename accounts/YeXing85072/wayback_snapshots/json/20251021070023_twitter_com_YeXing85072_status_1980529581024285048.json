@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980239801619214657",
+    "created_at": "2025-10-21T07:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980529581024285048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "921153024105631745",
+          "start": 0,
+          "username": "amonbuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980529581024285048",
+    "in_reply_to_user_id": "921153024105631745",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980239801619214657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amonbuy 25\n\n0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_1980239796392869888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3s5mmIWwAAya-s.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980239801619214657",
+        "created_at": "2025-10-21T07:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980529581024285048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "921153024105631745",
+              "start": 0,
+              "username": "amonbuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980529581024285048",
+        "in_reply_to_user_id": "921153024105631745",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980239801619214657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amonbuy 25\n\n0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980239796392869888"
+          ]
+        },
+        "author_id": "921153024105631745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1980239801619214657",
+        "created_at": "2025-10-20T11:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980239801619214657"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 271,
+              "normalized_text": "XRP",
+              "probability": 0.745,
+              "start": 269,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 272,
+              "start": 268,
+              "tag": "XRP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrGLY4GsLc",
+              "end": 298,
+              "expanded_url": "https://x.com/amonbuy/status/1980239801619214657/photo/1",
+              "media_key": "3_1980239796392869888",
+              "start": 275,
+              "url": "https://t.co/GrGLY4GsLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980239801619214657",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 55934,
+          "like_count": 544,
+          "quote_count": 7,
+          "reply_count": 759,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "💸🚨 Drop active! Select one number :\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n\nWinners get real $XRP 📦 https://t.co/GrGLY4GsLc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 469,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 197
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-19T23:16:09.000Z",
+        "description": "⚡ 100M+/week reach | Market Alpha & Early Signals Turning volatility into opportunity. Your edge in the chaos.",
+        "id": "921153024105631745",
+        "location": "𝕏 🌎",
+        "name": "Amonyx",
+        "pinned_tweet_id": "1842945199351448023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632875013438164993/HZyuZUCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113940,
+          "following_count": 360,
+          "like_count": 428947,
+          "listed_count": 158,
+          "media_count": 13343,
+          "tweet_count": 86411
+        },
+        "username": "amonbuy",
+        "verified": true
+      }
+    ]
+  }
+}

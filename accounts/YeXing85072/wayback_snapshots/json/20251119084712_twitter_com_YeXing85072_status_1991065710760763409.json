@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991065693685719041",
+        "3_1991065693681516544",
+        "3_1991065693694078976",
+        "3_1991065693673111552"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1991065710760763409",
+    "created_at": "2025-11-19T08:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991065710760763409"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "NIL"
+        },
+        {
+          "end": 12,
+          "start": 5,
+          "tag": "RESOLV"
+        },
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "SKYAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9yFfFNOHN",
+          "end": 93,
+          "expanded_url": "https://x.com/YeXing85072/status/1991065710760763409/photo/1",
+          "media_key": "3_1991065693685719041",
+          "start": 70,
+          "url": "https://t.co/L9yFfFNOHN"
+        },
+        {
+          "display_url": "pic.x.com/L9yFfFNOHN",
+          "end": 93,
+          "expanded_url": "https://x.com/YeXing85072/status/1991065710760763409/photo/1",
+          "media_key": "3_1991065693681516544",
+          "start": 70,
+          "url": "https://t.co/L9yFfFNOHN"
+        },
+        {
+          "display_url": "pic.x.com/L9yFfFNOHN",
+          "end": 93,
+          "expanded_url": "https://x.com/YeXing85072/status/1991065710760763409/photo/1",
+          "media_key": "3_1991065693694078976",
+          "start": 70,
+          "url": "https://t.co/L9yFfFNOHN"
+        },
+        {
+          "display_url": "pic.x.com/L9yFfFNOHN",
+          "end": 93,
+          "expanded_url": "https://x.com/YeXing85072/status/1991065710760763409/photo/1",
+          "media_key": "3_1991065693673111552",
+          "start": 70,
+          "url": "https://t.co/L9yFfFNOHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991065710760763409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "$NIL $RESOLV $SKYAI 今天早上四个激进单全部到达止盈位，泉哥说今天的机会很多，晚上有更多策略发布。有兴趣的进群私聊酷酷蟹 https://t.co/L9yFfFNOHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1991065693685719041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GvswSaoAEfdF5.jpg",
+        "width": 934
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1991065693681516544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GvswRagAA1JlZ.jpg",
+        "width": 934
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1991065693694078976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GvswUaMAAwNTp.jpg",
+        "width": 934
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1991065693673111552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GvswPaQAAoNT9.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991065693685719041",
+            "3_1991065693681516544",
+            "3_1991065693694078976",
+            "3_1991065693673111552"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991065710760763409",
+        "created_at": "2025-11-19T08:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991065710760763409"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "NIL"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "RESOLV"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "SKYAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9yFfFNOHN",
+              "end": 93,
+              "expanded_url": "https://x.com/YeXing85072/status/1991065710760763409/photo/1",
+              "media_key": "3_1991065693685719041",
+              "start": 70,
+              "url": "https://t.co/L9yFfFNOHN"
+            },
+            {
+              "display_url": "pic.x.com/L9yFfFNOHN",
+              "end": 93,
+              "expanded_url": "https://x.com/YeXing85072/status/1991065710760763409/photo/1",
+              "media_key": "3_1991065693681516544",
+              "start": 70,
+              "url": "https://t.co/L9yFfFNOHN"
+            },
+            {
+              "display_url": "pic.x.com/L9yFfFNOHN",
+              "end": 93,
+              "expanded_url": "https://x.com/YeXing85072/status/1991065710760763409/photo/1",
+              "media_key": "3_1991065693694078976",
+              "start": 70,
+              "url": "https://t.co/L9yFfFNOHN"
+            },
+            {
+              "display_url": "pic.x.com/L9yFfFNOHN",
+              "end": 93,
+              "expanded_url": "https://x.com/YeXing85072/status/1991065710760763409/photo/1",
+              "media_key": "3_1991065693673111552",
+              "start": 70,
+              "url": "https://t.co/L9yFfFNOHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991065710760763409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "$NIL $RESOLV $SKYAI 今天早上四个激进单全部到达止盈位，泉哥说今天的机会很多，晚上有更多策略发布。有兴趣的进群私聊酷酷蟹 https://t.co/L9yFfFNOHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 519,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 335
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

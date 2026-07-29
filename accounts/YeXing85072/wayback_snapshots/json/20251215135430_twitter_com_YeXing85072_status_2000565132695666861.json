@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "2000565132695666861",
+    "created_at": "2025-12-15T13:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000565132695666861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000565132695666861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000564765312307356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 🚨 全网首发：可能是目前唯一真正落地的社区级量化监控系统。\n\n做交易最痛苦的不是不懂技术，而是“肉眼盯不过来”。 经过数周的调试与实盘，澜泉社区自研的【全自动二级狙击机器人】正式上线。这不是那种乱喊单的垃圾脚本，而是基于我本人交易系统的完全代码…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2000564208371732480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NujE5bkAAqtO1.jpg",
+        "width": 934
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2000564249702309888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Nule3aIAAaaGq.jpg",
+        "width": 934
+      },
+      {
+        "height": 945,
+        "media_key": "3_2000564464673026048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Nux_sa8AAvvnt.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "2000565132695666861",
+        "created_at": "2025-12-15T13:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000565132695666861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000565132695666861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000564765312307356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 🚨 全网首发：可能是目前唯一真正落地的社区级量化监控系统。\n\n做交易最痛苦的不是不懂技术，而是“肉眼盯不过来”。 经过数周的调试与实盘，澜泉社区自研的【全自动二级狙击机器人】正式上线。这不是那种乱喊单的垃圾脚本，而是基于我本人交易系统的完全代码…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000564208371732480",
+            "3_2000564249702309888",
+            "3_2000564464673026048"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000564765312307356",
+        "created_at": "2025-12-15T13:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000564765312307356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbHz5GLwsL",
+              "end": 173,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/2000564765312307356/photo/1",
+              "media_key": "3_2000564208371732480",
+              "start": 150,
+              "url": "https://t.co/XbHz5GLwsL"
+            },
+            {
+              "display_url": "pic.x.com/XbHz5GLwsL",
+              "end": 173,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/2000564765312307356/photo/1",
+              "media_key": "3_2000564249702309888",
+              "start": 150,
+              "url": "https://t.co/XbHz5GLwsL"
+            },
+            {
+              "display_url": "pic.x.com/XbHz5GLwsL",
+              "end": 173,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/2000564765312307356/photo/1",
+              "media_key": "3_2000564464673026048",
+              "start": 150,
+              "url": "https://t.co/XbHz5GLwsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000564765312307356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 321,
+                "start": 317,
+                "tag": "BTC"
+              },
+              {
+                "end": 326,
+                "start": 322,
+                "tag": "ETH"
+              },
+              {
+                "end": 338,
+                "start": 327,
+                "tag": "TradingBot"
+              },
+              {
+                "end": 344,
+                "start": 339,
+                "tag": "量化交易"
+              },
+              {
+                "end": 350,
+                "start": 345,
+                "tag": "澜泉社区"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 315,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 292,
+                "url": "https://t.co/A5fdBvN0VL"
+              }
+            ]
+          },
+          "text": "🚨 全网首发：可能是目前唯一真正落地的社区级量化监控系统。\n\n做交易最痛苦的不是不懂技术，而是“肉眼盯不过来”。 经过数周的调试与实盘，澜泉社区自研的【全自动二级狙击机器人】正式上线。这不是那种乱喊单的垃圾脚本，而是基于我本人交易系统的完全代码化：\n\n✅ 三重共振过滤：4H趋势 + 15m形态 + 波动率VCP模型 ✅ 7x24小时监控：覆盖币安 600+ 币种，人类睡觉它干活 ✅ 实战数据：初步跑测胜率 70%以上，ARBUSDT +70%，GUNUSDT +170%（见图）\n\n机器筛选噪音，人工确认扣板机。这才是 Web3 社区该有的进化。\n\n👇 加入澜泉，拒绝无效盯盘。\nhttps://t.co/A5fdBvN0VL\n\n#BTC #ETH #TradingBot #量化交易 #澜泉社区"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 全网首发：可能是目前唯一真正落地的社区级量化监控系统。\n\n做交易最痛苦的不是不懂技术，而是“肉眼盯不过来”。 经过数周的调试与实盘，澜泉社区自研的【全自动二级狙击机器人】正式上线。这不是那种乱喊单的垃圾脚本，而是基于我本人交易系统的完全代码化：\n\n✅ 三重共振过滤：4H趋势 + 15m形态 + https://t.co/XbHz5GLwsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 534,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "五年行业经验，二级交易员，擅长捕抓各类多空信号，精准把握趋势方向，社区群里每单都有记录，战绩可查，低倍杠杆十倍二十倍回报常有，这是抓住趋势的魅力。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvN0VL"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 61,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/A5fdBvN0VL",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

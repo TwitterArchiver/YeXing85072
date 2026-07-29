@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980157714627252566",
+    "created_at": "2025-10-20T07:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T08:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980171800442290547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943168455769026560",
+          "start": 0,
+          "username": "YYDSelon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980171800442290547",
+    "in_reply_to_user_id": "1943168455769026560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980157714627252566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YYDSelon 感恩1174017882"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980157714627252566",
+        "created_at": "2025-10-20T07:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980171800442290547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943168455769026560",
+              "start": 0,
+              "username": "YYDSelon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980171800442290547",
+        "in_reply_to_user_id": "1943168455769026560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980157714627252566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YYDSelon 感恩1174017882"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943168455769026560",
+        "conversation_id": "1980157714627252566",
+        "created_at": "2025-10-20T06:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980157714627252566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980157714627252566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1274,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 104,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "留UID晚上抽bnb，想要的留言，机器人不送，随机0.1-0.2截止明天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 462,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 177
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T04:40:52.000Z",
+        "description": "投机创作者！炒币爱好者！不带单！不返佣！纯输出！",
+        "id": "1943168455769026560",
+        "name": "笑神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972556113733091328/JYzD5CMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5281,
+          "following_count": 20,
+          "like_count": 170,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 313
+        },
+        "username": "YYDSelon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979883656089874432"
+      ],
+      "media_source_tweet_id": [
+        "1979883663740580289"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980073540394352763",
+    "created_at": "2025-10-20T00:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980073540394352763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930997907207131137",
+          "start": 3,
+          "username": "Defi_nw1"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Valuable crypto airdrop",
+          "display_url": "4meme.site",
+          "end": 65,
+          "expanded_url": "http://4meme.site",
+          "start": 42,
+          "status": 200,
+          "title": "Airdrop",
+          "unwound_url": "https://4meme.site/",
+          "url": "https://t.co/zRP10taEV4"
+        },
+        {
+          "display_url": "pic.x.com/CgQSQILJma",
+          "end": 140,
+          "expanded_url": "https://x.com/Defi_nw1/status/1979883663740580289/photo/1",
+          "media_key": "3_1979883656089874432",
+          "start": 117,
+          "url": "https://t.co/CgQSQILJma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980073540394352763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979883663740580289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Defi_nw1: 币安实验室投资的因膜币 4MEME\n空投免费领取⬇️\n\nhttps://t.co/zRP10taEV4\n每天可以领取1⃣️0⃣️次\n11/1号开放 TEG\n\n评论BSC钱包\n一键三连\n抽 20U✖️20人 https://t.co/CgQSQILJma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_1979883656089874432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3n1sgHWsAABGlF.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979883656089874432"
+          ],
+          "media_source_tweet_id": [
+            "1979883663740580289"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980073540394352763",
+        "created_at": "2025-10-20T00:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980073540394352763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930997907207131137",
+              "start": 3,
+              "username": "Defi_nw1"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Valuable crypto airdrop",
+              "display_url": "4meme.site",
+              "end": 65,
+              "expanded_url": "http://4meme.site",
+              "start": 42,
+              "status": 200,
+              "title": "Airdrop",
+              "unwound_url": "https://4meme.site/",
+              "url": "https://t.co/zRP10taEV4"
+            },
+            {
+              "display_url": "pic.x.com/CgQSQILJma",
+              "end": 140,
+              "expanded_url": "https://x.com/Defi_nw1/status/1979883663740580289/photo/1",
+              "media_key": "3_1979883656089874432",
+              "start": 117,
+              "url": "https://t.co/CgQSQILJma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980073540394352763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979883663740580289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Defi_nw1: 币安实验室投资的因膜币 4MEME\n空投免费领取⬇️\n\nhttps://t.co/zRP10taEV4\n每天可以领取1⃣️0⃣️次\n11/1号开放 TEG\n\n评论BSC钱包\n一键三连\n抽 20U✖️20人 https://t.co/CgQSQILJma"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979883656089874432"
+          ]
+        },
+        "author_id": "1930997907207131137",
+        "conversation_id": "1979883663740580289",
+        "created_at": "2025-10-19T12:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979883663740580289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Valuable crypto airdrop",
+              "display_url": "4meme.site",
+              "end": 51,
+              "expanded_url": "http://4meme.site",
+              "start": 28,
+              "status": 200,
+              "title": "Airdrop",
+              "unwound_url": "https://4meme.site/",
+              "url": "https://t.co/zRP10taEV4"
+            },
+            {
+              "display_url": "pic.x.com/CgQSQILJma",
+              "end": 126,
+              "expanded_url": "https://x.com/Defi_nw1/status/1979883663740580289/photo/1",
+              "media_key": "3_1979883656089874432",
+              "start": 103,
+              "url": "https://t.co/CgQSQILJma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979883663740580289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3422,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 89,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "币安实验室投资的因膜币 4MEME\n空投免费领取⬇️\n\nhttps://t.co/zRP10taEV4\n每天可以领取1⃣️0⃣️次\n11/1号开放 TEG\n\n评论BSC钱包\n一键三连\n抽 20U✖️20人 https://t.co/CgQSQILJma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 453,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 167
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T14:39:21.000Z",
+        "description": "专业KOl@联盟导师-",
+        "id": "1930997907207131137",
+        "name": "币老超",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979455636048875521/axwb2BCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4559,
+          "following_count": 1,
+          "like_count": 1458,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "username": "Defi_nw1",
+        "verified": false
+      }
+    ]
+  }
+}

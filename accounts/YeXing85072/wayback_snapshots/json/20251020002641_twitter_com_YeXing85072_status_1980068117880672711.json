@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1979569297749049832",
+    "created_at": "2025-10-20T00:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980068117880672711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693186486206881792",
+          "start": 0,
+          "username": "bixiaochao"
+        },
+        {
+          "end": 25,
+          "id": "1757870298110758912",
+          "start": 12,
+          "username": "LONGcoin_bsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980068117880672711",
+    "in_reply_to_user_id": "1693186486206881792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979569297749049832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bixiaochao @LONGcoin_bsc 感恩\n0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1979569200055177216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jXswGX0AApUql.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1979569297749049832",
+        "created_at": "2025-10-20T00:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980068117880672711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693186486206881792",
+              "start": 0,
+              "username": "bixiaochao"
+            },
+            {
+              "end": 25,
+              "id": "1757870298110758912",
+              "start": 12,
+              "username": "LONGcoin_bsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980068117880672711",
+        "in_reply_to_user_id": "1693186486206881792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979569297749049832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bixiaochao @LONGcoin_bsc 感恩\n0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979569200055177216"
+          ]
+        },
+        "author_id": "1693186486206881792",
+        "conversation_id": "1979569297749049832",
+        "created_at": "2025-10-18T15:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979569297749049832"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 5,
+              "tag": "龙"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "空投"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "糖果"
+            },
+            {
+              "end": 163,
+              "start": 155,
+              "tag": "Airdrop"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1757870298110758912",
+              "start": 29,
+              "username": "LONGcoin_bsc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gZIP4MIwt",
+              "end": 187,
+              "expanded_url": "https://x.com/bixiaochao/status/1979569297749049832/photo/1",
+              "media_key": "3_1979569200055177216",
+              "start": 164,
+              "url": "https://t.co/1gZIP4MIwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979569297749049832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 5,
+                "tag": "龙"
+              },
+              {
+                "end": 150,
+                "start": 147,
+                "tag": "空投"
+              },
+              {
+                "end": 154,
+                "start": 151,
+                "tag": "糖果"
+              },
+              {
+                "end": 163,
+                "start": 155,
+                "tag": "Airdrop"
+              },
+              {
+                "end": 180,
+                "start": 164,
+                "tag": "FarmingAirdrops"
+              },
+              {
+                "end": 195,
+                "start": 181,
+                "tag": "WalletAirdrop"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "id": "1757870298110758912",
+                "start": 29,
+                "username": "LONGcoin_bsc"
+              }
+            ]
+          },
+          "text": "🐉 真“ #龙 ”来了—— 正式开启全民空投！\n\n刚刷到 @LONGcoin_bsc 的活动。\n参与方式超简单：关注、转发、点赞，再评论上你的 BSC 钱包地址，就能直接拿 10 万枚代币。\n\n比起一般的空投，这波更像是在喊话全世界——中国龙要觉醒了。气势拉满，动作也快，感觉这币有点意思。\n\n#空投 #糖果 #Airdrop #FarmingAirdrops #WalletAirdrop"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 44863,
+          "like_count": 623,
+          "quote_count": 4,
+          "reply_count": 751,
+          "retweet_count": 498
+        },
+        "reply_settings": "everyone",
+        "text": "🐉 真“ #龙 ”来了—— 正式开启全民空投！\n\n刚刷到 @LONGcoin_bsc 的活动。\n参与方式超简单：关注、转发、点赞，再评论上你的 BSC 钱包地址，就能直接拿 10 万枚代币。\n\n比起一般的空投，这波更像是在喊话全世界——中国龙要觉醒了。气势拉满，动作也快，感觉这币有点意思。\n\n#空投 #糖果 #Airdrop https://t.co/1gZIP4MIwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 449,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 163
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T09:01:45.000Z",
+        "description": "日常分享、币安广场创作者、仅供参考。\nJuCoin注册链接：https://t.co/KvOfXvq1xa\nSunPerp：https://t.co/JDqaEhBwlr\n推广合作请DM TG :https://t.co/hI1KRWSTyh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/4o1uNvK",
+                "end": 53,
+                "expanded_url": "http://bit.ly/4o1uNvK",
+                "start": 30,
+                "url": "https://t.co/KvOfXvq1xa"
+              },
+              {
+                "display_url": "sunperp.com/zh-cn/futures/…",
+                "end": 85,
+                "expanded_url": "https://www.sunperp.com/zh-cn/futures/invite?invitecode=ke622223",
+                "start": 62,
+                "url": "https://t.co/JDqaEhBwlr"
+              },
+              {
+                "display_url": "t.me/bixiaochao",
+                "end": 121,
+                "expanded_url": "http://t.me/bixiaochao",
+                "start": 98,
+                "url": "https://t.co/hI1KRWSTyh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "websea.com/zh-CN/signup/?…",
+                "end": 23,
+                "expanded_url": "https://www.websea.com/zh-CN/signup/?key=58811303",
+                "start": 0,
+                "url": "https://t.co/tS0Ed4v9S1"
+              }
+            ]
+          }
+        },
+        "id": "1693186486206881792",
+        "location": "合约保险首选Websea👉",
+        "name": "币小超",
+        "pinned_tweet_id": "1847476394173079728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836043181160566784/jhI90l5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37267,
+          "following_count": 3435,
+          "like_count": 73421,
+          "listed_count": 47,
+          "media_count": 1251,
+          "tweet_count": 77821
+        },
+        "url": "https://t.co/tS0Ed4v9S1",
+        "username": "bixiaochao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T20:52:04.000Z",
+        "description": "",
+        "id": "1757870298110758912",
+        "name": "真龙",
+        "pinned_tweet_id": "1979497026380497038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979140284303740928/SN19Myjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "LONGcoin_bsc",
+        "verified": true
+      }
+    ]
+  }
+}

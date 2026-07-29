@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1977612674537336988",
+    "created_at": "2025-10-13T06:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977625457823760584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938866971669606400",
+          "start": 0,
+          "username": "xiaosong2_33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977625457823760584",
+    "in_reply_to_user_id": "1938866971669606400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977619017948115009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosong2_33 最多80t都没吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1977612674537336988",
+        "created_at": "2025-10-13T06:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977625457823760584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938866971669606400",
+              "start": 0,
+              "username": "xiaosong2_33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977625457823760584",
+        "in_reply_to_user_id": "1938866971669606400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977619017948115009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong2_33 最多80t都没吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938866971669606400",
+        "conversation_id": "1977612674537336988",
+        "created_at": "2025-10-13T06:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977619017948115009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962759363246129152",
+              "start": 0,
+              "username": "YeXing85072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977619017948115009",
+        "in_reply_to_user_id": "1962759363246129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977618674107535667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeXing85072 自身体质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 423,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 130
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "现odw官号的言论与本人无关，特此声明\n联系方式\nhttps://t.co/9EoQ9U5qze",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 48,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 25,
+                "url": "https://t.co/9EoQ9U5qze"
+              }
+            ]
+          }
+        },
+        "id": "1938866971669606400",
+        "name": "xiaosong 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939362088347955200/7VRVMTFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 87,
+          "like_count": 760,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 248
+        },
+        "username": "xiaosong2_33",
+        "verified": false
+      }
+    ]
+  }
+}

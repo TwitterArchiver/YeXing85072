@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979488138046144512",
+        "3_1979488138083893248"
+      ],
+      "media_source_tweet_id": [
+        "1979488146325917840",
+        "1979488146325917840"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1980094250168778881",
+    "created_at": "2025-10-20T02:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T03:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980094250168778881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "758598267324149760",
+          "start": 3,
+          "username": "JJJSUI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n1d3zCNGgF",
+          "end": 96,
+          "expanded_url": "https://x.com/JJJSUI/status/1979488146325917840/photo/1",
+          "media_key": "3_1979488138046144512",
+          "start": 73,
+          "url": "https://t.co/n1d3zCNGgF"
+        },
+        {
+          "display_url": "pic.x.com/n1d3zCNGgF",
+          "end": 96,
+          "expanded_url": "https://x.com/JJJSUI/status/1979488146325917840/photo/1",
+          "media_key": "3_1979488138083893248",
+          "start": 73,
+          "url": "https://t.co/n1d3zCNGgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980094250168778881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979488146325917840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JJJSUI: 分享 + like + 追踪教主\n请在留言区@三位朋友\n\n进行抽奖，即可获得限量Pokémon rwa 卡\n价值200u https://t.co/n1d3zCNGgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1979488138046144512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iN-UlXAAAZUL3.jpg",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "media_key": "3_1979488138083893248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iN-UuXAAAxrqn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979488138046144512",
+            "3_1979488138083893248"
+          ],
+          "media_source_tweet_id": [
+            "1979488146325917840",
+            "1979488146325917840"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980094250168778881",
+        "created_at": "2025-10-20T02:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980094250168778881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "758598267324149760",
+              "start": 3,
+              "username": "JJJSUI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1d3zCNGgF",
+              "end": 96,
+              "expanded_url": "https://x.com/JJJSUI/status/1979488146325917840/photo/1",
+              "media_key": "3_1979488138046144512",
+              "start": 73,
+              "url": "https://t.co/n1d3zCNGgF"
+            },
+            {
+              "display_url": "pic.x.com/n1d3zCNGgF",
+              "end": 96,
+              "expanded_url": "https://x.com/JJJSUI/status/1979488146325917840/photo/1",
+              "media_key": "3_1979488138083893248",
+              "start": 73,
+              "url": "https://t.co/n1d3zCNGgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980094250168778881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979488146325917840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JJJSUI: 分享 + like + 追踪教主\n请在留言区@三位朋友\n\n进行抽奖，即可获得限量Pokémon rwa 卡\n价值200u https://t.co/n1d3zCNGgF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979488138046144512",
+            "3_1979488138083893248"
+          ]
+        },
+        "author_id": "758598267324149760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1979488146325917840",
+        "created_at": "2025-10-18T10:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979488146325917840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1d3zCNGgF",
+              "end": 84,
+              "expanded_url": "https://x.com/JJJSUI/status/1979488146325917840/photo/1",
+              "media_key": "3_1979488138046144512",
+              "start": 61,
+              "url": "https://t.co/n1d3zCNGgF"
+            },
+            {
+              "display_url": "pic.x.com/n1d3zCNGgF",
+              "end": 84,
+              "expanded_url": "https://x.com/JJJSUI/status/1979488146325917840/photo/1",
+              "media_key": "3_1979488138083893248",
+              "start": 61,
+              "url": "https://t.co/n1d3zCNGgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979488146325917840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5064,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "分享 + like + 追踪教主\n请在留言区@三位朋友\n\n进行抽奖，即可获得限量Pokémon rwa 卡\n价值200u https://t.co/n1d3zCNGgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 457,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 169
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-28T09:41:35.000Z",
+        "description": "$Sui in water | 前Navi Top2质押用户 | 曾被盗3000万美金等值$SUI的巨鲸 | 现在专注分享$SUI相关资讯和质押心得｜https://t.co/lgFWYFMi6n华语推广大使",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "Sui"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Jackson.io",
+                "end": 98,
+                "expanded_url": "http://Jackson.io",
+                "start": 75,
+                "url": "https://t.co/lgFWYFMi6n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/templeofflow",
+                "end": 23,
+                "expanded_url": "https://t.me/templeofflow",
+                "start": 0,
+                "url": "https://t.co/jPJDQUxnbi"
+              }
+            ]
+          }
+        },
+        "id": "758598267324149760",
+        "location": "japan",
+        "name": "Sui教主｜sui is water",
+        "pinned_tweet_id": "1979487536407031915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958968119130824707/_c7otdcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3423,
+          "following_count": 1509,
+          "like_count": 4410,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/jPJDQUxnbi",
+        "username": "JJJSUI",
+        "verified": true
+      }
+    ]
+  }
+}

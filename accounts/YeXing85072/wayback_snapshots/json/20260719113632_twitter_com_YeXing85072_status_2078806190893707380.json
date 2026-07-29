@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076260094438952960"
+      ],
+      "media_source_tweet_id": [
+        "2076260101594534164"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "2078806190893707380",
+    "created_at": "2026-07-19T11:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078806190893707380"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 13,
+          "tag": "ヰ世界情緒美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "988831817670119424",
+          "start": 3,
+          "username": "kuyuu11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NOcjUEjQMb",
+          "end": 46,
+          "expanded_url": "https://x.com/kuyuu11/status/2076260101594534164/photo/1",
+          "media_key": "3_2076260094438952960",
+          "start": 23,
+          "url": "https://t.co/NOcjUEjQMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078806190893707380",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076260101594534164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuyuu11: #ヰ世界情緒美術部 https://t.co/NOcjUEjQMb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076260094438952960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBbji5aUAAynUU.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076260094438952960"
+          ]
+        },
+        "author_id": "988831817670119424",
+        "conversation_id": "2076260101594534164",
+        "created_at": "2026-07-12T10:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076260101594534164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ヰ世界情緒美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NOcjUEjQMb",
+              "end": 33,
+              "expanded_url": "https://x.com/kuyuu11/status/2076260101594534164/photo/1",
+              "media_key": "3_2076260094438952960",
+              "start": 10,
+              "url": "https://t.co/NOcjUEjQMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076260101594534164",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2407,
+          "like_count": 179,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "#ヰ世界情緒美術部 https://t.co/NOcjUEjQMb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076260094438952960"
+          ],
+          "media_source_tweet_id": [
+            "2076260101594534164"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "2078806190893707380",
+        "created_at": "2026-07-19T11:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078806190893707380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "ヰ世界情緒美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "988831817670119424",
+              "start": 3,
+              "username": "kuyuu11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NOcjUEjQMb",
+              "end": 46,
+              "expanded_url": "https://x.com/kuyuu11/status/2076260101594534164/photo/1",
+              "media_key": "3_2076260094438952960",
+              "start": 23,
+              "url": "https://t.co/NOcjUEjQMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078806190893707380",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076260101594534164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuyuu11: #ヰ世界情緒美術部 https://t.co/NOcjUEjQMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "星子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078790288156569600/YRB0meFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 659,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-24T17:27:31.000Z",
+        "description": "一般人、らくがき好き｜23⬆️｜CHN｜i&h by @rinaria44321",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "rinaria44321"
+              }
+            ]
+          }
+        },
+        "id": "988831817670119424",
+        "location": "電柱の上",
+        "name": "くゆう🌧",
+        "pinned_tweet_id": "1824391540812419545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068255489054666752/FgfUSlvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 1329,
+          "like_count": 15018,
+          "listed_count": 6,
+          "media_count": 1700,
+          "tweet_count": 9996
+        },
+        "url": "",
+        "username": "kuyuu11",
+        "verified": false
+      }
+    ]
+  }
+}

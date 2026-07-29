@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1979535926977323411",
+    "created_at": "2025-10-18T15:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T16:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979578117233762548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1752006954426216458",
+          "start": 0,
+          "username": "LLXETH01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979578117233762548",
+    "in_reply_to_user_id": "1752006954426216458",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979535926977323411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LLXETH01 0xe4b6d70248a97947fb4c89c9d4c5125fc890207e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_1979535918382927872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3i5bgNXUAA2yQP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1979535926977323411",
+        "created_at": "2025-10-18T15:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979578117233762548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1752006954426216458",
+              "start": 0,
+              "username": "LLXETH01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979578117233762548",
+        "in_reply_to_user_id": "1752006954426216458",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979535926977323411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LLXETH01 0xe4b6d70248a97947fb4c89c9d4c5125fc890207e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979535918382927872"
+          ]
+        },
+        "author_id": "1752006954426216458",
+        "conversation_id": "1979535926977323411",
+        "created_at": "2025-10-18T13:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979535926977323411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHYVpVIxtC",
+              "end": 73,
+              "expanded_url": "https://x.com/LLXETH01/status/1979535926977323411/photo/1",
+              "media_key": "3_1979535918382927872",
+              "start": 50,
+              "url": "https://t.co/bHYVpVIxtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979535926977323411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6756,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 139,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "一人10U 阳光普照🌞\n留BSC钱包，点赞➕转发\n等待⌛️空投\n\n主页置顶，有白嫖300U 教程！ https://t.co/bHYVpVIxtC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 440,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 156
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T16:33:20.000Z",
+        "description": "KOL联盟",
+        "id": "1752006954426216458",
+        "location": "Hong Kong",
+        "name": "BNB Club",
+        "pinned_tweet_id": "1979158768010063939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978474651732111361/-PkH88-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6784,
+          "following_count": 6,
+          "like_count": 755,
+          "listed_count": 6,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "username": "LLXETH01",
+        "verified": false
+      }
+    ]
+  }
+}

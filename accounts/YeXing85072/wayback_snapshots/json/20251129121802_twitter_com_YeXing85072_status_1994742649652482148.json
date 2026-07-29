@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994533415220359168"
+      ],
+      "media_source_tweet_id": [
+        "1994533424187805726"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1994742649652482148",
+    "created_at": "2025-11-29T12:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T13:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994742649652482148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924485746867781632",
+          "start": 3,
+          "username": "m_u_u_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lQAhppfWqg",
+          "end": 54,
+          "expanded_url": "https://x.com/m_u_u_cos/status/1994533424187805726/photo/1",
+          "media_key": "3_1994533415220359168",
+          "start": 31,
+          "url": "https://t.co/lQAhppfWqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994742649652482148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994533424187805726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m_u_u_cos: cosplay / フリーレン https://t.co/lQAhppfWqg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3404,
+        "media_key": "3_1994533415220359168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64BktrbMAAInhR.jpg",
+        "width": 1982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994533415220359168"
+          ],
+          "media_source_tweet_id": [
+            "1994533424187805726"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1994742649652482148",
+        "created_at": "2025-11-29T12:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994742649652482148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924485746867781632",
+              "start": 3,
+              "username": "m_u_u_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQAhppfWqg",
+              "end": 54,
+              "expanded_url": "https://x.com/m_u_u_cos/status/1994533424187805726/photo/1",
+              "media_key": "3_1994533415220359168",
+              "start": 31,
+              "url": "https://t.co/lQAhppfWqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994742649652482148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994533424187805726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m_u_u_cos: cosplay / フリーレン https://t.co/lQAhppfWqg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994533415220359168"
+          ]
+        },
+        "author_id": "1924485746867781632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1994533424187805726",
+        "created_at": "2025-11-28T22:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T23:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994533424187805726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQAhppfWqg",
+              "end": 39,
+              "expanded_url": "https://x.com/m_u_u_cos/status/1994533424187805726/photo/1",
+              "media_key": "3_1994533415220359168",
+              "start": 16,
+              "url": "https://t.co/lQAhppfWqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994533424187805726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 399,
+          "impression_count": 66987,
+          "like_count": 8928,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "cosplay / フリーレン https://t.co/lQAhppfWqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 521,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:23:02.000Z",
+        "description": "",
+        "id": "1924485746867781632",
+        "name": "むう",
+        "pinned_tweet_id": "1993434907373387840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994607361768787971/ZwF0ch49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 64,
+          "like_count": 356,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 57
+        },
+        "username": "m_u_u_cos",
+        "verified": false
+      }
+    ]
+  }
+}

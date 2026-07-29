@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992779046955192320"
+      ],
+      "media_source_tweet_id": [
+        "1992779403357831440"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1468157909318045697",
+          "name": "Solana cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1468157909318045697",
+          "name": "Solana cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1992808425433219127",
+    "created_at": "2025-11-24T04:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992808425433219127"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "SOL"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793480860140032000",
+          "start": 3,
+          "username": "ywxkst"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fo1LrXonrR",
+          "end": 127,
+          "expanded_url": "https://x.com/ywxkst/status/1992779403357831440/photo/1",
+          "media_key": "3_1992779046955192320",
+          "start": 104,
+          "url": "https://t.co/fo1LrXonrR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992808425433219127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992779403357831440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ywxkst: $SOL\n继续抽奖，希望月底回本\n\n50U抽5人，周二晚上开奖\n一键三连，留下欧易uid\n\n目前sol还被套，希望月底能回到153上方，云图日线周线都底部了，看看能不能持续向上走一波 https://t.co/fo1LrXonrR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_1992779046955192320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6fF_CmbEAAaUsn.png",
+        "width": 1844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992779046955192320"
+          ],
+          "media_source_tweet_id": [
+            "1992779403357831440"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1992808425433219127",
+        "created_at": "2025-11-24T04:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992808425433219127"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "SOL"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793480860140032000",
+              "start": 3,
+              "username": "ywxkst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fo1LrXonrR",
+              "end": 127,
+              "expanded_url": "https://x.com/ywxkst/status/1992779403357831440/photo/1",
+              "media_key": "3_1992779046955192320",
+              "start": 104,
+              "url": "https://t.co/fo1LrXonrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992808425433219127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992779403357831440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ywxkst: $SOL\n继续抽奖，希望月底回本\n\n50U抽5人，周二晚上开奖\n一键三连，留下欧易uid\n\n目前sol还被套，希望月底能回到153上方，云图日线周线都底部了，看看能不能持续向上走一波 https://t.co/fo1LrXonrR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992779046955192320"
+          ]
+        },
+        "author_id": "1793480860140032000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1992779403357831440",
+        "created_at": "2025-11-24T02:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T03:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992779403357831440"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "SOL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fo1LrXonrR",
+              "end": 115,
+              "expanded_url": "https://x.com/ywxkst/status/1992779403357831440/photo/1",
+              "media_key": "3_1992779046955192320",
+              "start": 92,
+              "url": "https://t.co/fo1LrXonrR"
+            },
+            {
+              "display_url": "x.com/ywxkst/status/…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/ywxkst/status/1990720828455985631",
+              "start": 116,
+              "url": "https://t.co/tbRDSrkMEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992779403357831440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7732,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990720828455985631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "$SOL\n继续抽奖，希望月底回本\n\n50U抽5人，周二晚上开奖\n一键三连，留下欧易uid\n\n目前sol还被套，希望月底能回到153上方，云图日线周线都底部了，看看能不能持续向上走一波 https://t.co/fo1LrXonrR https://t.co/tbRDSrkMEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 518,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T03:15:50.000Z",
+        "description": "现货波段操作，不做合约 |二级市场行情分析 |商务合作TG:https://t.co/Xy4BqBddj7 | TG免费群：https://t.co/WWxz1Ztj3u | 币安广场：Crypto波段王 Bird| 支持巴勒斯坦，Free Palestine🇵🇸",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ywxkst",
+                "end": 53,
+                "expanded_url": "https://t.me/ywxkst",
+                "start": 30,
+                "url": "https://t.co/Xy4BqBddj7"
+              },
+              {
+                "display_url": "t.me/+XJeaIG75qCQ1Z…",
+                "end": 85,
+                "expanded_url": "https://t.me/+XJeaIG75qCQ1ZGRl",
+                "start": 62,
+                "url": "https://t.co/WWxz1Ztj3u"
+              }
+            ]
+          }
+        },
+        "id": "1793480860140032000",
+        "location": "Chain",
+        "name": "Crypto波段王|Bird🕊️",
+        "pinned_tweet_id": "1986341251981914463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914884972089106433/8FE2zdLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11095,
+          "following_count": 3333,
+          "like_count": 1480,
+          "listed_count": 66,
+          "media_count": 1112,
+          "tweet_count": 2332
+        },
+        "username": "ywxkst",
+        "verified": true
+      }
+    ]
+  }
+}

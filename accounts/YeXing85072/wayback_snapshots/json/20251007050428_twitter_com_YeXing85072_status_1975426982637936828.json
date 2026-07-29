@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975426971611070464",
+        "3_1975426971594334208"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1975426982637936828",
+    "created_at": "2025-10-07T05:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T06:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975426982637936828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nyW6GcI3Zu",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1975426982637936828/photo/1",
+          "media_key": "3_1975426971611070464",
+          "start": 0,
+          "url": "https://t.co/nyW6GcI3Zu"
+        },
+        {
+          "display_url": "pic.x.com/nyW6GcI3Zu",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1975426982637936828/photo/1",
+          "media_key": "3_1975426971594334208",
+          "start": 0,
+          "url": "https://t.co/nyW6GcI3Zu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975426982637936828",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/nyW6GcI3Zu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975426971611070464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ogXUqagAAlFOK.jpg",
+        "width": 1022
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1975426971594334208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ogXUmbIAAtb_j.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975426971611070464",
+            "3_1975426971594334208"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1975426982637936828",
+        "created_at": "2025-10-07T05:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T06:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975426982637936828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyW6GcI3Zu",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1975426982637936828/photo/1",
+              "media_key": "3_1975426971611070464",
+              "start": 0,
+              "url": "https://t.co/nyW6GcI3Zu"
+            },
+            {
+              "display_url": "pic.x.com/nyW6GcI3Zu",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1975426982637936828/photo/1",
+              "media_key": "3_1975426971594334208",
+              "start": 0,
+              "url": "https://t.co/nyW6GcI3Zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975426982637936828",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nyW6GcI3Zu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 405,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 108
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

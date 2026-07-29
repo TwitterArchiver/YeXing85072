@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1990311831655887041",
+    "created_at": "2025-11-17T09:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990354772453679330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1923266699140399104",
+          "start": 0,
+          "username": "TradeNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990354772453679330",
+    "in_reply_to_user_id": "1923266699140399104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990311831655887041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TradeNagi 好兄弟，我也喜欢二次元😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_1990311822864637952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58CDsobYAAo-az.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1990311831655887041",
+        "created_at": "2025-11-17T09:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990354772453679330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923266699140399104",
+              "start": 0,
+              "username": "TradeNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990354772453679330",
+        "in_reply_to_user_id": "1923266699140399104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990311831655887041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TradeNagi 好兄弟，我也喜欢二次元😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990311822864637952"
+          ]
+        },
+        "author_id": "1923266699140399104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990311831655887041",
+        "created_at": "2025-11-17T06:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990311831655887041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5luVz6Ahi",
+              "end": 130,
+              "expanded_url": "https://x.com/TradeNagi/status/1990311831655887041/photo/1",
+              "media_key": "3_1990311822864637952",
+              "start": 107,
+              "url": "https://t.co/J5luVz6Ahi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990311831655887041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18569,
+          "like_count": 346,
+          "quote_count": 0,
+          "reply_count": 371,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "去看鬼灭之刃电影了\n\n送20张电影票加爆米花的30u套餐\n\n给10个粉丝\n\n带女朋友或者好基友去看吧\n\n真的精彩\n\n老规矩，晚上\n\n我会在评论区随便选10个人\n\n然后回复我你币安的UID就可以了\n\n记得给我点赞哇 https://t.co/J5luVz6Ahi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 511,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 319
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T06:38:14.000Z",
+        "description": "实盘交易员，币coin实盘: 最爱吃兽奶 微博B站油管:最爱吃兽奶MAX 实盘交易员，视频分享有做单逻辑分享，做单都会同步发推，1000刀已经成功挑战100万筑基期，开始结丹！凭什么仙家可以遨游天地，尔等凡人只能坐井观天。以力证道",
+        "id": "1923266699140399104",
+        "name": "最爱吃兽奶",
+        "pinned_tweet_id": "1956584246967222652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977956053162856448/Xxqq9NJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6322,
+          "following_count": 140,
+          "like_count": 397,
+          "listed_count": 46,
+          "media_count": 101,
+          "tweet_count": 448
+        },
+        "username": "TradeNagi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1983923095774585236",
+    "created_at": "2025-10-31T02:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T03:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984089460464865586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "827100694465257476",
+          "start": 0,
+          "username": "wyl2035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984089460464865586",
+    "in_reply_to_user_id": "827100694465257476",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983923095774585236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyl2035 求求0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1983923004779458560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hPdima8AA25aS.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1983923095774585236",
+        "created_at": "2025-10-31T02:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T03:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984089460464865586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "827100694465257476",
+              "start": 0,
+              "username": "wyl2035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984089460464865586",
+        "in_reply_to_user_id": "827100694465257476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983923095774585236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyl2035 求求0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983923004779458560"
+          ]
+        },
+        "author_id": "827100694465257476",
+        "conversation_id": "1983923095774585236",
+        "created_at": "2025-10-30T15:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983923095774585236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "827100694465257476",
+              "start": 20,
+              "username": "wyl2035"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegr am. Click to",
+              "display_url": "t.me/+SMCdN8jsjns1Y…",
+              "end": 71,
+              "expanded_url": "https://t.me/+SMCdN8jsjns1YzE1",
+              "start": 48,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+SMCdN8jsjns1YzE1",
+              "url": "https://t.co/0mnWcyMu7j"
+            },
+            {
+              "display_url": "pic.x.com/wRO0tLBUEH",
+              "end": 129,
+              "expanded_url": "https://x.com/wyl2035/status/1983923095774585236/photo/1",
+              "media_key": "3_1983923004779458560",
+              "start": 106,
+              "url": "https://t.co/wRO0tLBUEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983923095774585236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6540,
+          "like_count": 73,
+          "quote_count": 3,
+          "reply_count": 111,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "最后送一波！最后一舞！送6个BNB，关注@wyl2035 \n\n加入《实现财富自由》中文电报群\n\nhttps://t.co/0mnWcyMu7j\n\n每人0.2-0.5，留下你们的UID，明天晚上开奖，要求转关注！ https://t.co/wRO0tLBUEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 494,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 242
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-02T10:25:47.000Z",
+        "description": "高端社群，服务会员100000+ 合约，土狗，山寨，一级，二级主流币行情分析。精准提示抄底，逃顶点位，推荐10倍，50倍，百倍币 ❤️我的电报Telegram《实现财富自由》全球中文飞机群: https://t.co/aVuMcDuRr7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+SMCdN8jsjns1Y…",
+                "end": 119,
+                "expanded_url": "https://t.me/+SMCdN8jsjns1YzE1",
+                "start": 96,
+                "url": "https://t.co/aVuMcDuRr7"
+              }
+            ]
+          }
+        },
+        "id": "827100694465257476",
+        "location": "People's Republic of China",
+        "name": "比特币教主",
+        "pinned_tweet_id": "1916180110165872913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734729586821435393/dLDEqq05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37268,
+          "following_count": 1435,
+          "like_count": 57,
+          "listed_count": 43,
+          "media_count": 1848,
+          "tweet_count": 5496
+        },
+        "username": "wyl2035",
+        "verified": true
+      }
+    ]
+  }
+}

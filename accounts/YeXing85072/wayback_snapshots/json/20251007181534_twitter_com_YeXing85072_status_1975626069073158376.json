@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975626007332986882"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1975626069073158376",
+    "created_at": "2025-10-07T18:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T19:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975626069073158376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tzog1IX4fQ",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1975626069073158376/video/1",
+          "media_key": "13_1975626007332986882",
+          "start": 0,
+          "url": "https://t.co/Tzog1IX4fQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975626069073158376",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Tzog1IX4fQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10001,
+        "height": 1280,
+        "media_key": "13_1975626007332986882",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975626007332986882/img/Ei3_rIW_EzR9gXWR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975626007332986882/vid/avc1/320x580/2pSMarN_KG0VRUVm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975626007332986882/vid/avc1/480x872/Q4tt4GCzQSSyGEPX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975626007332986882/vid/avc1/704x1280/w07jjwoHaqzK8aCl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975626007332986882/pl/XOSAUelOS2wQ5I-y.m3u8"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975626007332986882"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1975626069073158376",
+        "created_at": "2025-10-07T18:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T19:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975626069073158376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tzog1IX4fQ",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1975626069073158376/video/1",
+              "media_key": "13_1975626007332986882",
+              "start": 0,
+              "url": "https://t.co/Tzog1IX4fQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975626069073158376",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tzog1IX4fQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 405,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 112
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

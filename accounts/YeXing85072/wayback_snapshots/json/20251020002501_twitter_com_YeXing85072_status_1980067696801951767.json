@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980067688073355264"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1979949236323328199",
+    "created_at": "2025-10-20T00:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980067696801951767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372503422142930949",
+          "start": 0,
+          "username": "ala_ambose"
+        },
+        {
+          "end": 25,
+          "id": "882753449967878144",
+          "start": 12,
+          "username": "long_cto_bnb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZTybe25DpO",
+          "end": 95,
+          "expanded_url": "https://x.com/YeXing85072/status/1980067696801951767/photo/1",
+          "media_key": "3_1980067688073355264",
+          "start": 72,
+          "url": "https://t.co/ZTybe25DpO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980067696801951767",
+    "in_reply_to_user_id": "1372503422142930949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979949236323328199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ala_ambose @long_cto_bnb 谢谢哥0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1 https://t.co/ZTybe25DpO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1980067688073355264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qdEkrXYAAIun7.jpg",
+        "width": 811
+      },
+      {
+        "height": 400,
+        "media_key": "3_1979949233177305089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3oxVlzXIAEKimy.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980067688073355264"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1979949236323328199",
+        "created_at": "2025-10-20T00:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980067696801951767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372503422142930949",
+              "start": 0,
+              "username": "ala_ambose"
+            },
+            {
+              "end": 25,
+              "id": "882753449967878144",
+              "start": 12,
+              "username": "long_cto_bnb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTybe25DpO",
+              "end": 95,
+              "expanded_url": "https://x.com/YeXing85072/status/1980067696801951767/photo/1",
+              "media_key": "3_1980067688073355264",
+              "start": 72,
+              "url": "https://t.co/ZTybe25DpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980067696801951767",
+        "in_reply_to_user_id": "1372503422142930949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979949236323328199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ala_ambose @long_cto_bnb 谢谢哥0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1 https://t.co/ZTybe25DpO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979949233177305089"
+          ]
+        },
+        "author_id": "1372503422142930949",
+        "conversation_id": "1979949236323328199",
+        "created_at": "2025-10-19T16:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979949236323328199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 86,
+              "tag": "重点做出有趣的二创龙long图和写下对龙long的愿景加分"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1372503422142930949",
+              "start": 24,
+              "username": "ala_ambose"
+            },
+            {
+              "end": 50,
+              "id": "882753449967878144",
+              "start": 37,
+              "username": "long_cto_bnb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qc6INUazKo",
+              "end": 212,
+              "expanded_url": "https://x.com/ala_ambose/status/1979949236323328199/photo/1",
+              "media_key": "3_1979949233177305089",
+              "start": 189,
+              "url": "https://t.co/Qc6INUazKo"
+            },
+            {
+              "display_url": "x.com/long_cto_bnb/s…",
+              "end": 236,
+              "expanded_url": "https://twitter.com/long_cto_bnb/status/1979848508472692952",
+              "start": 213,
+              "url": "https://t.co/A5ERuJrTI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979949236323328199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3461,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979848508472692952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继续空投，龙币虐我千百遍，我待龙币如初恋，关注 @ala_ambose和 @long_cto_bnb  ，点赞+转发，只要留下你的bsc地址，空投人人有份，24小时后开奖，#重点做出有趣的二创龙long图和写下对龙long的愿景加分，空投数量100-10000枚龙币不等，视创作程度而定；\n\n0xc3c1b25ff8c3f828f36a030960d54082ed984444 https://t.co/Qc6INUazKo https://t.co/A5ERuJrTI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 448,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 162
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T11:01:41.000Z",
+        "description": "顺便说一下，新晋A7选手\n\n#干货 ，#密码",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "干货"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "密码"
+              }
+            ]
+          }
+        },
+        "id": "1372503422142930949",
+        "location": "long",
+        "name": "💎0X0-00🐲",
+        "pinned_tweet_id": "1929366629470679486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977893012316516352/1GNoxsGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 1204,
+          "like_count": 510,
+          "listed_count": 5,
+          "media_count": 67,
+          "tweet_count": 629
+        },
+        "username": "ala_ambose",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-06T00:09:58.000Z",
+        "description": "龙图原本是一张被网暴的照片，已脱离原本语境，变成人人都能用的情绪武器——又好笑又冒犯、又荒诞又真实。如今的龙图，不只是表情包，更是互联网的土味讽刺精神本身！\n自制龙图：https://t.co/yJ7aGmhh4L\nBSC ca：0xc3c1b25ff8c3f828f36a030960d54082ed984444",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "longlong.lol",
+                "end": 107,
+                "expanded_url": "https://longlong.lol",
+                "start": 84,
+                "url": "https://t.co/yJ7aGmhh4L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Long_L_L/5885",
+                "end": 23,
+                "expanded_url": "https://t.me/Long_L_L/5885",
+                "start": 0,
+                "url": "https://t.co/rrt54HlDTq"
+              }
+            ]
+          }
+        },
+        "id": "882753449967878144",
+        "location": "社区推动的tg交流群：",
+        "name": "Dragon龙Long CTO官方推特",
+        "pinned_tweet_id": "1977446757606019350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977444854637674496/KrMBmB63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 200,
+          "like_count": 674,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/rrt54HlDTq",
+        "username": "long_cto_bnb",
+        "verified": true
+      }
+    ]
+  }
+}

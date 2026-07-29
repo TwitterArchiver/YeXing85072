@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1980525267660492800"
+      ],
+      "media_source_tweet_id": [
+        "1980525313022128174"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980526989590294589",
+    "created_at": "2025-10-21T06:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980526989590294589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804029868642045956",
+          "start": 3,
+          "username": "four_meme_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uVyShR9yza",
+          "end": 39,
+          "expanded_url": "https://x.com/four_meme_/status/1980525313022128174/photo/1",
+          "media_key": "16_1980525267660492800",
+          "start": 16,
+          "url": "https://t.co/uVyShR9yza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980526989590294589",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980525313022128174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @four_meme_: https://t.co/uVyShR9yza"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "16_1980525267660492800",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G3w9PNeW0AAqc1D.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G3w9PNeW0AAqc1D.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1980525267660492800"
+          ],
+          "media_source_tweet_id": [
+            "1980525313022128174"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980526989590294589",
+        "created_at": "2025-10-21T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980526989590294589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804029868642045956",
+              "start": 3,
+              "username": "four_meme_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVyShR9yza",
+              "end": 39,
+              "expanded_url": "https://x.com/four_meme_/status/1980525313022128174/photo/1",
+              "media_key": "16_1980525267660492800",
+              "start": 16,
+              "url": "https://t.co/uVyShR9yza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980526989590294589",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980525313022128174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @four_meme_: https://t.co/uVyShR9yza"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1980525267660492800"
+          ]
+        },
+        "author_id": "1804029868642045956",
+        "conversation_id": "1980525313022128174",
+        "created_at": "2025-10-21T06:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980525313022128174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVyShR9yza",
+              "end": 23,
+              "expanded_url": "https://x.com/four_meme_/status/1980525313022128174/photo/1",
+              "media_key": "16_1980525267660492800",
+              "start": 0,
+              "url": "https://t.co/uVyShR9yza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980525313022128174",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5478,
+          "like_count": 97,
+          "quote_count": 6,
+          "reply_count": 91,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uVyShR9yza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 463,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 182
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T05:53:50.000Z",
+        "description": "We are https://t.co/uolO8ppNzt, the Premier Token Launch Platform for memecoin and diversified token launches on @BNBChain.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 113,
+                "username": "BNBChain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Four.meme",
+                "end": 30,
+                "expanded_url": "http://Four.meme",
+                "start": 7,
+                "url": "https://t.co/uolO8ppNzt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/four.meme",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/four.meme",
+                "start": 0,
+                "url": "https://t.co/rx93RDtIBS"
+              }
+            ]
+          }
+        },
+        "id": "1804029868642045956",
+        "location": "BNB Chain",
+        "name": "Four.Meme",
+        "pinned_tweet_id": "1980220986193797220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909963063618674688/Cct4LuSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276230,
+          "following_count": 190,
+          "like_count": 2007,
+          "listed_count": 760,
+          "media_count": 910,
+          "tweet_count": 3554
+        },
+        "url": "https://t.co/rx93RDtIBS",
+        "username": "four_meme_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980522332788531200",
+        "3_1980522332788604928",
+        "3_1980522332775907328"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980522342255325226",
+    "created_at": "2025-10-21T06:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980522342255325226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 60,
+          "id": "1978585252554809344",
+          "start": 45,
+          "username": "chongshengmeme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8qAWdaLxXX",
+          "end": 144,
+          "expanded_url": "https://x.com/YeXing85072/status/1980522342255325226/photo/1",
+          "media_key": "3_1980522332788531200",
+          "start": 121,
+          "url": "https://t.co/8qAWdaLxXX"
+        },
+        {
+          "display_url": "pic.x.com/8qAWdaLxXX",
+          "end": 144,
+          "expanded_url": "https://x.com/YeXing85072/status/1980522342255325226/photo/1",
+          "media_key": "3_1980522332788604928",
+          "start": 121,
+          "url": "https://t.co/8qAWdaLxXX"
+        },
+        {
+          "display_url": "pic.x.com/8qAWdaLxXX",
+          "end": 144,
+          "expanded_url": "https://x.com/YeXing85072/status/1980522342255325226/photo/1",
+          "media_key": "3_1980522332775907328",
+          "start": 121,
+          "url": "https://t.co/8qAWdaLxXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980522342255325226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "投稿0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1\n@chongshengmeme\n币安重生我觉得是对人性的赞颂，赠予会带来感恩，互帮互助能减少戾气。大伙就能开开心心赚钱，也能多些容错，多一次重来的机会 https://t.co/8qAWdaLxXX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1429,
+        "media_key": "3_1980522332788531200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3w6kYOWoAAimvV.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1039,
+        "media_key": "3_1980522332788604928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3w6kYOXwAA5WXg.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980522332775907328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3w6kYLWAAA_kUj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980522332788531200",
+            "3_1980522332788604928",
+            "3_1980522332775907328"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980522342255325226",
+        "created_at": "2025-10-21T06:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980522342255325226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1978585252554809344",
+              "start": 45,
+              "username": "chongshengmeme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qAWdaLxXX",
+              "end": 144,
+              "expanded_url": "https://x.com/YeXing85072/status/1980522342255325226/photo/1",
+              "media_key": "3_1980522332788531200",
+              "start": 121,
+              "url": "https://t.co/8qAWdaLxXX"
+            },
+            {
+              "display_url": "pic.x.com/8qAWdaLxXX",
+              "end": 144,
+              "expanded_url": "https://x.com/YeXing85072/status/1980522342255325226/photo/1",
+              "media_key": "3_1980522332788604928",
+              "start": 121,
+              "url": "https://t.co/8qAWdaLxXX"
+            },
+            {
+              "display_url": "pic.x.com/8qAWdaLxXX",
+              "end": 144,
+              "expanded_url": "https://x.com/YeXing85072/status/1980522342255325226/photo/1",
+              "media_key": "3_1980522332775907328",
+              "start": 121,
+              "url": "https://t.co/8qAWdaLxXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980522342255325226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "投稿0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1\n@chongshengmeme\n币安重生我觉得是对人性的赞颂，赠予会带来感恩，互帮互助能减少戾气。大伙就能开开心心赚钱，也能多些容错，多一次重来的机会 https://t.co/8qAWdaLxXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 462,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 181
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T22:14:34.000Z",
+        "description": "#Binance 重生CTO社区：重生MEME，币安重生叙事，为每位投资者带来新生与希望，从逆境中重生。（币安精神，永不放弃，逆境重生）\n\nTG群：https://t.co/VVwCvUW7S0  \n\nBNBChain CA：\n0x7bd8c371304cc038ff8dc0e54975a719f9aa4444",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chongshen999",
+                "end": 97,
+                "expanded_url": "https://t.me/chongshen999",
+                "start": 74,
+                "url": "https://t.co/VVwCvUW7S0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chongsheng.meme",
+                "end": 23,
+                "expanded_url": "https://chongsheng.meme",
+                "start": 0,
+                "url": "https://t.co/RNfBk8H7RE"
+              }
+            ]
+          }
+        },
+        "id": "1978585252554809344",
+        "name": "重生.MEME🔶BNB",
+        "pinned_tweet_id": "1979909224101728579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978945735966986240/5isqCyh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 56,
+          "like_count": 169,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/RNfBk8H7RE",
+        "username": "chongshengmeme",
+        "verified": true
+      }
+    ]
+  }
+}

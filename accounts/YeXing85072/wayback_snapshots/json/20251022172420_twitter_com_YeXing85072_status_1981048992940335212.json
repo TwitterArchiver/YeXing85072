@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980682846470828425",
+    "created_at": "2025-10-22T17:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T18:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981048992940335212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "Yoselindead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981048992940335212",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980682846470828425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoselindead 发我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980682846470828425",
+        "created_at": "2025-10-22T17:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981048992940335212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "Yoselindead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981048992940335212",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980682846470828425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoselindead 发我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1980682846470828425",
+        "created_at": "2025-10-21T17:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980682846470828425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980682846470828425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3500,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "露脸的一些嗑药的照片会发在里推，想看的可以私信我我发你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 483,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 226
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "🏳️‍🌈友好顺女，泛性浪漫取向异性恋，重抑重焦，🇪🇺已移民欧盟，🏬病历处方，各种化学物质，电子烟外烟，付费靠谱渠道介绍，🍥买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko全球可寄，@coiloffaraday🤦🏻‍♀️😮‍💨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "coiloffaraday"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/PAY0hcdEHr"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪288/588/888, 药物咨询可以直接在推上DM",
+        "name": "Yoselin跳海🪬🩸",
+        "pinned_tweet_id": "1980702770215911609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 410,
+          "like_count": 13596,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 4163
+        },
+        "url": "https://t.co/PAY0hcdEHr",
+        "username": "Yoselindead",
+        "verified": true
+      }
+    ]
+  }
+}

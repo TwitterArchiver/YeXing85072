@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1981010505449042040",
+    "created_at": "2025-10-22T17:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T18:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981047720128499920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1930997907207131137",
+          "start": 0,
+          "username": "Defi_nw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981047720128499920",
+    "in_reply_to_user_id": "1930997907207131137",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981010505449042040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Defi_nw1 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_1981010495176843264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G332jK1WIAABRkP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1981010505449042040",
+        "created_at": "2025-10-22T17:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981047720128499920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1930997907207131137",
+              "start": 0,
+              "username": "Defi_nw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981047720128499920",
+        "in_reply_to_user_id": "1930997907207131137",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981010505449042040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Defi_nw1 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981010495176843264"
+          ]
+        },
+        "author_id": "1930997907207131137",
+        "conversation_id": "1981010505449042040",
+        "created_at": "2025-10-22T14:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981010505449042040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQNt8QEZTS",
+              "end": 85,
+              "expanded_url": "https://x.com/Defi_nw1/status/1981010505449042040/photo/1",
+              "media_key": "3_1981010495176843264",
+              "start": 62,
+              "url": "https://t.co/KQNt8QEZTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981010505449042040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3394,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 132,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "一人10U 阳光普照♻️♻️\n留BSC钱包，点赞➕转发\n等待⌛️空投\n\n主页置顶，有白嫖300U 教程！\n千万别错过！！！ https://t.co/KQNt8QEZTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 482,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 223
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T14:39:21.000Z",
+        "description": "专业KOl@联盟导师-",
+        "id": "1930997907207131137",
+        "name": "深情We3",
+        "pinned_tweet_id": "1979883663740580289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979455636048875521/axwb2BCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4741,
+          "following_count": 1,
+          "like_count": 1455,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "Defi_nw1",
+        "verified": false
+      }
+    ]
+  }
+}

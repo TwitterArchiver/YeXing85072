@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1973539791678611530",
+    "created_at": "2025-10-02T19:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T20:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973828459677036870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        },
+        {
+          "end": 24,
+          "id": "1875115728166342656",
+          "start": 13,
+          "username": "3253212MCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973828459677036870",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973658660304986336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 @3253212MCZ 不想活着你就不会od了，od能给你带来快乐，而你仍然在渴望着快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1973539791678611530",
+        "created_at": "2025-10-02T19:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T20:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973828459677036870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            },
+            {
+              "end": 24,
+              "id": "1875115728166342656",
+              "start": 13,
+              "username": "3253212MCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973828459677036870",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973658660304986336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 @3253212MCZ 不想活着你就不会od了，od能给你带来快乐，而你仍然在渴望着快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764820595387305984",
+        "conversation_id": "1973539791678611530",
+        "created_at": "2025-10-02T07:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973658660304986336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875115728166342656",
+              "start": 0,
+              "username": "3253212MCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973658660304986336",
+        "in_reply_to_user_id": "1875115728166342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973656945212137876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3253212MCZ 挺好的，反正也不想活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 361,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 85
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/爱人@wanchunshi/🚪30￥/MTX/ overdose💊/双相/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "wanchunshi"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "pinned_tweet_id": "1969574044296233168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 2930,
+          "like_count": 13650,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 6474
+        },
+        "username": "miaoning000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "INFJ | 喜欢雨天发呆 | 讨厌香菜 | 178cm？ | 抑郁症自愈者 | 想去看世界！|MTF：2025.7.6 |MIKU重度依赖者 | 小番茄重度依赖| 包菜重度依赖 | 分享欲旺盛 | 互fo |话说真的有人会看简介吗？",
+        "id": "1875115728166342656",
+        "location": "北京地地地地道道",
+        "name": "零落孤潮🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971931529904545792/RvUA_XhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 359,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 608
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

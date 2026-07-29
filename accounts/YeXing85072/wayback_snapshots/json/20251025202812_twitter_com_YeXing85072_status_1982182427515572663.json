@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982182417323446273"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1982182427515572663",
+    "created_at": "2025-10-25T20:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T21:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982182427515572663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1873740923433312256",
+          "start": 0,
+          "username": "xukeith150986"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xcl3n7VccR",
+          "end": 63,
+          "expanded_url": "https://x.com/YeXing85072/status/1982182427515572663/photo/1",
+          "media_key": "3_1982182417323446273",
+          "start": 40,
+          "url": "https://t.co/Xcl3n7VccR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982182427515572663",
+    "in_reply_to_user_id": "1873740923433312256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@xukeith150986 大伙们火速使用这个量化平台六种策略，保你吃的饱饱 https://t.co/Xcl3n7VccR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982182417323446273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4IgaBCW0AEkQ1G.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982182417323446273"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1982182427515572663",
+        "created_at": "2025-10-25T20:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T21:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982182427515572663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1873740923433312256",
+              "start": 0,
+              "username": "xukeith150986"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xcl3n7VccR",
+              "end": 63,
+              "expanded_url": "https://x.com/YeXing85072/status/1982182427515572663/photo/1",
+              "media_key": "3_1982182417323446273",
+              "start": 40,
+              "url": "https://t.co/Xcl3n7VccR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982182427515572663",
+        "in_reply_to_user_id": "1873740923433312256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@xukeith150986 大伙们火速使用这个量化平台六种策略，保你吃的饱饱 https://t.co/Xcl3n7VccR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 488,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 230
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T14:40:36.000Z",
+        "description": "An AI-driven multi-strategy quant platform unifying spot-margin, futures, and options under one risk-and-hedging stack.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+OryXrgHggjBjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+OryXrgHggjBjNWU1",
+                "start": 0,
+                "url": "https://t.co/Jes7OwoxQo"
+              }
+            ]
+          }
+        },
+        "id": "1873740923433312256",
+        "name": "VectorKeith",
+        "pinned_tweet_id": "1978304383608610964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978301176643813376/9jsVKxgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 104,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/Jes7OwoxQo",
+        "username": "xukeith150986",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991149627513753600"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1991149646673306033",
+    "created_at": "2025-11-19T14:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991149646673306033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ZA9Mwypst",
+          "end": 78,
+          "expanded_url": "https://x.com/YeXing85072/status/1991149646673306033/photo/1",
+          "media_key": "3_1991149627513753600",
+          "start": 55,
+          "url": "https://t.co/1ZA9Mwypst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991149646673306033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "tip：今天发的单比较多，但胜率喜人，其中四个单成功止盈，泉哥还给了几个挂单，其中有两单就差一点点接到，可惜 https://t.co/1ZA9Mwypst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 370,
+        "media_key": "3_1991149627513753600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6H8CWKb0AAaqKX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991149627513753600"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1991149646673306033",
+        "created_at": "2025-11-19T14:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991149646673306033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZA9Mwypst",
+              "end": 78,
+              "expanded_url": "https://x.com/YeXing85072/status/1991149646673306033/photo/1",
+              "media_key": "3_1991149627513753600",
+              "start": 55,
+              "url": "https://t.co/1ZA9Mwypst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991149646673306033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tip：今天发的单比较多，但胜率喜人，其中四个单成功止盈，泉哥还给了几个挂单，其中有两单就差一点点接到，可惜 https://t.co/1ZA9Mwypst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 519,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

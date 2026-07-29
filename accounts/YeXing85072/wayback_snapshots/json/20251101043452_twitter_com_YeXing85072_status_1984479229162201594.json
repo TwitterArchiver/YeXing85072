@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1984479229162201594",
+    "created_at": "2025-11-01T04:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T05:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984479229162201594"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 22,
+          "tag": "BTC插针最低106200靠近下降趋势线后"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984479229162201594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984475949224923582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 早间分析\n＃BTC插针最低106200靠近下降趋势线后，有效反弹3.5%，算是稳住了继续下行的跌势。\n接下来怎么看：日线连跌4天，反弹收阳，风险被释放了很多，震荡上行概率比较大，同时也要预防插针挂好10w附近的点位。目前价格处在中间位置，日内合…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1984479229162201594",
+        "created_at": "2025-11-01T04:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984479229162201594"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 22,
+              "tag": "BTC插针最低106200靠近下降趋势线后"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984479229162201594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984475949224923582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 早间分析\n＃BTC插针最低106200靠近下降趋势线后，有效反弹3.5%，算是稳住了继续下行的跌势。\n接下来怎么看：日线连跌4天，反弹收阳，风险被释放了很多，震荡上行概率比较大，同时也要预防插针挂好10w附近的点位。目前价格处在中间位置，日内合…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626084307226988546",
+        "conversation_id": "1984475949224923582",
+        "created_at": "2025-11-01T04:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984475949224923582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 5,
+              "tag": "BTC插针最低106200靠近下降趋势线后"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984475949224923582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 5,
+                "tag": "BTC插针最低106200靠近下降趋势线后"
+              },
+              {
+                "end": 235,
+                "start": 223,
+                "tag": "ETH插到到3810后"
+              }
+            ]
+          },
+          "text": "早间分析\n＃BTC插针最低106200靠近下降趋势线后，有效反弹3.5%，算是稳住了继续下行的跌势。\n接下来怎么看：日线连跌4天，反弹收阳，风险被释放了很多，震荡上行概率比较大，同时也要预防插针挂好10w附近的点位。目前价格处在中间位置，日内合约比较难做，先观望，走出一段区间后再操作。\n小级别压制111750\n大级别压制116000\n第一支撑位105000-106000\n第二支撑位101000\n操作建议：撑压位挂多空，中间位置建议不要操作，\n＃ETH插到到3810后，暂时守住了3810上方，对比BTC来说，ETH走势要弱一些。\n接下来怎么看：虽然守住3810，但是反弹无力，日内在3810-3940区间震荡概率比较大，大级别上ETH上方属于压制重重，不会一直涨，但是整体趋势是向上，所以涨不搞，跌不动，如果有上下插针可以高空和低多。\n小级别压制3940\n大级别压制4085\n第一支撑位3650\n第二支撑位3405\n操作建议：价格到3810-3940区间上下沿盯盘可以做，撑压位可以挂多空。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "早间分析\n＃BTC插针最低106200靠近下降趋势线后，有效反弹3.5%，算是稳住了继续下行的跌势。\n接下来怎么看：日线连跌4天，反弹收阳，风险被释放了很多，震荡上行概率比较大，同时也要预防插针挂好10w附近的点位。目前价格处在中间位置，日内合约比较难做，先观望，走出一段区间后再操作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 495,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 245
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

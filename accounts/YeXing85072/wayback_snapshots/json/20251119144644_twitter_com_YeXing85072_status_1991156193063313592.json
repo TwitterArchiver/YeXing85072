@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1991156193063313592",
+    "created_at": "2025-11-19T14:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991156193063313592"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "BSC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1496891009195810823",
+          "start": 3,
+          "username": "BTC_whale_qian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991156193063313592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991151978995384605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BTC_whale_qian: 送福利，前100个 $BSC 钱包\n\n$巨鲸钱志敏 倒计时30分钟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1991156193063313592",
+        "created_at": "2025-11-19T14:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991156193063313592"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "BSC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1496891009195810823",
+              "start": 3,
+              "username": "BTC_whale_qian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991156193063313592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991151978995384605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BTC_whale_qian: 送福利，前100个 $BSC 钱包\n\n$巨鲸钱志敏 倒计时30分钟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496891009195810823",
+        "conversation_id": "1991151978995384605",
+        "created_at": "2025-11-19T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991151978995384605"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "BSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991151978995384605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 449,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "送福利，前100个 $BSC 钱包\n\n$巨鲸钱志敏 倒计时30分钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 519,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T16:53:31.000Z",
+        "description": "真正的BTC巨鲸——钱志敏，持有1%的BTC，钻石手，真正的信仰者\n\n11月19日晚上11点， $巨鲸 准时发射",
+        "id": "1496891009195810823",
+        "location": "BSC",
+        "name": "$巨鲸 (真巨鲸)",
+        "pinned_tweet_id": "1988985659307315574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990802625277599744/PQV0S01j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27588,
+          "following_count": 20,
+          "like_count": 968,
+          "listed_count": 27,
+          "media_count": 7,
+          "tweet_count": 18
+        },
+        "username": "BTC_whale_qian",
+        "verified": true
+      }
+    ]
+  }
+}

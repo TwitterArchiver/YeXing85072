@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1985365475761717366",
+    "created_at": "2025-11-03T15:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985365475761717366"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "giggle"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985365475761717366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985276031486632439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 黑子说话！！！中午11点的策略，60个点，内部群直接麻\n\n＃giggle\n趋势多单\n方向：做多\n倍数：6\n进场点位及仓位：72-76（1%总仓）\n补仓：不补\n止损66\n第一止盈：93\n第二止盈：111\n补充：（仓位括号是泉哥仓位，以供参考）本单…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_1985276028462493696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40eB4ma8AAjZXl.jpg",
+        "width": 620
+      },
+      {
+        "height": 495,
+        "media_key": "3_1985276029355839489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40eB77aUAE45jR.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1985365475761717366",
+        "created_at": "2025-11-03T15:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985365475761717366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "giggle"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985365475761717366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985276031486632439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 黑子说话！！！中午11点的策略，60个点，内部群直接麻\n\n＃giggle\n趋势多单\n方向：做多\n倍数：6\n进场点位及仓位：72-76（1%总仓）\n补仓：不补\n止损66\n第一止盈：93\n第二止盈：111\n补充：（仓位括号是泉哥仓位，以供参考）本单…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985276028462493696",
+            "3_1985276029355839489"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "conversation_id": "1985276031486632439",
+        "created_at": "2025-11-03T09:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985276031486632439"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "giggle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpadtJzSGu",
+              "end": 185,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985276031486632439/photo/1",
+              "media_key": "3_1985276028462493696",
+              "start": 162,
+              "url": "https://t.co/bpadtJzSGu"
+            },
+            {
+              "display_url": "pic.x.com/bpadtJzSGu",
+              "end": 185,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985276031486632439/photo/1",
+              "media_key": "3_1985276029355839489",
+              "start": 162,
+              "url": "https://t.co/bpadtJzSGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985276031486632439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "黑子说话！！！中午11点的策略，60个点，内部群直接麻\n\n＃giggle\n趋势多单\n方向：做多\n倍数：6\n进场点位及仓位：72-76（1%总仓）\n补仓：不补\n止损66\n第一止盈：93\n第二止盈：111\n补充：（仓位括号是泉哥仓位，以供参考）本单盈利40%以上设置保本，100%以上自己看着走，达到第一止盈后策略结束不跟踪。 https://t.co/bpadtJzSGu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 500,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 267
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

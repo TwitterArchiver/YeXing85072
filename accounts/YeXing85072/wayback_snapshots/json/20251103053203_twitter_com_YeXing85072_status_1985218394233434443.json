@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985186294549610496",
+        "3_1985186296348946432"
+      ],
+      "media_source_tweet_id": [
+        "1985186298265845961",
+        "1985186298265845961"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985218394233434443",
+    "created_at": "2025-11-03T05:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T06:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985218394233434443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegra m. Click to",
+          "display_url": "t.me/+RJo9gVAXrrdiM…",
+          "end": 57,
+          "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+          "start": 34,
+          "status": 200,
+          "title": "Telegram: Join Group Chat",
+          "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+          "url": "https://t.co/eETQag5GmP"
+        },
+        {
+          "display_url": "pic.x.com/XVFfKRad2k",
+          "end": 81,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1985186298265845961/photo/1",
+          "media_key": "3_1985186294549610496",
+          "start": 58,
+          "url": "https://t.co/XVFfKRad2k"
+        },
+        {
+          "display_url": "pic.x.com/XVFfKRad2k",
+          "end": 81,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1985186298265845961/photo/1",
+          "media_key": "3_1985186296348946432",
+          "start": 58,
+          "url": "https://t.co/XVFfKRad2k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985218394233434443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985186298265845961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 哈哈哈哈，全靠同行衬托。\n😅😅😅\nhttps://t.co/eETQag5GmP https://t.co/XVFfKRad2k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_1985186294549610496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zMaruagAASifP.jpg",
+        "width": 639
+      },
+      {
+        "height": 714,
+        "media_key": "3_1985186296348946432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zMaybaMAAjO4Z.jpg",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985186294549610496",
+            "3_1985186296348946432"
+          ],
+          "media_source_tweet_id": [
+            "1985186298265845961",
+            "1985186298265845961"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985218394233434443",
+        "created_at": "2025-11-03T05:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T06:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985218394233434443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegra m. Click to",
+              "display_url": "t.me/+RJo9gVAXrrdiM…",
+              "end": 57,
+              "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "start": 34,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "url": "https://t.co/eETQag5GmP"
+            },
+            {
+              "display_url": "pic.x.com/XVFfKRad2k",
+              "end": 81,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985186298265845961/photo/1",
+              "media_key": "3_1985186294549610496",
+              "start": 58,
+              "url": "https://t.co/XVFfKRad2k"
+            },
+            {
+              "display_url": "pic.x.com/XVFfKRad2k",
+              "end": 81,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985186298265845961/photo/1",
+              "media_key": "3_1985186296348946432",
+              "start": 58,
+              "url": "https://t.co/XVFfKRad2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985218394233434443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985186298265845961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 哈哈哈哈，全靠同行衬托。\n😅😅😅\nhttps://t.co/eETQag5GmP https://t.co/XVFfKRad2k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985186294549610496",
+            "3_1985186296348946432"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985186298265845961",
+        "created_at": "2025-11-03T03:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T04:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985186298265845961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegra m. Click to",
+              "display_url": "t.me/+RJo9gVAXrrdiM…",
+              "end": 40,
+              "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "start": 17,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "url": "https://t.co/eETQag5GmP"
+            },
+            {
+              "display_url": "pic.x.com/XVFfKRad2k",
+              "end": 64,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985186298265845961/photo/1",
+              "media_key": "3_1985186294549610496",
+              "start": 41,
+              "url": "https://t.co/XVFfKRad2k"
+            },
+            {
+              "display_url": "pic.x.com/XVFfKRad2k",
+              "end": 64,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985186298265845961/photo/1",
+              "media_key": "3_1985186296348946432",
+              "start": 41,
+              "url": "https://t.co/XVFfKRad2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985186298265845961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈，全靠同行衬托。\n😅😅😅\nhttps://t.co/eETQag5GmP https://t.co/XVFfKRad2k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 501,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 265
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

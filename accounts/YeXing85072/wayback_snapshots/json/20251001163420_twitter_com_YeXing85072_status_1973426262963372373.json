@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1973300426905886868",
+    "created_at": "2025-10-01T16:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T17:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973426262963372373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800782392346783744",
+          "start": 0,
+          "username": "m6e60y3TqN30218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973426262963372373",
+    "in_reply_to_user_id": "1800782392346783744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973300426905886868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m6e60y3TqN30218 不可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1973300426905886868",
+        "created_at": "2025-10-01T16:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T17:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973426262963372373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800782392346783744",
+              "start": 0,
+              "username": "m6e60y3TqN30218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973426262963372373",
+        "in_reply_to_user_id": "1800782392346783744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973300426905886868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m6e60y3TqN30218 不可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800782392346783744",
+        "conversation_id": "1973300426905886868",
+        "created_at": "2025-10-01T08:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T09:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973300426905886868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973300426905886868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吗啡过量可以无痛死亡吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 338,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 58
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T06:49:27.000Z",
+        "description": "品客网左都滚｜我是les百合豚支持LGBTQ＋｜自由意志主义｜我是餐券女，语言组织不好就是磕大了，请原谅我｜祝想活着的成功润，祝想升天的无痛死亡，我们都有美好自由的未来（也许并非大众定义的美好",
+        "id": "1800782392346783744",
+        "name": "兔兔🐰",
+        "pinned_tweet_id": "1800799125124026874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954326656036048896/qCQbzmrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 65,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 97
+        },
+        "username": "m6e60y3TqN30218",
+        "verified": false
+      }
+    ]
+  }
+}

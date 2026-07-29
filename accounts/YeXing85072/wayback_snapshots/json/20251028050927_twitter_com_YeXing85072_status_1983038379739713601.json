@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1982873073868235208",
+    "created_at": "2025-10-28T05:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T06:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983038379739713601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796943871441833984",
+          "start": 0,
+          "username": "Mintclub002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983038379739713601",
+    "in_reply_to_user_id": "1796943871441833984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982873073868235208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintclub002 25u本金干到了100u，现在又亏回去了😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_1982873020193558528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SUgZNX0AAXMNU.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1982873073868235208",
+        "created_at": "2025-10-28T05:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983038379739713601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796943871441833984",
+              "start": 0,
+              "username": "Mintclub002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983038379739713601",
+        "in_reply_to_user_id": "1796943871441833984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982873073868235208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintclub002 25u本金干到了100u，现在又亏回去了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982873020193558528"
+          ]
+        },
+        "author_id": "1796943871441833984",
+        "conversation_id": "1982873073868235208",
+        "created_at": "2025-10-27T18:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982873073868235208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OP2FJRcgPC",
+              "end": 136,
+              "expanded_url": "https://x.com/Mintclub002/status/1982873073868235208/photo/1",
+              "media_key": "3_1982873020193558528",
+              "start": 113,
+              "url": "https://t.co/OP2FJRcgPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982873073868235208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3203,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "江屿：翻身人生\n抽6个 一个给15U\n点赞转发留言（说出你在币圈的故事）\n\n说出你如何通过币圈如何翻身的\n或者是你现在没有本金 想要翻身\n又或者是你刚刚亏完  想要翻身\n\n随机抽选有借鉴意义的\n我会发在频道和推特\n让大家学习 https://t.co/OP2FJRcgPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 487,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 236
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:36:33.000Z",
+        "description": "1000X GEM\n带兄弟们赚第一个100W\n有顶级叙事 推特私信我  我去给你们全力扩散\n确定性角度优先发禁言频道\nhttps://t.co/prl1d8F5Xl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/oxjiangyu",
+                "end": 82,
+                "expanded_url": "https://t.me/oxjiangyu",
+                "start": 59,
+                "url": "https://t.co/prl1d8F5Xl"
+              }
+            ]
+          }
+        },
+        "id": "1796943871441833984",
+        "location": "1000X GEM ",
+        "name": "0x江屿（简介进电报精选）",
+        "pinned_tweet_id": "1982873073868235208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960748688818753536/zJ3iVoEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 811,
+          "like_count": 525,
+          "listed_count": 35,
+          "media_count": 696,
+          "tweet_count": 2685
+        },
+        "username": "Mintclub002",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980950390528213363",
+    "created_at": "2025-10-22T17:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T18:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981048790602961110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521851592827310080",
+          "start": 0,
+          "username": "Kayaforone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981048790602961110",
+    "in_reply_to_user_id": "1521851592827310080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980950390528213363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kayaforone 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980950390528213363",
+        "created_at": "2025-10-22T17:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981048790602961110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521851592827310080",
+              "start": 0,
+              "username": "Kayaforone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981048790602961110",
+        "in_reply_to_user_id": "1521851592827310080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980950390528213363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kayaforone 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521851592827310080",
+        "conversation_id": "1980950390528213363",
+        "created_at": "2025-10-22T10:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980950390528213363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980950390528213363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 612787,
+          "like_count": 6224,
+          "quote_count": 3,
+          "reply_count": 5522,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "iPhone17pro银色抽奖\n要求：点赞加评论，上条因为安卓机那个帖子骂过我的人不许参与，参与暴毙。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 483,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 225
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T13:58:05.000Z",
+        "description": "省流请看亮点｜@Lu_lu4Xi1是小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Lu_lu4Xi1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=ATyPkgkN",
+                "start": 0,
+                "url": "https://t.co/bYRS9DrSVf"
+              }
+            ]
+          }
+        },
+        "id": "1521851592827310080",
+        "location": "好用vpn👉🏻",
+        "name": "快乐冠军",
+        "pinned_tweet_id": "1980539844075180050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645592507559063554/wDXTr60v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186043,
+          "following_count": 720,
+          "like_count": 14845,
+          "listed_count": 351,
+          "media_count": 620,
+          "tweet_count": 7031
+        },
+        "url": "https://t.co/bYRS9DrSVf",
+        "username": "Kayaforone",
+        "verified": true
+      }
+    ]
+  }
+}

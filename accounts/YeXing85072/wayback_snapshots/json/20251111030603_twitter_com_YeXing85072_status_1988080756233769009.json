@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988071304235544576",
+        "3_1988071307163168770"
+      ],
+      "media_source_tweet_id": [
+        "1988071312603181258",
+        "1988071312603181258"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1988080756233769009",
+    "created_at": "2025-11-11T03:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T04:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988080756233769009"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "BTC思路连贯"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xpbw5nFGbq",
+          "end": 104,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1988071312603181258/photo/1",
+          "media_key": "3_1988071304235544576",
+          "start": 81,
+          "url": "https://t.co/xpbw5nFGbq"
+        },
+        {
+          "display_url": "pic.x.com/xpbw5nFGbq",
+          "end": 104,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1988071312603181258/photo/1",
+          "media_key": "3_1988071307163168770",
+          "start": 81,
+          "url": "https://t.co/xpbw5nFGbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988080756233769009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988071312603181258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 早间分析\n＃BTC思路连贯，107000附近接到，接到后预期内下跌，这里的下跌个人不会是大跌，跌至103500附近时主动走。… https://t.co/xpbw5nFGbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_1988071304235544576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cMUWUbcAAo279.jpg",
+        "width": 1280
+      },
+      {
+        "height": 679,
+        "media_key": "3_1988071307163168770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cMUhObcAIh93M.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988071304235544576",
+            "3_1988071307163168770"
+          ],
+          "media_source_tweet_id": [
+            "1988071312603181258",
+            "1988071312603181258"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1988080756233769009",
+        "created_at": "2025-11-11T03:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988080756233769009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "BTC思路连贯"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpbw5nFGbq",
+              "end": 104,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1988071312603181258/photo/1",
+              "media_key": "3_1988071304235544576",
+              "start": 81,
+              "url": "https://t.co/xpbw5nFGbq"
+            },
+            {
+              "display_url": "pic.x.com/xpbw5nFGbq",
+              "end": 104,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1988071312603181258/photo/1",
+              "media_key": "3_1988071307163168770",
+              "start": 81,
+              "url": "https://t.co/xpbw5nFGbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988080756233769009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988071312603181258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 早间分析\n＃BTC思路连贯，107000附近接到，接到后预期内下跌，这里的下跌个人不会是大跌，跌至103500附近时主动走。… https://t.co/xpbw5nFGbq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988071304235544576",
+            "3_1988071307163168770"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "conversation_id": "1988071312603181258",
+        "created_at": "2025-11-11T02:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T03:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988071312603181258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "BTC思路连贯"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpbw5nFGbq",
+              "end": 86,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1988071312603181258/photo/1",
+              "media_key": "3_1988071304235544576",
+              "start": 63,
+              "url": "https://t.co/xpbw5nFGbq"
+            },
+            {
+              "display_url": "pic.x.com/xpbw5nFGbq",
+              "end": 86,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1988071312603181258/photo/1",
+              "media_key": "3_1988071307163168770",
+              "start": 63,
+              "url": "https://t.co/xpbw5nFGbq"
+            },
+            {
+              "display_url": "x.com/pilgrim_wyl/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/pilgrim_wyl/status/1987708243603493195",
+              "start": 87,
+              "url": "https://t.co/7kCYesG2f4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988071312603181258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 5,
+                "tag": "BTC思路连贯"
+              },
+              {
+                "end": 231,
+                "start": 220,
+                "tag": "ETH压制为3690"
+              }
+            ]
+          },
+          "text": "早间分析\n＃BTC思路连贯，107000附近接到，接到后预期内下跌，这里的下跌个人不会是大跌，跌至103500附近时主动走。\n接下来怎么看：中线仍然看涨，短期受制107000压制位下跌，下方102000接多。下一个压制位108500，其实就是涨的多跌的少，然后逐渐抬高币价，思路很简单，每涨到一个压力位附近挂空吃点小幅度的回调，低位回调时积极接多，反复撸。\n操作建议：108500挂短空 止损11000，102000接多 止损99800.\n＃ETH压制为3690，最高3650，ETH上涨期间3690没摸过，3700压制还是有效。\n接下来怎么看：依旧中线看涨新高，短期3700可短空，日内有回调时接多。\n操作建议：3700短空 止损3760，3480接多 止损3430.\n\n补充：近期走势看图，涨的多跌的少不断震荡向上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987708243603493195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早间分析\n＃BTC思路连贯，107000附近接到，接到后预期内下跌，这里的下跌个人不会是大跌，跌至103500附近时主动走。 https://t.co/xpbw5nFGbq https://t.co/7kCYesG2f4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 494,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 297
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 66,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1991035278979649761",
+    "created_at": "2025-11-19T06:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T07:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991035278979649761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991035278979649761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991030215494312046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 还抄底吗各位\n\n《这次不一样》《早知道》《贪了》 《没跑掉》《差一分》《要是》《我就知道》《如果》《太贵了》《我感觉》《我感觉要涨》《我感觉要跌》《还会跌的》《有啥利空吗》《又亏了》《要跑吗》《为啥这样跌》《接回来》《没钱了》…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1991035278979649761",
+        "created_at": "2025-11-19T06:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991035278979649761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991035278979649761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991030215494312046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 还抄底吗各位\n\n《这次不一样》《早知道》《贪了》 《没跑掉》《差一分》《要是》《我就知道》《如果》《太贵了》《我感觉》《我感觉要涨》《我感觉要跌》《还会跌的》《有啥利空吗》《又亏了》《要跑吗》《为啥这样跌》《接回来》《没钱了》…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626084307226988546",
+        "conversation_id": "1991030215494312046",
+        "created_at": "2025-11-19T06:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991030215494312046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991030215494312046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "还抄底吗各位\n\n《这次不一样》《早知道》《贪了》 《没跑掉》《差一分》《要是》《我就知道》《如果》《太贵了》《我感觉》《我感觉要涨》《我感觉要跌》《还会跌的》《有啥利空吗》《又亏了》《要跑吗》《为啥这样跌》《接回来》《没钱了》 《忘记了》《接不到》《卧槽》《真服了》《完蛋了》《还有救吗》 《一笔》《背驰》《大概率》《完美防守》 《拼了》《还好》《还要拿吗》《老师怎么办》《会有很大问题吗》《下次一定跟》《救命》《吓死你》 《大腿拍断》《拉不住了》《不管了》《价值投资》《5年后再看》《下次一定遵守纪律》《违反了我的系统》《万一》《嗨呀》 《以后控制仓位慢慢来》《不敢跟家里人说》《回本了再也不玩了》 《要是能回本就好了》"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还抄底吗各位\n\n《这次不一样》《早知道》《贪了》 《没跑掉》《差一分》《要是》《我就知道》《如果》《太贵了》《我感觉》《我感觉要涨》《我感觉要跌》《还会跌的》《有啥利空吗》《又亏了》《要跑吗》《为啥这样跌》《接回来》《没钱了》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 514,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 332
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 68,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980069829563539789",
+    "created_at": "2025-10-20T00:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980069829563539789"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "Tabby"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "549846695",
+          "start": 3,
+          "username": "kakaluote1000"
+        },
+        {
+          "end": 77,
+          "id": "549846695",
+          "start": 63,
+          "username": "kakaluote1000"
+        },
+        {
+          "end": 93,
+          "id": "1528553367349276672",
+          "start": 84,
+          "username": "tabbypos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980069829563539789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979944524345663805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakaluote1000: 从今天起，我正式成为 $Tabby 的“空投哥”\n想要糖果的兄弟们，只要：\n✅ 关注我 @kakaluote1000 \n✅ 关注 @tabbypos \n✅ 转发此贴\n✅ 留下你的 BSC 地址\n48小时内你钱包里就多了一只小猫😼💰 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_1979944397836795904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3os8IwWQAAwYCv.jpg",
+        "width": 1791
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980069829563539789",
+        "created_at": "2025-10-20T00:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980069829563539789"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "Tabby"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "549846695",
+              "start": 3,
+              "username": "kakaluote1000"
+            },
+            {
+              "end": 77,
+              "id": "549846695",
+              "start": 63,
+              "username": "kakaluote1000"
+            },
+            {
+              "end": 93,
+              "id": "1528553367349276672",
+              "start": 84,
+              "username": "tabbypos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980069829563539789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979944524345663805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakaluote1000: 从今天起，我正式成为 $Tabby 的“空投哥”\n想要糖果的兄弟们，只要：\n✅ 关注我 @kakaluote1000 \n✅ 关注 @tabbypos \n✅ 转发此贴\n✅ 留下你的 BSC 地址\n48小时内你钱包里就多了一只小猫😼💰 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979944397836795904"
+          ]
+        },
+        "author_id": "549846695",
+        "conversation_id": "1979944524345663805",
+        "created_at": "2025-10-19T16:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979944524345663805"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "Tabby"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 58,
+              "id": "549846695",
+              "start": 44,
+              "username": "kakaluote1000"
+            },
+            {
+              "end": 74,
+              "id": "1528553367349276672",
+              "start": 65,
+              "username": "tabbypos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYzDlXskQw",
+              "end": 139,
+              "expanded_url": "https://x.com/kakaluote1000/status/1979944524345663805/photo/1",
+              "media_key": "3_1979944397836795904",
+              "start": 116,
+              "url": "https://t.co/CYzDlXskQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979944524345663805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4272,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 132,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "从今天起，我正式成为 $Tabby 的“空投哥”\n想要糖果的兄弟们，只要：\n✅ 关注我 @kakaluote1000 \n✅ 关注 @tabbypos \n✅ 转发此贴\n✅ 留下你的 BSC 地址\n48小时内你钱包里就多了一只小猫😼💰 https://t.co/CYzDlXskQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 452,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 164
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-10T05:52:25.000Z",
+        "description": "三轮熊市没倒下，还在继续梭哈",
+        "id": "549846695",
+        "location": "元宇宙",
+        "name": "卡卡罗特",
+        "pinned_tweet_id": "1979944524345663805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979455031486091264/B8q6aHJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 18,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "username": "kakaluote1000",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-23T01:48:29.000Z",
+        "description": "🚀 Web3 Crypto POS 🏆 Solana, ICP & Aptos Grantee 🏆 Gui Inu Hackathon Winner 👶 Born on Ergo 🟣 Solar member \nCa : 0x319558c8aD708dc42f45ab70eADA4750d6c942d7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/tabbypos",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/tabbypos",
+                "start": 0,
+                "url": "https://t.co/52PhdrTRsm"
+              }
+            ]
+          }
+        },
+        "id": "1528553367349276672",
+        "location": "Malaysia",
+        "name": "TabbyPOS",
+        "pinned_tweet_id": "1979395226272972974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647934643545739269/knrkliC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11828,
+          "following_count": 2338,
+          "like_count": 23581,
+          "listed_count": 33,
+          "media_count": 1573,
+          "tweet_count": 6333
+        },
+        "url": "https://t.co/52PhdrTRsm",
+        "username": "tabbypos",
+        "verified": true
+      }
+    ]
+  }
+}

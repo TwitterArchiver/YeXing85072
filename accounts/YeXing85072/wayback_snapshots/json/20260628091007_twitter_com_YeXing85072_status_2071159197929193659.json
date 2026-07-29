@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "2071147054114771006",
+    "created_at": "2026-06-28T09:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071159197929193659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943628759074312192",
+          "start": 0,
+          "username": "k3633455837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071159197929193659",
+    "in_reply_to_user_id": "1943628759074312192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071147054114771006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3633455837 bzd含服和鼻吸没什么区别吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2071147048532144128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4xRGlbcAA2tOS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "2071147054114771006",
+        "created_at": "2026-06-28T09:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071159197929193659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943628759074312192",
+              "start": 0,
+              "username": "k3633455837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071159197929193659",
+        "in_reply_to_user_id": "1943628759074312192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071147054114771006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3633455837 bzd含服和鼻吸没什么区别吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071147048532144128"
+          ]
+        },
+        "author_id": "1943628759074312192",
+        "conversation_id": "2071147054114771006",
+        "created_at": "2026-06-28T08:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071147054114771006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dh0Mqs2MAR",
+              "end": 28,
+              "expanded_url": "https://x.com/k3633455837/status/2071147054114771006/photo/1",
+              "media_key": "3_2071147048532144128",
+              "start": 5,
+              "url": "https://t.co/dh0Mqs2MAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071147054114771006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普唑仑 https://t.co/dh0Mqs2MAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 638,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:09:53.000Z",
+        "description": "精神病一个",
+        "id": "1943628759074312192",
+        "location": "理想国",
+        "name": "苦水",
+        "pinned_tweet_id": "2053523266665668915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982046920253014016/q4zIYHcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 102,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1910
+        },
+        "url": "",
+        "username": "k3633455837",
+        "verified": false
+      }
+    ]
+  }
+}

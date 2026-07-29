@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1990345973546254410",
+    "created_at": "2025-11-17T12:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T13:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990399588956610842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750451963765080064",
+          "start": 0,
+          "username": "BTC__Sunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990399588956610842",
+    "in_reply_to_user_id": "1750451963765080064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990345973546254410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTC__Sunny 感恩0x4389342f22916326c0f99778ecB6FDB055EB5F8C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1990345973546254410",
+        "created_at": "2025-11-17T12:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990399588956610842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750451963765080064",
+              "start": 0,
+              "username": "BTC__Sunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990399588956610842",
+        "in_reply_to_user_id": "1750451963765080064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990345973546254410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTC__Sunny 感恩0x4389342f22916326c0f99778ecB6FDB055EB5F8C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750451963765080064",
+        "conversation_id": "1990345973546254410",
+        "created_at": "2025-11-17T09:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990345973546254410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990345973546254410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6923,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 307,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "放BSC钱包地址"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 512,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 321
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T09:34:14.000Z",
+        "description": "2014年12月进圈，经历3次完整牛熊周期，擅长研究领域涉及（社区建设，交易分析，宏观经济分析，内容输出）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BTC_Sunny",
+                "end": 23,
+                "expanded_url": "http://t.me/BTC_Sunny",
+                "start": 0,
+                "url": "https://t.co/cOouHqd6Qr"
+              }
+            ]
+          }
+        },
+        "id": "1750451963765080064",
+        "location": "微信：BTC__Sunny（备注来意）",
+        "name": "🌞Sunny哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942618408261992457/Qw_xC9Rh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18704,
+          "following_count": 83,
+          "like_count": 20351,
+          "listed_count": 12,
+          "media_count": 1259,
+          "tweet_count": 29982
+        },
+        "url": "https://t.co/cOouHqd6Qr",
+        "username": "BTC__Sunny",
+        "verified": true
+      }
+    ]
+  }
+}

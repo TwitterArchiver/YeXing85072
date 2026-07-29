@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980125699165020172",
+    "created_at": "2025-10-20T06:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980156080186646568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "932870849128001536",
+          "start": 0,
+          "username": "DeepBrainChain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980156080186646568",
+    "in_reply_to_user_id": "932870849128001536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980125699165020172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeepBrainChain ai币牛逼\n\n0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 150692,
+        "height": 960,
+        "media_key": "13_1980124055484149760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980124055484149760/img/Qe_Wml-IVEvspelg.jpg",
+        "public_metrics": {
+          "view_count": 342
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980124055484149760/vid/avc1/320x480/SAjh9x-RrFFueVtR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980124055484149760/vid/avc1/480x720/uPOEOfJzPgSmc-PS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980124055484149760/vid/avc1/640x960/zcHTyBz7TqchOfUN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980124055484149760/pl/RmEVJh55RCgITpss.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980125699165020172",
+        "created_at": "2025-10-20T06:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980156080186646568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "932870849128001536",
+              "start": 0,
+              "username": "DeepBrainChain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980156080186646568",
+        "in_reply_to_user_id": "932870849128001536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980125699165020172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeepBrainChain ai币牛逼\n\n0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980124055484149760"
+          ]
+        },
+        "author_id": "932870849128001536",
+        "conversation_id": "1980125699165020172",
+        "created_at": "2025-10-20T04:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980125699165020172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "深脑链"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 77,
+              "id": "932870849128001536",
+              "start": 62,
+              "username": "DeepBrainChain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXdBUuDkdW",
+              "end": 128,
+              "expanded_url": "https://x.com/DeepBrainChain/status/1980125699165020172/video/1",
+              "media_key": "13_1980124055484149760",
+              "start": 105,
+              "url": "https://t.co/NXdBUuDkdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980125699165020172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1410,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 80,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "#深脑链 八年AI, 老板谱曲--- 拉盘拉盘深脑链\n凡参与者都会获得空投深脑链Meme币奖励！\n转发起来吧！\n\n✅ 关注 @DeepBrainChain\n🔁 转发此推文\n💬 评论 真实感想 + 你的钱包地址 https://t.co/NXdBUuDkdW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 460,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 176
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-21T07:18:37.000Z",
+        "description": "AI Public Chain,decentralized AI inference infrastructure.\n https://t.co/AiPsUH8xaR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/DeepBrainChain…",
+                "end": 83,
+                "expanded_url": "https://t.me/DeepBrainChainGlobal",
+                "start": 60,
+                "url": "https://t.co/AiPsUH8xaR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepbrainchain.org",
+                "end": 23,
+                "expanded_url": "http://www.deepbrainchain.org",
+                "start": 0,
+                "url": "https://t.co/dJfMPXLvFL"
+              }
+            ]
+          }
+        },
+        "id": "932870849128001536",
+        "location": "Singapore",
+        "name": "DeepBrainChain",
+        "pinned_tweet_id": "1885893641258053850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/962627076380549120/HHbM9ttH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66296,
+          "following_count": 619,
+          "like_count": 1864,
+          "listed_count": 391,
+          "media_count": 819,
+          "tweet_count": 2975
+        },
+        "url": "https://t.co/dJfMPXLvFL",
+        "username": "DeepBrainChain",
+        "verified": true
+      }
+    ]
+  }
+}

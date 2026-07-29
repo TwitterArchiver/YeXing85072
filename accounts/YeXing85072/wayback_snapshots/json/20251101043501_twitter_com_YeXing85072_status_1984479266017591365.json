@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1984479266017591365",
+    "created_at": "2025-11-01T04:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T05:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984479266017591365"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 22,
+          "tag": "BTC走势和预期一样"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984479266017591365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982993968951701588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 早间分析\n＃BTC走势和预期一样，回调113950后拉升，晚间分析给的113950点位，设个113720止损继续拿。\n接下来怎么看：有回调继续接多，等待行情拉升就行，111750挂多。\n上方压力位116400-117500区间\n第一支撑位111…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1984479266017591365",
+        "created_at": "2025-11-01T04:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984479266017591365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 22,
+              "tag": "BTC走势和预期一样"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984479266017591365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982993968951701588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 早间分析\n＃BTC走势和预期一样，回调113950后拉升，晚间分析给的113950点位，设个113720止损继续拿。\n接下来怎么看：有回调继续接多，等待行情拉升就行，111750挂多。\n上方压力位116400-117500区间\n第一支撑位111…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626084307226988546",
+        "conversation_id": "1982993968951701588",
+        "created_at": "2025-10-28T02:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982993968951701588"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 5,
+              "tag": "BTC走势和预期一样"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982993968951701588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 5,
+                "tag": "BTC走势和预期一样"
+              },
+              {
+                "end": 175,
+                "start": 161,
+                "tag": "ETH群里提示4090挂多"
+              }
+            ]
+          },
+          "text": "早间分析\n＃BTC走势和预期一样，回调113950后拉升，晚间分析给的113950点位，设个113720止损继续拿。\n接下来怎么看：有回调继续接多，等待行情拉升就行，111750挂多。\n上方压力位116400-117500区间\n第一支撑位111750\n第二支撑位108600\n操作建议：挂111750多，下方支撑位挂多。\n＃ETH群里提示4090挂多，刚好精准接到，设个保本继续拿。\n上方压力位4250\n第一支撑4075\n第二支撑3940\n直接说操作建议：走势同步BTC，回调积极接多，支撑位接。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "早间分析\n＃BTC走势和预期一样，回调113950后拉升，晚间分析给的113950点位，设个113720止损继续拿。\n接下来怎么看：有回调继续接多，等待行情拉升就行，111750挂多。\n上方压力位116400-117500区间\n第一支撑位111750\n第二支撑位108600\n操作建议：挂111750多，下方支撑位挂多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 495,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 247
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

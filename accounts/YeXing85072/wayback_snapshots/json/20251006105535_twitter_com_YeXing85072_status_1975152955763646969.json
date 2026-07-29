@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975152941595344897"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1975152955763646969",
+    "created_at": "2025-10-06T10:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T11:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975152955763646969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UC2nxu13kz",
+          "end": 132,
+          "expanded_url": "https://x.com/YeXing85072/status/1975152955763646969/photo/1",
+          "media_key": "3_1975152941595344897",
+          "start": 109,
+          "url": "https://t.co/UC2nxu13kz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975152955763646969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿我知道你\n你知道吗我举办了一个药物搜寻活动\n那个药很重要\n重要到那个人忘记那个药\n那个谁他需要吃很多药\n只忘记了那个药\n只有那个药他忘记了\n其他无关的药他吞服了很多\n但忘记的药他忘记了\n请你帮他找他\n你吃\n只给你吃 https://t.co/UC2nxu13kz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975152941595344897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2knIrTbwAEZIro.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975152941595344897"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1975152955763646969",
+        "created_at": "2025-10-06T10:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975152955763646969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UC2nxu13kz",
+              "end": 132,
+              "expanded_url": "https://x.com/YeXing85072/status/1975152955763646969/photo/1",
+              "media_key": "3_1975152941595344897",
+              "start": 109,
+              "url": "https://t.co/UC2nxu13kz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975152955763646969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿我知道你\n你知道吗我举办了一个药物搜寻活动\n那个药很重要\n重要到那个人忘记那个药\n那个谁他需要吃很多药\n只忘记了那个药\n只有那个药他忘记了\n其他无关的药他吞服了很多\n但忘记的药他忘记了\n请你帮他找他\n你吃\n只给你吃 https://t.co/UC2nxu13kz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 402,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 104
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

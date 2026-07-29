@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1982636136821653509",
+    "created_at": "2025-10-27T02:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T03:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982636136821653509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796943871441833984",
+          "start": 3,
+          "username": "Mintclub002"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can view and join @oxjiangyu right away.",
+          "display_url": "t.me/oxjiangyu",
+          "end": 77,
+          "expanded_url": "https://t.me/oxjiangyu",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1982363615308234753/qyNWWOrt?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1982363615308234753/qyNWWOrt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "0x江屿（金狗角度）",
+          "unwound_url": "https://t.me/oxjiangyu",
+          "url": "https://t.co/ROXXbykPcH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982636136821653509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982304988346175589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mintclub002: 抽六个人 一个人 15U\n点赞 转发 评论\n\n确定性角度优先发禁言频道 \nhttps://t.co/ROXXbykPcH\n\n说一下昨天电报频道战绩：\n恶俗企鹅 最早15K发群里 \n一路CALL 一百万 王小二上了\n 我就睡觉了 早上高点两百多万…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_1982302928560939008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KOAsYXYAABj20.jpg",
+        "width": 906
+      },
+      {
+        "height": 507,
+        "media_key": "3_1982303954772844544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KO8bUWYAAcNDg.png",
+        "width": 690
+      },
+      {
+        "height": 582,
+        "media_key": "3_1982304204099145728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KPK8IX0AArn30.png",
+        "width": 864
+      },
+      {
+        "height": 783,
+        "media_key": "3_1982304256410443777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KPN_AW4AE6eZa.png",
+        "width": 611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1982636136821653509",
+        "created_at": "2025-10-27T02:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982636136821653509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796943871441833984",
+              "start": 3,
+              "username": "Mintclub002"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @oxjiangyu right away.",
+              "display_url": "t.me/oxjiangyu",
+              "end": 77,
+              "expanded_url": "https://t.me/oxjiangyu",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1982363615308234753/qyNWWOrt?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1982363615308234753/qyNWWOrt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "0x江屿（金狗角度）",
+              "unwound_url": "https://t.me/oxjiangyu",
+              "url": "https://t.co/ROXXbykPcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982636136821653509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982304988346175589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mintclub002: 抽六个人 一个人 15U\n点赞 转发 评论\n\n确定性角度优先发禁言频道 \nhttps://t.co/ROXXbykPcH\n\n说一下昨天电报频道战绩：\n恶俗企鹅 最早15K发群里 \n一路CALL 一百万 王小二上了\n 我就睡觉了 早上高点两百多万…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982302928560939008",
+            "3_1982303954772844544",
+            "3_1982304204099145728",
+            "3_1982304256410443777"
+          ]
+        },
+        "author_id": "1796943871441833984",
+        "conversation_id": "1982304988346175589",
+        "created_at": "2025-10-26T04:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:33:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982304568412164357",
+          "1982304988346175589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @oxjiangyu right away.",
+              "display_url": "t.me/oxjiangyu",
+              "end": 60,
+              "expanded_url": "https://t.me/oxjiangyu",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1982363615308234753/qyNWWOrt?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1982363615308234753/qyNWWOrt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "0x江屿（金狗角度）",
+              "unwound_url": "https://t.me/oxjiangyu",
+              "url": "https://t.co/ROXXbykPcH"
+            },
+            {
+              "display_url": "pic.x.com/XvwLQqw7at",
+              "end": 197,
+              "expanded_url": "https://x.com/Mintclub002/status/1982304988346175589/photo/1",
+              "media_key": "3_1982302928560939008",
+              "start": 174,
+              "url": "https://t.co/XvwLQqw7at"
+            },
+            {
+              "display_url": "pic.x.com/XvwLQqw7at",
+              "end": 197,
+              "expanded_url": "https://x.com/Mintclub002/status/1982304988346175589/photo/1",
+              "media_key": "3_1982303954772844544",
+              "start": 174,
+              "url": "https://t.co/XvwLQqw7at"
+            },
+            {
+              "display_url": "pic.x.com/XvwLQqw7at",
+              "end": 197,
+              "expanded_url": "https://x.com/Mintclub002/status/1982304988346175589/photo/1",
+              "media_key": "3_1982304204099145728",
+              "start": 174,
+              "url": "https://t.co/XvwLQqw7at"
+            },
+            {
+              "display_url": "pic.x.com/XvwLQqw7at",
+              "end": 197,
+              "expanded_url": "https://x.com/Mintclub002/status/1982304988346175589/photo/1",
+              "media_key": "3_1982304256410443777",
+              "start": 174,
+              "url": "https://t.co/XvwLQqw7at"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982304988346175589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "t.me/oxjiangyu",
+                "end": 60,
+                "expanded_url": "https://t.me/oxjiangyu",
+                "start": 37,
+                "url": "https://t.co/prl1d8FDMT"
+              }
+            ]
+          },
+          "text": "抽六个人 一个人 15U\n点赞 转发 评论\n\n确定性角度优先发禁言频道 \nhttps://t.co/prl1d8FDMT\n\n说一下昨天电报频道战绩：\n恶俗企鹅 最早15K发群里 \n一路CALL 一百万 王小二上了\n 我就睡觉了 早上高点两百多万 100多X\n拿住的群友 足以翻身\n\n其他的CALL  也有很多倍数\n学习资料  心得体会 感想什么的\n都在电报里\n欢迎大家来看"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 18226,
+          "like_count": 185,
+          "quote_count": 1,
+          "reply_count": 164,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "抽六个人 一个人 15U\n点赞 转发 评论\n\n确定性角度优先发禁言频道 \nhttps://t.co/ROXXbykPcH\n\n说一下昨天电报频道战绩：\n恶俗企鹅 最早15K发群里 \n一路CALL 一百万 王小二上了\n 我就睡觉了 早上高点两百多万 100多X\n拿住的群友 足以翻身\n\n其他的CALL  也有很多倍数\n学习资料  心得体会 感想什么的 https://t.co/XvwLQqw7at"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 486,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 233
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:36:33.000Z",
+        "description": "1000X GEM\n带兄弟们赚第一个100W\n有顶级叙事 推特私信我  我去给你们全力扩散\n确定性角度优先发禁言频道\nhttps://t.co/prl1d8F5Xl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/oxjiangyu",
+                "end": 82,
+                "expanded_url": "https://t.me/oxjiangyu",
+                "start": 59,
+                "url": "https://t.co/prl1d8F5Xl"
+              }
+            ]
+          }
+        },
+        "id": "1796943871441833984",
+        "location": "1000X GEM ",
+        "name": "0x江屿（简介进电报精选）",
+        "pinned_tweet_id": "1982304988346175589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960748688818753536/zJ3iVoEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 804,
+          "like_count": 504,
+          "listed_count": 35,
+          "media_count": 688,
+          "tweet_count": 2649
+        },
+        "username": "Mintclub002",
+        "verified": true
+      }
+    ]
+  }
+}

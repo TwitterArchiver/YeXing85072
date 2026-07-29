@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1979389947955106149",
+    "created_at": "2025-10-18T08:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T09:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979469625344885089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943709795065946112",
+          "start": 0,
+          "username": "lhd2621810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979469625344885089",
+    "in_reply_to_user_id": "1943709795065946112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979389947955106149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhd2621810 谢谢哥TPfBADWURF3vFKj1qS5dAGQW53U7BBEz9v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1979389947955106149",
+        "created_at": "2025-10-18T08:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T09:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979469625344885089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943709795065946112",
+              "start": 0,
+              "username": "lhd2621810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979469625344885089",
+        "in_reply_to_user_id": "1943709795065946112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979389947955106149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhd2621810 谢谢哥TPfBADWURF3vFKj1qS5dAGQW53U7BBEz9v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943709795065946112",
+        "conversation_id": "1979389947955106149",
+        "created_at": "2025-10-18T03:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979389947955106149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979389947955106149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11767,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 271,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "留下uid，每人100狗币，关注点赞不用转发！新人报团取暖，实在涨不动，只能抽奖了，每天抽20个，每天发，晚上开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 434,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 146
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:32:07.000Z",
+        "description": "本人曾经在《铁道游击队》中扮演铁道。📶        我特么懂不懂web3不确定，但是奶奶家门口有棵歪脖子树！\n币安https://t.co/1aq5r232UX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maxweb.black/activity/refer…",
+                "end": 81,
+                "expanded_url": "https://www.maxweb.black/activity/referral-entry/CPA?ref=CPA_00R4WO4EOR",
+                "start": 58,
+                "url": "https://t.co/1aq5r232UX"
+              }
+            ]
+          }
+        },
+        "id": "1943709795065946112",
+        "location": "Hong Kong",
+        "name": "蛋疼—哥♦️",
+        "pinned_tweet_id": "1979389947955106149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974475893356834817/m7F2wQy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 346,
+          "like_count": 449,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 691
+        },
+        "username": "lhd2621810",
+        "verified": false
+      }
+    ]
+  }
+}

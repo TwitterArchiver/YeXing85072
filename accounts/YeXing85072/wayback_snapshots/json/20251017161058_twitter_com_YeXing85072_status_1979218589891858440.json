@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1978904063698743514",
+    "created_at": "2025-10-17T16:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979218589891858440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "827100694465257476",
+          "start": 0,
+          "username": "wyl2035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979218589891858440",
+    "in_reply_to_user_id": "827100694465257476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978904063698743514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyl2035 老板发财"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1978904063698743514",
+        "created_at": "2025-10-17T16:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979218589891858440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "827100694465257476",
+              "start": 0,
+              "username": "wyl2035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979218589891858440",
+        "in_reply_to_user_id": "827100694465257476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978904063698743514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyl2035 老板发财"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827100694465257476",
+        "conversation_id": "1978904063698743514",
+        "created_at": "2025-10-16T19:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T20:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978904063698743514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "老板发财"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "老板发财"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978904063698743514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 27862,
+          "like_count": 248,
+          "quote_count": 1,
+          "reply_count": 476,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "我买了 #老板发财 这个币，主要我那个币安钱包自从开启以来，一直在亏钱，所以买点这个有非常好的寓意的币对冲一下，希望 #老板发财 能让我那个钱包不要再亏钱了🙏🙏🙏\n\n评论区留下：老板发财\n\n10月18号选2位兄弟，每个人500U🧧🧧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 434,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 145
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-02T10:25:47.000Z",
+        "description": "高端社群，服务会员100000+  合约，土狗，山寨，一级，二级主流币行情分析。精准提示抄底，逃顶点位，推荐10倍，50倍，百倍币 ❤️我的电报telegram飞机群: https://t.co/aVuMcDuRr7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+SMCdN8jsjns1Y…",
+                "end": 108,
+                "expanded_url": "https://t.me/+SMCdN8jsjns1YzE1",
+                "start": 85,
+                "url": "https://t.co/aVuMcDuRr7"
+              }
+            ]
+          }
+        },
+        "id": "827100694465257476",
+        "location": "People's Republic of China",
+        "name": "比特币教主",
+        "pinned_tweet_id": "1916180110165872913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734729586821435393/dLDEqq05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36217,
+          "following_count": 1386,
+          "like_count": 58,
+          "listed_count": 43,
+          "media_count": 1821,
+          "tweet_count": 5447
+        },
+        "username": "wyl2035",
+        "verified": true
+      }
+    ]
+  }
+}

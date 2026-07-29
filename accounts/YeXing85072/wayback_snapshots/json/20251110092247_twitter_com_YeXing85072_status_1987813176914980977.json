@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987732057804726272",
+        "3_1987732058459009024",
+        "3_1987732057246810112"
+      ],
+      "media_source_tweet_id": [
+        "1987732061319565720",
+        "1987732061319565720",
+        "1987732061319565720"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987813176914980977",
+    "created_at": "2025-11-10T09:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T10:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987813176914980977"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "只用实力说话"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CNRCe9uc1A",
+          "end": 102,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+          "media_key": "3_1987732057804726272",
+          "start": 79,
+          "url": "https://t.co/CNRCe9uc1A"
+        },
+        {
+          "display_url": "pic.x.com/CNRCe9uc1A",
+          "end": 102,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+          "media_key": "3_1987732058459009024",
+          "start": 79,
+          "url": "https://t.co/CNRCe9uc1A"
+        },
+        {
+          "display_url": "pic.x.com/CNRCe9uc1A",
+          "end": 102,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+          "media_key": "3_1987732057246810112",
+          "start": 79,
+          "url": "https://t.co/CNRCe9uc1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987813176914980977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987732061319565720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: #只用实力说话 第5期\n早上内部群里说了市场虽然回暖，但是没看到机会就不要操作，只空了aia，要么不出手，一出手就得见血！ https://t.co/CNRCe9uc1A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2089,
+        "media_key": "3_1987732057804726272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XXxm4bYAAGfst.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1653,
+        "media_key": "3_1987732058459009024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XXxpUa8AAxvbn.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2121,
+        "media_key": "3_1987732057246810112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XXxkzaQAAZHeh.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987732057804726272",
+            "3_1987732058459009024",
+            "3_1987732057246810112"
+          ],
+          "media_source_tweet_id": [
+            "1987732061319565720",
+            "1987732061319565720",
+            "1987732061319565720"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987813176914980977",
+        "created_at": "2025-11-10T09:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987813176914980977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "只用实力说话"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNRCe9uc1A",
+              "end": 102,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+              "media_key": "3_1987732057804726272",
+              "start": 79,
+              "url": "https://t.co/CNRCe9uc1A"
+            },
+            {
+              "display_url": "pic.x.com/CNRCe9uc1A",
+              "end": 102,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+              "media_key": "3_1987732058459009024",
+              "start": 79,
+              "url": "https://t.co/CNRCe9uc1A"
+            },
+            {
+              "display_url": "pic.x.com/CNRCe9uc1A",
+              "end": 102,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+              "media_key": "3_1987732057246810112",
+              "start": 79,
+              "url": "https://t.co/CNRCe9uc1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987813176914980977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987732061319565720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: #只用实力说话 第5期\n早上内部群里说了市场虽然回暖，但是没看到机会就不要操作，只空了aia，要么不出手，一出手就得见血！ https://t.co/CNRCe9uc1A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987732057804726272",
+            "3_1987732058459009024",
+            "3_1987732057246810112"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987732061319565720",
+        "created_at": "2025-11-10T04:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987732061319565720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "只用实力说话"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNRCe9uc1A",
+              "end": 85,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+              "media_key": "3_1987732057804726272",
+              "start": 62,
+              "url": "https://t.co/CNRCe9uc1A"
+            },
+            {
+              "display_url": "pic.x.com/CNRCe9uc1A",
+              "end": 85,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+              "media_key": "3_1987732058459009024",
+              "start": 62,
+              "url": "https://t.co/CNRCe9uc1A"
+            },
+            {
+              "display_url": "pic.x.com/CNRCe9uc1A",
+              "end": 85,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1987732061319565720/photo/1",
+              "media_key": "3_1987732057246810112",
+              "start": 62,
+              "url": "https://t.co/CNRCe9uc1A"
+            },
+            {
+              "display_url": "x.com/pilgrim_wyl/st…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/pilgrim_wyl/status/1987709558228398572",
+              "start": 86,
+              "url": "https://t.co/yTCDs1uwL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987732061319565720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987709558228398572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#只用实力说话 第5期\n早上内部群里说了市场虽然回暖，但是没看到机会就不要操作，只空了aia，要么不出手，一出手就得见血！ https://t.co/CNRCe9uc1A https://t.co/yTCDs1uwL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 494,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 295
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 65,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

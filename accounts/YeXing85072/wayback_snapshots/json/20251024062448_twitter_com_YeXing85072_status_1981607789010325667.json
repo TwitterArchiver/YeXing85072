@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1981356818178990195",
+    "created_at": "2025-10-24T06:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T07:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981607789010325667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "498758361",
+          "start": 0,
+          "username": "crypto_xpotato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981607789010325667",
+    "in_reply_to_user_id": "498758361",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981356818178990195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crypto_xpotato 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981356810620571648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38xhYZXEAAI0_I.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1981356818178990195",
+        "created_at": "2025-10-24T06:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981607789010325667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "498758361",
+              "start": 0,
+              "username": "crypto_xpotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981607789010325667",
+        "in_reply_to_user_id": "498758361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981356818178990195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crypto_xpotato 0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981356810620571648"
+          ]
+        },
+        "author_id": "498758361",
+        "conversation_id": "1981356818178990195",
+        "created_at": "2025-10-23T13:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981356818178990195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "世界和平"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QirQXKzNaa",
+              "end": 110,
+              "expanded_url": "https://x.com/crypto_xpotato/status/1981356818178990195/photo/1",
+              "media_key": "3_1981356810620571648",
+              "start": 87,
+              "url": "https://t.co/QirQXKzNaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981356818178990195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 38657,
+          "like_count": 317,
+          "quote_count": 1,
+          "reply_count": 616,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "#世界和平 突破100m时，评论区留地址的每人空投500u ，我累积仓位已达到1%，我无限看好世界和平🙏，也欢迎各位大佬参与建设。\n\n还有10wu闲置资金，随时准备抄底！！ https://t.co/QirQXKzNaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 487,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 228
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-21T11:42:52.000Z",
+        "description": "On-chain sleuth",
+        "id": "498758361",
+        "location": "Welcome to the xxx Army !",
+        "name": "ᴘ ᴏ ᴛ ᴀ ᴛ ᴏ",
+        "pinned_tweet_id": "1981356818178990195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979141579198640128/Yg-twldt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 525,
+          "like_count": 1009,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 636
+        },
+        "username": "crypto_xpotato",
+        "verified": false
+      }
+    ]
+  }
+}

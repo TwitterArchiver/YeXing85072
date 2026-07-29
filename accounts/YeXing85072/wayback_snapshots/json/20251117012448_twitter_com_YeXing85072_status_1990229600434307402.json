@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1990229600434307402",
+    "created_at": "2025-11-17T01:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T02:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990229600434307402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854765106292563968",
+          "start": 3,
+          "username": "XIGUA0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990229600434307402",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990036213290738153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XIGUA0903: 0x0359824dec1d9392c955d944833b34bda3dd8006\n0xc5f7825aa6b7d3cf60a327a34bb85f5a1947c5e0\n0xb36a5ff5f0e14f05cbca64e7e14357026586…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_1990036204759511040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54HYnLbcAARysz.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1990229600434307402",
+        "created_at": "2025-11-17T01:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990229600434307402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854765106292563968",
+              "start": 3,
+              "username": "XIGUA0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990229600434307402",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990036213290738153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XIGUA0903: 0x0359824dec1d9392c955d944833b34bda3dd8006\n0xc5f7825aa6b7d3cf60a327a34bb85f5a1947c5e0\n0xb36a5ff5f0e14f05cbca64e7e14357026586…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990036204759511040"
+          ]
+        },
+        "author_id": "1854765106292563968",
+        "conversation_id": "1990036213290738153",
+        "created_at": "2025-11-16T12:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990036213290738153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPZAPpQP8K",
+              "end": 263,
+              "expanded_url": "https://x.com/XIGUA0903/status/1990036213290738153/photo/1",
+              "media_key": "3_1990036204759511040",
+              "start": 240,
+              "url": "https://t.co/mPZAPpQP8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990036213290738153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7735,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 110,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "0x0359824dec1d9392c955d944833b34bda3dd8006\n0xc5f7825aa6b7d3cf60a327a34bb85f5a1947c5e0\n0xb36a5ff5f0e14f05cbca64e7e14357026586ccc3\n0x5652a27d2c9264cf7d61933d551d821b4265b804\n0x7473064d31339882b36ec01e8c41a71a3840d536\n这五个地址一个转了30u\n明天这时候继续抽今天的 https://t.co/mPZAPpQP8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 507,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 317
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T05:57:30.000Z",
+        "description": "No gamble, no future.永远在场",
+        "id": "1854765106292563968",
+        "name": "🍉",
+        "pinned_tweet_id": "1989325026047427056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901838925095952386/jAvPSvjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 900,
+          "like_count": 176,
+          "listed_count": 18,
+          "media_count": 57,
+          "tweet_count": 967
+        },
+        "username": "XIGUA0903",
+        "verified": true
+      }
+    ]
+  }
+}

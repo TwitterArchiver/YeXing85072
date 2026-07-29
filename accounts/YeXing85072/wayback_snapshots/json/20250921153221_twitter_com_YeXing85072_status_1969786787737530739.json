@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969786778300407808"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969786787737530739",
+    "created_at": "2025-09-21T15:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969786787737530739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pbzoQfUPU8",
+          "end": 27,
+          "expanded_url": "https://x.com/YeXing85072/status/1969786787737530739/photo/1",
+          "media_key": "3_1969786778300407808",
+          "start": 4,
+          "url": "https://t.co/pbzoQfUPU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969786787737530739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已圆满 https://t.co/pbzoQfUPU8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969786778300407808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YWo3PbYAAKlWZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969786778300407808"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969786787737530739",
+        "created_at": "2025-09-21T15:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969786787737530739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbzoQfUPU8",
+              "end": 27,
+              "expanded_url": "https://x.com/YeXing85072/status/1969786787737530739/photo/1",
+              "media_key": "3_1969786778300407808",
+              "start": 4,
+              "url": "https://t.co/pbzoQfUPU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969786787737530739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已圆满 https://t.co/pbzoQfUPU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 163,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 19
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

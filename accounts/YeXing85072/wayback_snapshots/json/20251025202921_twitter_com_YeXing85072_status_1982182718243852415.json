@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1982182718243852415",
+    "created_at": "2025-10-25T20:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T21:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982182718243852415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1873740923433312256",
+          "start": 3,
+          "username": "xukeith150986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982182718243852415",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978304383608610964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xukeith150986: 1. Unified risk &amp; hedging across spot-margin, futures, and options to keep drawdowns controlled.\n2. Parallel multi-strat…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_1978304375404539904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RZWRGWsAAocId.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1112,
+        "media_key": "3_1978304379871526913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RZWhvXgAEDeSe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1112,
+        "media_key": "3_1978304371583504384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RZWC3WUAA8zjk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1112,
+        "media_key": "3_1978304375228358656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RZWQcWYAAXkj6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1982182718243852415",
+        "created_at": "2025-10-25T20:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T21:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982182718243852415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1873740923433312256",
+              "start": 3,
+              "username": "xukeith150986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982182718243852415",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978304383608610964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xukeith150986: 1. Unified risk &amp; hedging across spot-margin, futures, and options to keep drawdowns controlled.\n2. Parallel multi-strat…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978304375404539904",
+            "3_1978304379871526913",
+            "3_1978304371583504384",
+            "3_1978304375228358656"
+          ]
+        },
+        "author_id": "1873740923433312256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978304383608610964",
+        "created_at": "2025-10-15T03:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T04:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978304383608610964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rwfjDXuce",
+              "end": 226,
+              "expanded_url": "https://x.com/xukeith150986/status/1978304383608610964/photo/1",
+              "media_key": "3_1978304375404539904",
+              "start": 203,
+              "url": "https://t.co/5rwfjDXuce"
+            },
+            {
+              "display_url": "pic.x.com/5rwfjDXuce",
+              "end": 226,
+              "expanded_url": "https://x.com/xukeith150986/status/1978304383608610964/photo/1",
+              "media_key": "3_1978304379871526913",
+              "start": 203,
+              "url": "https://t.co/5rwfjDXuce"
+            },
+            {
+              "display_url": "pic.x.com/5rwfjDXuce",
+              "end": 226,
+              "expanded_url": "https://x.com/xukeith150986/status/1978304383608610964/photo/1",
+              "media_key": "3_1978304371583504384",
+              "start": 203,
+              "url": "https://t.co/5rwfjDXuce"
+            },
+            {
+              "display_url": "pic.x.com/5rwfjDXuce",
+              "end": 226,
+              "expanded_url": "https://x.com/xukeith150986/status/1978304383608610964/photo/1",
+              "media_key": "3_1978304375228358656",
+              "start": 203,
+              "url": "https://t.co/5rwfjDXuce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978304383608610964",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1. Unified risk &amp; hedging across spot-margin, futures, and options to keep drawdowns controlled.\n2. Parallel multi-strategy matrix with unified capital/position management for diversified execution. https://t.co/5rwfjDXuce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 488,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 232
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T14:40:36.000Z",
+        "description": "An AI-driven multi-strategy quant platform unifying spot-margin, futures, and options under one risk-and-hedging stack.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+OryXrgHggjBjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+OryXrgHggjBjNWU1",
+                "start": 0,
+                "url": "https://t.co/Jes7OwoxQo"
+              }
+            ]
+          }
+        },
+        "id": "1873740923433312256",
+        "name": "VectorKeith",
+        "pinned_tweet_id": "1978304383608610964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978301176643813376/9jsVKxgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 104,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/Jes7OwoxQo",
+        "username": "xukeith150986",
+        "verified": false
+      }
+    ]
+  }
+}

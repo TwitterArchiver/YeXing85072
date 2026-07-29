@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1983568824822813002",
+    "created_at": "2025-10-29T16:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983573761371861377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796943871441833984",
+          "start": 0,
+          "username": "Mintclub002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "inv.debot.ai/r/279708?lang=…",
+          "end": 36,
+          "expanded_url": "https://inv.debot.ai/r/279708?lang=zh",
+          "start": 13,
+          "status": 200,
+          "unwound_url": "https://inv.debot.ai/r/279708?lang=zh",
+          "url": "https://t.co/6iftD6iCSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983573761371861377",
+    "in_reply_to_user_id": "1796943871441833984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983568824822813002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintclub002 https://t.co/6iftD6iCSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1119,
+        "media_key": "3_1983568092329574400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4cMq6sagAA7pU4.jpg",
+        "width": 561
+      },
+      {
+        "height": 1086,
+        "media_key": "3_1983568138420850691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4cMtmZbkAM6U5A.png",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1983568824822813002",
+        "created_at": "2025-10-29T16:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983573761371861377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796943871441833984",
+              "start": 0,
+              "username": "Mintclub002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "inv.debot.ai/r/279708?lang=…",
+              "end": 36,
+              "expanded_url": "https://inv.debot.ai/r/279708?lang=zh",
+              "start": 13,
+              "status": 200,
+              "unwound_url": "https://inv.debot.ai/r/279708?lang=zh",
+              "url": "https://t.co/6iftD6iCSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983573761371861377",
+        "in_reply_to_user_id": "1796943871441833984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983568824822813002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintclub002 https://t.co/6iftD6iCSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983568092329574400",
+            "3_1983568138420850691"
+          ]
+        },
+        "author_id": "1796943871441833984",
+        "conversation_id": "1983568824822813002",
+        "created_at": "2025-10-29T16:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983568824822813002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "通过 Debot 专属邀请链接注册，立享手续费永久减免10%优惠，开启高效智能的加密交易体验。注册越早，省得越多，立即加入！",
+              "display_url": "inv.debot.ai/r/181544",
+              "end": 172,
+              "expanded_url": "https://inv.debot.ai/r/181544",
+              "images": [
+                {
+                  "height": 340,
+                  "url": "https://pbs.twimg.com/news_img/1983568829432414208/ZCfgJJzR?format=png&name=orig",
+                  "width": 680
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983568829432414208/ZCfgJJzR?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 149,
+              "status": 200,
+              "title": "Debot 专属邀请，享手续费永久减免10%",
+              "unwound_url": "https://inv.debot.ai/r/181544",
+              "url": "https://t.co/SGphDtYsjM"
+            },
+            {
+              "display_url": "pic.x.com/TCfKRvyPIs",
+              "end": 196,
+              "expanded_url": "https://x.com/Mintclub002/status/1983568824822813002/photo/1",
+              "media_key": "3_1983568092329574400",
+              "start": 173,
+              "url": "https://t.co/TCfKRvyPIs"
+            },
+            {
+              "display_url": "pic.x.com/TCfKRvyPIs",
+              "end": 196,
+              "expanded_url": "https://x.com/Mintclub002/status/1983568824822813002/photo/1",
+              "media_key": "3_1983568138420850691",
+              "start": 173,
+              "url": "https://t.co/TCfKRvyPIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983568824822813002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "inv.debot.ai/r/181544",
+                "end": 172,
+                "expanded_url": "https://inv.debot.ai/r/181544",
+                "start": 149,
+                "url": "https://t.co/SzlXWs5j4H"
+              }
+            ]
+          },
+          "text": "江屿xDebot 专属福利来啦：\n十月份这波BSC牛市 很多人都选择使用DEBOT\n有自己的APP 出门手机打狗也很方便\n\n福利：\n8个名额 每个25U （评论区随机抽取）\n赠送Debot 价值30U的PRO会员 （评论区随机抽取十名）\n可以私信我一份 我自己扒出来的地址 （走链接都送）\n\n链接：https://t.co/SzlXWs5j4H\n点赞转发评论区留下你们的debot邀请码\n必须通过链接注册的才能中奖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 230,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "江屿xDebot 专属福利来啦：\n十月份这波BSC牛市 很多人都选择使用DEBOT\n有自己的APP 出门手机打狗也很方便\n\n福利：\n8个名额 每个25U （评论区随机抽取）\n赠送Debot 价值30U的PRO会员 （评论区随机抽取十名）\n可以私信我一份 我自己扒出来的地址 （走链接都送）\n\n链接：https://t.co/SGphDtYsjM https://t.co/TCfKRvyPIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 494,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 239
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:36:33.000Z",
+        "description": "1000X GEM\n带兄弟们赚第一个100W\n有顶级叙事 推特私信我  我去给你们全力扩散\n确定性角度优先发禁言频道\nhttps://t.co/prl1d8F5Xl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/oxjiangyu",
+                "end": 82,
+                "expanded_url": "https://t.me/oxjiangyu",
+                "start": 59,
+                "url": "https://t.co/prl1d8F5Xl"
+              }
+            ]
+          }
+        },
+        "id": "1796943871441833984",
+        "location": "1000X GEM ",
+        "name": "0x江屿（简介进电报精选）",
+        "pinned_tweet_id": "1983568824822813002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960748688818753536/zJ3iVoEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 811,
+          "like_count": 539,
+          "listed_count": 38,
+          "media_count": 723,
+          "tweet_count": 2765
+        },
+        "username": "Mintclub002",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1973695705790468453",
+    "created_at": "2025-10-02T10:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T11:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973696293852827864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973696293852827864",
+    "in_reply_to_user_id": "1962759363246129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973695705790468453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兴许给螃蟹喂点5-meo-dmt，有谁感兴趣吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973695696328093696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2P5x1pacAAyFTb.jpg",
+        "width": 944
+      },
+      {
+        "height": 1500,
+        "media_key": "3_1973695696332316672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2P5x1qa4AAeoCc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1442,
+        "media_key": "3_1973695696323981312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2P5x1obsAAYjg_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 291,
+        "media_key": "3_1973695696311345152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2P5x1la4AARYNp.jpg",
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1973695705790468453",
+        "created_at": "2025-10-02T10:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973696293852827864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973696293852827864",
+        "in_reply_to_user_id": "1962759363246129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973695705790468453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兴许给螃蟹喂点5-meo-dmt，有谁感兴趣吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973695696328093696",
+            "3_1973695696332316672",
+            "3_1973695696323981312",
+            "3_1973695696311345152"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1973695705790468453",
+        "created_at": "2025-10-02T10:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973695705790468453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/67b5w8tX9O",
+              "end": 35,
+              "expanded_url": "https://x.com/YeXing85072/status/1973695705790468453/photo/1",
+              "media_key": "3_1973695696328093696",
+              "start": 12,
+              "url": "https://t.co/67b5w8tX9O"
+            },
+            {
+              "display_url": "pic.x.com/67b5w8tX9O",
+              "end": 35,
+              "expanded_url": "https://x.com/YeXing85072/status/1973695705790468453/photo/1",
+              "media_key": "3_1973695696332316672",
+              "start": 12,
+              "url": "https://t.co/67b5w8tX9O"
+            },
+            {
+              "display_url": "pic.x.com/67b5w8tX9O",
+              "end": 35,
+              "expanded_url": "https://x.com/YeXing85072/status/1973695705790468453/photo/1",
+              "media_key": "3_1973695696323981312",
+              "start": 12,
+              "url": "https://t.co/67b5w8tX9O"
+            },
+            {
+              "display_url": "pic.x.com/67b5w8tX9O",
+              "end": 35,
+              "expanded_url": "https://x.com/YeXing85072/status/1973695705790468453/photo/1",
+              "media_key": "3_1973695696311345152",
+              "start": 12,
+              "url": "https://t.co/67b5w8tX9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973695705790468453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有谁买阳澄湖大闸蟹找我 https://t.co/67b5w8tX9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 343,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 69
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

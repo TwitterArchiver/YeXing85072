@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1983138059999949105",
+    "created_at": "2025-10-29T05:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T06:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983410127979065411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1393107434059616257",
+          "start": 0,
+          "username": "0xMoon6626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983410127979065411",
+    "in_reply_to_user_id": "1393107434059616257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983138059999949105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xMoon6626 哥来点0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983138052055961600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WFjR1bEAA_DKU.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1983138059999949105",
+        "created_at": "2025-10-29T05:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T06:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983410127979065411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1393107434059616257",
+              "start": 0,
+              "username": "0xMoon6626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983410127979065411",
+        "in_reply_to_user_id": "1393107434059616257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983138059999949105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xMoon6626 哥来点0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983138052055961600"
+          ]
+        },
+        "author_id": "1393107434059616257",
+        "conversation_id": "1983138059999949105",
+        "created_at": "2025-10-28T11:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983138059999949105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUSE1lFnwp",
+              "end": 25,
+              "expanded_url": "https://x.com/0xMoon6626/status/1983138059999949105/photo/1",
+              "media_key": "3_1983138052055961600",
+              "start": 2,
+              "url": "https://t.co/WUSE1lFnwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983138059999949105",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 91178,
+          "like_count": 138,
+          "quote_count": 3,
+          "reply_count": 459,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/WUSE1lFnwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 490,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 235
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-14T07:34:39.000Z",
+        "description": "Founder of @MOONIGHTCLUB \n币安广场创作者｜HTX广场创作者｜Gate民间发言人 \n近3亿用户选择买币在币安https://t.co/yONbHFnppQ\n币安钱包9折邀请码：MOON6626｜OKX钱包8折邀请码：0XMOON",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "MOONIGHTCLUB"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=MOON6…",
+                "end": 89,
+                "expanded_url": "https://www.binance.com/join?ref=MOON6626",
+                "start": 66,
+                "url": "https://t.co/yONbHFnppQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Moon6626",
+                "end": 23,
+                "expanded_url": "https://t.me/Moon6626",
+                "start": 0,
+                "url": "https://t.co/9R4LsDdGv7"
+              }
+            ]
+          }
+        },
+        "id": "1393107434059616257",
+        "location": "Telegram",
+        "name": "0xMoon",
+        "pinned_tweet_id": "1793852734887821709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946537446034071553/tNkWpnyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37388,
+          "following_count": 892,
+          "like_count": 19489,
+          "listed_count": 261,
+          "media_count": 4368,
+          "tweet_count": 31641
+        },
+        "url": "https://t.co/9R4LsDdGv7",
+        "username": "0xMoon6626",
+        "verified": true
+      }
+    ]
+  }
+}

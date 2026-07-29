@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1982636531493081361",
+    "created_at": "2025-10-28T05:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T06:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983038155046715829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894548093905084416",
+          "start": 0,
+          "username": "oooodjdjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983038155046715829",
+    "in_reply_to_user_id": "1894548093905084416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982636531493081361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oooodjdjd 谢谢哥1174017882"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_1982635736785403904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4O8sroWwAAG1wH.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1982636531493081361",
+        "created_at": "2025-10-28T05:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983038155046715829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894548093905084416",
+              "start": 0,
+              "username": "oooodjdjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983038155046715829",
+        "in_reply_to_user_id": "1894548093905084416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982636531493081361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oooodjdjd 谢谢哥1174017882"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982635736785403904"
+          ]
+        },
+        "author_id": "1894548093905084416",
+        "conversation_id": "1982636531493081361",
+        "created_at": "2025-10-27T02:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982636531493081361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MaJEc6D6t",
+              "end": 171,
+              "expanded_url": "https://x.com/oooodjdjd/status/1982636531493081361/photo/1",
+              "media_key": "3_1982635736785403904",
+              "start": 148,
+              "url": "https://t.co/3MaJEc6D6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982636531493081361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个月在中文meme赚了点小钱\n提200U出来\n买了一个苹果耳机1200CNY\n确实贵啊，但是还是很好用的\n剩下的钱给各位抽奖吧\n也不多，抽到的我会私信看账号的\n上期抽了的哈，很多人参加\n有人私信我说好多次都没抽中\n我说白了，你参加很多次我会眼熟的，不要骗我\n\n这期也是一样，点赞关注转发！！！\n评论币安的uid最好\n其他的也行，只是会被扣和手续费"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20606,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 154,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "这个月在中文meme赚了点小钱\n提200U出来\n买了一个苹果耳机1200CNY\n确实贵啊，但是还是很好用的\n剩下的钱给各位抽奖吧\n也不多，抽到的我会私信看账号的\n上期抽了的哈，很多人参加\n有人私信我说好多次都没抽中\n我说白了，你参加很多次我会眼熟的，不要骗我\n\n这期也是一样，点赞关注转发！！！ https://t.co/3MaJEc6D6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 487,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 234
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T00:40:49.000Z",
+        "description": "操盘 5+ Web3 社群｜人均收益 $200+ 币安代理｜WEEX 合作伙伴 解析热门项目｜推荐岗位｜抽奖不断 人均收益 $200+｜Conversion 40%+",
+        "id": "1894548093905084416",
+        "location": "Canyon Rim, UT",
+        "name": "meme",
+        "pinned_tweet_id": "1965270083527417941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949422290019790848/6cIshmX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 868,
+          "like_count": 1346,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 571
+        },
+        "username": "oooodjdjd",
+        "verified": true
+      }
+    ]
+  }
+}

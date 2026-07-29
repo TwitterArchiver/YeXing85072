@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1985551727274471496",
+    "created_at": "2025-11-04T03:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985551727274471496"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 22,
+          "tag": "BTC最晚回踩上涨趋势线105300附近后反弹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985551727274471496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985531998157550067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 早间分析\n＃BTC最晚回踩上涨趋势线105300附近后反弹，然后小幅度上涨。\n接下来怎么看：这里仍然不是止跌信号，反弹力度不足，上涨趋势线的支撑如果再回踩一次就要失效。从反弹力度来看显然主力已经对这个区间逐渐放弃，抄底资金目前不对这个区间看好，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_1985531992109432837",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44G07fbQAU0bGm.jpg",
+        "width": 1280
+      },
+      {
+        "height": 679,
+        "media_key": "3_1985531992088461315",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44G07abQAMRtW6.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1985551727274471496",
+        "created_at": "2025-11-04T03:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985551727274471496"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 22,
+              "tag": "BTC最晚回踩上涨趋势线105300附近后反弹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985551727274471496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985531998157550067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 早间分析\n＃BTC最晚回踩上涨趋势线105300附近后反弹，然后小幅度上涨。\n接下来怎么看：这里仍然不是止跌信号，反弹力度不足，上涨趋势线的支撑如果再回踩一次就要失效。从反弹力度来看显然主力已经对这个区间逐渐放弃，抄底资金目前不对这个区间看好，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985531992109432837",
+            "3_1985531992088461315"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "conversation_id": "1985531998157550067",
+        "created_at": "2025-11-04T02:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T03:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985531998157550067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 5,
+              "tag": "BTC最晚回踩上涨趋势线105300附近后反弹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtbI2qc9GL",
+              "end": 171,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985531998157550067/photo/1",
+              "media_key": "3_1985531992109432837",
+              "start": 148,
+              "url": "https://t.co/gtbI2qc9GL"
+            },
+            {
+              "display_url": "pic.x.com/gtbI2qc9GL",
+              "end": 171,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985531998157550067/photo/1",
+              "media_key": "3_1985531992088461315",
+              "start": 148,
+              "url": "https://t.co/gtbI2qc9GL"
+            },
+            {
+              "display_url": "x.com/pilgrim_wyl/st…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/pilgrim_wyl/status/1985179709874041318",
+              "start": 172,
+              "url": "https://t.co/knLc1ls1qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985531998157550067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 5,
+                "tag": "BTC最晚回踩上涨趋势线105300附近后反弹"
+              },
+              {
+                "end": 260,
+                "start": 251,
+                "tag": "ETH跌的幅度大"
+              }
+            ]
+          },
+          "text": "早间分析\n＃BTC最晚回踩上涨趋势线105300附近后反弹，然后小幅度上涨。\n接下来怎么看：这里仍然不是止跌信号，反弹力度不足，上涨趋势线的支撑如果再回踩一次就要失效。从反弹力度来看显然主力已经对这个区间逐渐放弃，抄底资金目前不对这个区间看好，依旧10w附近挂单，有强反弹时候才是短期止跌信号。\n小级别压制108700\n大级别压制116000\n第一支撑位105000-106000（减弱）\n第二支撑位99800-101000\n操作建议：逢高做空性价比高，10w附近挂多，心里要有再次下探10w的预期。\n＃ETH跌的幅度大，目前已经反弹到压力位3680附近，反弹幅度有限。\n接下来怎么看：3680的支撑转为压力，反弹到3680附近多单要走，仍然没有止跌，下方3400附近可以挂单，另外提一嘴3400跌破收不回，今年ETH新高应该无望，真到那时，思维要转为做空思维。\n操作建议：3680附近短空，3400附近挂多。\n\n补充：这里短期再次下探的风险我认为比较大，我手里的SOL现货和一部分山寨全清了，目前手里没有现货。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985179709874041318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早间分析\n＃BTC最晚回踩上涨趋势线105300附近后反弹，然后小幅度上涨。\n接下来怎么看：这里仍然不是止跌信号，反弹力度不足，上涨趋势线的支撑如果再回踩一次就要失效。从反弹力度来看显然主力已经对这个区间逐渐放弃，抄底资金目前不对这个区间看好，依旧10w附近挂单，有强反弹时候才是短期止跌信号。 https://t.co/gtbI2qc9GL https://t.co/knLc1ls1qX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 498,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 269
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

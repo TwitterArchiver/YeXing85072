@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990735252361523201"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1990735259353112802",
+    "created_at": "2025-11-18T10:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990735259353112802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wBwbxTNaIM",
+          "end": 152,
+          "expanded_url": "https://x.com/YeXing85072/status/1990735259353112802/photo/1",
+          "media_key": "3_1990735252361523201",
+          "start": 129,
+          "url": "https://t.co/wBwbxTNaIM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990735259353112802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "社区返佣计划启动，泉哥说本来想在芝麻搞，虽然返佣高但格局太小。以后返佣和社区邀请聚焦在币安，以后想进内部群的需要用币安或者芝麻交易，币安返佣先定在10%返佣，等社区发展起来了，返佣肯定会越来越高，有意向加入澜泉社区的请使用此邀请码注册币安：VFQYKR10 https://t.co/wBwbxTNaIM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_1990735252361523201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6CDKibbMAE1Wrh.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990735252361523201"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1990735259353112802",
+        "created_at": "2025-11-18T10:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990735259353112802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wBwbxTNaIM",
+              "end": 152,
+              "expanded_url": "https://x.com/YeXing85072/status/1990735259353112802/photo/1",
+              "media_key": "3_1990735252361523201",
+              "start": 129,
+              "url": "https://t.co/wBwbxTNaIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990735259353112802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社区返佣计划启动，泉哥说本来想在芝麻搞，虽然返佣高但格局太小。以后返佣和社区邀请聚焦在币安，以后想进内部群的需要用币安或者芝麻交易，币安返佣先定在10%返佣，等社区发展起来了，返佣肯定会越来越高，有意向加入澜泉社区的请使用此邀请码注册币安：VFQYKR10 https://t.co/wBwbxTNaIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 514,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 330
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

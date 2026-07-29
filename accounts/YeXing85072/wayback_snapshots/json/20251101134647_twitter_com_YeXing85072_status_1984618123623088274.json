@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1984544416456175996",
+    "created_at": "2025-11-01T13:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T14:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984618123623088274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827296989",
+          "start": 0,
+          "username": "BlockHunt123"
+        },
+        {
+          "end": 22,
+          "id": "1942970645752745984",
+          "start": 14,
+          "username": "LQP2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984618123623088274",
+    "in_reply_to_user_id": "1827296989",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984544416456175996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlockHunt123 @LQP2021 1174017882"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_1984544320519880706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qEi4GbQAIg-TI.png",
+        "width": 555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1984544416456175996",
+        "created_at": "2025-11-01T13:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984618123623088274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827296989",
+              "start": 0,
+              "username": "BlockHunt123"
+            },
+            {
+              "end": 22,
+              "id": "1942970645752745984",
+              "start": 14,
+              "username": "LQP2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984618123623088274",
+        "in_reply_to_user_id": "1827296989",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984544416456175996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlockHunt123 @LQP2021 1174017882"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984544320519880706"
+          ]
+        },
+        "author_id": "1827296989",
+        "conversation_id": "1984544416456175996",
+        "created_at": "2025-11-01T08:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T09:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984544416456175996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 81,
+              "id": "1827296989",
+              "start": 68,
+              "username": "BlockHunt123"
+            },
+            {
+              "end": 92,
+              "id": "1942970645752745984",
+              "start": 84,
+              "username": "LQP2021"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5WDftBM3W",
+              "end": 150,
+              "expanded_url": "https://x.com/BlockHunt123/status/1984544416456175996/photo/1",
+              "media_key": "3_1984544320519880706",
+              "start": 127,
+              "url": "https://t.co/x5WDftBM3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984544416456175996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 9698,
+          "like_count": 211,
+          "quote_count": 8,
+          "reply_count": 223,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "11月啦，祝大家天天开心，给大家送波福利🎉🎉\n\n抽2000U，十个人分，每人200U\n抽奖全程录屏，公平 公正 公开\n\n❣️要求：关注 @BlockHunt123 和 @LQP2021，转发本推文一键三连即可！！！\n\n再留下你的币安UID\n72小时开奖 https://t.co/x5WDftBM3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 499,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 251
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-08T10:48:32.000Z",
+        "description": "OKX钱包最高20%返佣邀请码：YINGGE888 注册链接： https://t.co/zjNW4XzIoI #Binance 近3亿用户的共同选择：https://t.co/sUz2j7RT20",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/ul/joindex?ref…",
+                "end": 55,
+                "expanded_url": "https://web3.okx.com/ul/joindex?ref=YINGGE888",
+                "start": 32,
+                "url": "https://t.co/zjNW4XzIoI"
+              },
+              {
+                "display_url": "accounts.binance.com/register?ref=Y…",
+                "end": 99,
+                "expanded_url": "https://accounts.binance.com/register?ref=YINGGE888",
+                "start": 76,
+                "url": "https://t.co/sUz2j7RT20"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=MjhhuWaq",
+                "end": 23,
+                "expanded_url": "https://gmgn.ai/?ref=MjhhuWaq",
+                "start": 0,
+                "url": "https://t.co/8BlL50zNCS"
+              }
+            ]
+          }
+        },
+        "id": "1827296989",
+        "location": "交易memecoins👉",
+        "name": "区块猎手",
+        "pinned_tweet_id": "1984544416456175996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914927698872557568/iBbNv8Qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7190,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 12,
+          "media_count": 7411,
+          "tweet_count": 23442
+        },
+        "url": "https://t.co/8BlL50zNCS",
+        "username": "BlockHunt123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T15:34:46.000Z",
+        "description": "OKX钱包最高20%返佣邀请码：YINGGE888 注册链接： https://t.co/lnwHsaoYDf #Binance 近3亿用户的共同选择：https://t.co/1YbNX3lmGD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/ul/joindex?ref…",
+                "end": 55,
+                "expanded_url": "https://web3.okx.com/ul/joindex?ref=YINGGE888",
+                "start": 32,
+                "url": "https://t.co/lnwHsaoYDf"
+              },
+              {
+                "display_url": "accounts.binance.com/register?ref=Y…",
+                "end": 99,
+                "expanded_url": "https://accounts.binance.com/register?ref=YINGGE888",
+                "start": 76,
+                "url": "https://t.co/1YbNX3lmGD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=MjhhuWaq",
+                "end": 23,
+                "expanded_url": "https://gmgn.ai/?ref=MjhhuWaq",
+                "start": 0,
+                "url": "https://t.co/UzLKzX1ykV"
+              }
+            ]
+          }
+        },
+        "id": "1942970645752745984",
+        "location": "交易memecoins👉",
+        "name": "棚哥说加密",
+        "pinned_tweet_id": "1984448830667157766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942971799295389697/nHsfgfn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5552,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 4345,
+          "tweet_count": 10665
+        },
+        "url": "https://t.co/UzLKzX1ykV",
+        "username": "LQP2021",
+        "verified": true
+      }
+    ]
+  }
+}

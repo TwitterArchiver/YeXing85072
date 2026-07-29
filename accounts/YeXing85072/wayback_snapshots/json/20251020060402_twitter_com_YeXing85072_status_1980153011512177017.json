@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "1980113871932465631",
+    "created_at": "2025-10-20T06:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980153011512177017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1323918699028312071",
+          "start": 0,
+          "username": "ZERO_BSC"
+        },
+        {
+          "end": 19,
+          "id": "44196397",
+          "start": 10,
+          "username": "elonmusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980153011512177017",
+    "in_reply_to_user_id": "1323918699028312071",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980113871932465631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZERO_BSC @elonmusk 666\n\n0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_1980113393232019456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rGo9qWgAAx2ga.png",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1980113871932465631",
+        "created_at": "2025-10-20T06:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980153011512177017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1323918699028312071",
+              "start": 0,
+              "username": "ZERO_BSC"
+            },
+            {
+              "end": 19,
+              "id": "44196397",
+              "start": 10,
+              "username": "elonmusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980153011512177017",
+        "in_reply_to_user_id": "1323918699028312071",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980113871932465631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZERO_BSC @elonmusk 666\n\n0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980113393232019456"
+          ]
+        },
+        "author_id": "1323918699028312071",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1980113871932465631",
+        "created_at": "2025-10-20T03:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980113871932465631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "44196397",
+              "start": 5,
+              "username": "elonmusk"
+            },
+            {
+              "end": 52,
+              "id": "44196397",
+              "start": 43,
+              "username": "elonmusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v02DqSHFWk",
+              "end": 204,
+              "expanded_url": "https://x.com/ZERO_BSC/status/1980113871932465631/photo/1",
+              "media_key": "3_1980113393232019456",
+              "start": 181,
+              "url": "https://t.co/v02DqSHFWk"
+            },
+            {
+              "display_url": "x.com/ZERO_BSC/statu…",
+              "end": 228,
+              "expanded_url": "https://twitter.com/ZERO_BSC/status/1978410204644397381",
+              "start": 205,
+              "url": "https://t.co/MGTfhZTMhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980113871932465631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 236,
+                "start": 231,
+                "tag": "ZERO"
+              },
+              {
+                "end": 242,
+                "start": 237,
+                "tag": "BSC链"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "id": "44196397",
+                "start": 5,
+                "username": "elonmusk"
+              },
+              {
+                "end": 52,
+                "id": "44196397",
+                "start": 43,
+                "username": "elonmusk"
+              },
+              {
+                "end": 220,
+                "id": "902926941413453824",
+                "start": 209,
+                "username": "cz_binance"
+              },
+              {
+                "end": 230,
+                "id": "1052454006537314306",
+                "start": 221,
+                "username": "BNBCHAIN"
+              }
+            ]
+          },
+          "text": "为了感谢 @elonmusk 对ZERO的再次支持\nZERO社区启动第三轮抽奖 回馈 @elonmusk \n\n随机抽取8位幸运用户，每人$10000 ZERO，48小时开奖\n参与条件： \n点赞➕关注➕转发\n评论区留下你的BSC钱包\n\nZERO是BSC meme行情的起点\n现在BSC meme正在走向低谷\nZERO将再次引领BSC meme走向繁荣、辉煌、顶峰\n建设！建设！建设！Build！Build！Build！\n@cz_binance @BNBCHAIN #ZERO #BSC链"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9589,
+          "like_count": 162,
+          "quote_count": 3,
+          "reply_count": 167,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978410204644397381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了感谢 @elonmusk 对ZERO的再次支持\nZERO社区启动第三轮抽奖 回馈 @elonmusk \n\n随机抽取8位幸运用户，每人$10000 ZERO，48小时开奖\n参与条件： \n点赞➕关注➕转发\n评论区留下你的BSC钱包\n\nZERO是BSC meme行情的起点\n现在BSC meme正在走向低谷\nZERO将再次引领BSC meme走向繁荣、辉煌、顶峰 https://t.co/v02DqSHFWk https://t.co/MGTfhZTMhz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 459,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 174
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T09:23:18.000Z",
+        "description": "ZERO = Zero Gwei. Zero cents. Zero fees. CA：0x3f3f82d44324eeba2df01b558ab862fdc4bb4444 TG：https://t.co/SX6aBVu5yx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y6sgaeuu3LVmY…",
+                "end": 113,
+                "expanded_url": "https://t.me/+Y6sgaeuu3LVmY2Y1",
+                "start": 90,
+                "url": "https://t.co/SX6aBVu5yx"
+              }
+            ]
+          }
+        },
+        "id": "1323918699028312071",
+        "location": "web3",
+        "name": "ZERO",
+        "pinned_tweet_id": "1975062330838008142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975890870571499520/cXt55xx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 625,
+          "like_count": 248,
+          "listed_count": 11,
+          "media_count": 416,
+          "tweet_count": 1433
+        },
+        "username": "ZERO_BSC",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228059831,
+          "following_count": 1221,
+          "like_count": 178327,
+          "listed_count": 164698,
+          "media_count": 4188,
+          "tweet_count": 87889
+        },
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

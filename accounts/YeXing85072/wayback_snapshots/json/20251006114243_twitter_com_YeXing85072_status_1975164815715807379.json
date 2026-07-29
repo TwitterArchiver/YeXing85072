@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975164804324311040"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1975164815715807379",
+    "created_at": "2025-10-06T11:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T12:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975164815715807379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OwrYiZcbZr",
+          "end": 29,
+          "expanded_url": "https://x.com/YeXing85072/status/1975164815715807379/photo/1",
+          "media_key": "3_1975164804324311040",
+          "start": 6,
+          "url": "https://t.co/OwrYiZcbZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975164815715807379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "处对象dd https://t.co/OwrYiZcbZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975164804324311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kx7LaawAAWSTJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975164804324311040"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1975164815715807379",
+        "created_at": "2025-10-06T11:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975164815715807379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwrYiZcbZr",
+              "end": 29,
+              "expanded_url": "https://x.com/YeXing85072/status/1975164815715807379/photo/1",
+              "media_key": "3_1975164804324311040",
+              "start": 6,
+              "url": "https://t.co/OwrYiZcbZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975164815715807379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "处对象dd https://t.co/OwrYiZcbZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 402,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 105
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

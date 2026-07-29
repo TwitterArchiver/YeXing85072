@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1983944671647994038",
+    "created_at": "2025-11-03T03:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T04:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985187690254573616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1597567529303437315",
+          "start": 0,
+          "username": "dzhdo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985187690254573616",
+    "in_reply_to_user_id": "1597567529303437315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983944671647994038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzhdo2 我是星子加我qq 2873602414"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1983944668225400845",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hjKhOa8A0D1M4.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1983944671647994038",
+        "created_at": "2025-11-03T03:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T04:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985187690254573616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1597567529303437315",
+              "start": 0,
+              "username": "dzhdo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985187690254573616",
+        "in_reply_to_user_id": "1597567529303437315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983944671647994038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzhdo2 我是星子加我qq 2873602414"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983944668225400845"
+          ]
+        },
+        "author_id": "1597567529303437315",
+        "conversation_id": "1983944671647994038",
+        "created_at": "2025-10-30T17:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T18:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983944671647994038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2EUWhDuX5y",
+              "end": 57,
+              "expanded_url": "https://x.com/dzhdo2/status/1983944671647994038/photo/1",
+              "media_key": "3_1983944668225400845",
+              "start": 34,
+              "url": "https://t.co/2EUWhDuX5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983944671647994038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 178,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不打算发推了——可能是我一发什么东西就有人ban我，挺可爱的。。 https://t.co/2EUWhDuX5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 501,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 263
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T12:26:15.000Z",
+        "description": "シュポガキたちの雑魚\n请勿骚扰与模拟（）\nhttps://t.co/s2g6Madzmv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jfdhxgj/",
+                "end": 44,
+                "expanded_url": "https://ngl.link/jfdhxgj/",
+                "start": 21,
+                "url": "https://t.co/s2g6Madzmv"
+              }
+            ]
+          }
+        },
+        "id": "1597567529303437315",
+        "location": "阴影",
+        "name": "攫备饴（ungrounding）",
+        "pinned_tweet_id": "1908339027066954228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730306563435335680/AssLtYPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 847,
+          "like_count": 7955,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 1883
+        },
+        "username": "dzhdo2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980276648542077429",
+    "created_at": "2025-10-21T07:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980534712688078975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1626084307226988546",
+          "start": 0,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980534712688078975",
+    "in_reply_to_user_id": "1626084307226988546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980276648542077429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pilgrim_wyl 大哥牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1980274672634609664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tZUqQWwAAyl1G.jpg",
+        "width": 885
+      },
+      {
+        "height": 684,
+        "media_key": "3_1980275440448147456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3taBWlXkAAifXg.png",
+        "width": 595
+      },
+      {
+        "height": 436,
+        "media_key": "3_1980275634522779648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3taMpkXcAAvU6v.png",
+        "width": 830
+      },
+      {
+        "height": 403,
+        "media_key": "3_1980276154276642817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3taq5zWAAE_MED.png",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980276648542077429",
+        "created_at": "2025-10-21T07:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980534712688078975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626084307226988546",
+              "start": 0,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980534712688078975",
+        "in_reply_to_user_id": "1626084307226988546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980276648542077429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pilgrim_wyl 大哥牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980274672634609664",
+            "3_1980275440448147456",
+            "3_1980275634522779648",
+            "3_1980276154276642817"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980276648542077429",
+        "created_at": "2025-10-20T14:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980276648542077429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9ygcTOslO",
+              "end": 104,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1980276648542077429/photo/1",
+              "media_key": "3_1980274672634609664",
+              "start": 81,
+              "url": "https://t.co/q9ygcTOslO"
+            },
+            {
+              "display_url": "pic.x.com/q9ygcTOslO",
+              "end": 104,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1980276648542077429/photo/1",
+              "media_key": "3_1980275440448147456",
+              "start": 81,
+              "url": "https://t.co/q9ygcTOslO"
+            },
+            {
+              "display_url": "pic.x.com/q9ygcTOslO",
+              "end": 104,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1980276648542077429/photo/1",
+              "media_key": "3_1980275634522779648",
+              "start": 81,
+              "url": "https://t.co/q9ygcTOslO"
+            },
+            {
+              "display_url": "pic.x.com/q9ygcTOslO",
+              "end": 104,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1980276648542077429/photo/1",
+              "media_key": "3_1980276154276642817",
+              "start": 81,
+              "url": "https://t.co/q9ygcTOslO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980276648542077429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "社区单子给力，策略无偿分享，600%、800%的收益，有没有实力，有目共睹。\n每天都有早间分析和晚间分析，花两分钟看完分析，我澜泉社区的兄弟在币圈就一定不会迷茫 https://t.co/q9ygcTOslO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 477,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 218
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 66,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

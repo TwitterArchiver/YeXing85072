@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985682643154063360",
+        "3_1985682648933752833",
+        "3_1985682643128893443"
+      ],
+      "media_source_tweet_id": [
+        "1985682869558395286",
+        "1985682869558395286",
+        "1985682869558395286"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985686415922118874",
+    "created_at": "2025-11-04T12:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T13:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985686415922118874"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "giggle"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegra m. Click to",
+          "display_url": "t.me/+RJo9gVAXrrdiM…",
+          "end": 83,
+          "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+          "start": 60,
+          "status": 200,
+          "title": "Telegram: Join Group Chat",
+          "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+          "url": "https://t.co/eETQag5GmP"
+        },
+        {
+          "display_url": "pic.x.com/1V6jRPnWOs",
+          "end": 107,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+          "media_key": "3_1985682643154063360",
+          "start": 84,
+          "url": "https://t.co/1V6jRPnWOs"
+        },
+        {
+          "display_url": "pic.x.com/1V6jRPnWOs",
+          "end": 107,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+          "media_key": "3_1985682648933752833",
+          "start": 84,
+          "url": "https://t.co/1V6jRPnWOs"
+        },
+        {
+          "display_url": "pic.x.com/1V6jRPnWOs",
+          "end": 107,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+          "media_key": "3_1985682643128893443",
+          "start": 84,
+          "url": "https://t.co/1V6jRPnWOs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985686415922118874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985682869558395286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: #giggle\n这个币被我拿捏死了，内部群第一时间喊进空单，1小时10倍。\n进群链接：https://t.co/eETQag5GmP https://t.co/1V6jRPnWOs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985682643154063360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46P1-XbUAAsbc_.jpg",
+        "width": 1053
+      },
+      {
+        "height": 1236,
+        "media_key": "3_1985682648933752833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46P2T5aYAEZE2Y.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1502,
+        "media_key": "3_1985682643128893443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46P1-RbQAMhuqP.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985682643154063360",
+            "3_1985682648933752833",
+            "3_1985682643128893443"
+          ],
+          "media_source_tweet_id": [
+            "1985682869558395286",
+            "1985682869558395286",
+            "1985682869558395286"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985686415922118874",
+        "created_at": "2025-11-04T12:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985686415922118874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "giggle"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegra m. Click to",
+              "display_url": "t.me/+RJo9gVAXrrdiM…",
+              "end": 83,
+              "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "start": 60,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "url": "https://t.co/eETQag5GmP"
+            },
+            {
+              "display_url": "pic.x.com/1V6jRPnWOs",
+              "end": 107,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+              "media_key": "3_1985682643154063360",
+              "start": 84,
+              "url": "https://t.co/1V6jRPnWOs"
+            },
+            {
+              "display_url": "pic.x.com/1V6jRPnWOs",
+              "end": 107,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+              "media_key": "3_1985682648933752833",
+              "start": 84,
+              "url": "https://t.co/1V6jRPnWOs"
+            },
+            {
+              "display_url": "pic.x.com/1V6jRPnWOs",
+              "end": 107,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+              "media_key": "3_1985682643128893443",
+              "start": 84,
+              "url": "https://t.co/1V6jRPnWOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985686415922118874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985682869558395286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: #giggle\n这个币被我拿捏死了，内部群第一时间喊进空单，1小时10倍。\n进群链接：https://t.co/eETQag5GmP https://t.co/1V6jRPnWOs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985682643154063360",
+            "3_1985682648933752833",
+            "3_1985682643128893443"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985682869558395286",
+        "created_at": "2025-11-04T12:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:16:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985682652679254401",
+          "1985682869558395286"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "giggle"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegra m. Click to",
+              "display_url": "t.me/+RJo9gVAXrrdiM…",
+              "end": 66,
+              "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "start": 43,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "url": "https://t.co/eETQag5GmP"
+            },
+            {
+              "display_url": "pic.x.com/1V6jRPnWOs",
+              "end": 90,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+              "media_key": "3_1985682643154063360",
+              "start": 67,
+              "url": "https://t.co/1V6jRPnWOs"
+            },
+            {
+              "display_url": "pic.x.com/1V6jRPnWOs",
+              "end": 90,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+              "media_key": "3_1985682648933752833",
+              "start": 67,
+              "url": "https://t.co/1V6jRPnWOs"
+            },
+            {
+              "display_url": "pic.x.com/1V6jRPnWOs",
+              "end": 90,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985682869558395286/photo/1",
+              "media_key": "3_1985682643128893443",
+              "start": 67,
+              "url": "https://t.co/1V6jRPnWOs"
+            },
+            {
+              "display_url": "x.com/pilgrim_wyl/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/pilgrim_wyl/status/1985560223881576783",
+              "start": 91,
+              "url": "https://t.co/7OijqKXngE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985682869558395286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985560223881576783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#giggle\n这个币被我拿捏死了，内部群第一时间喊进空单，1小时10倍。\n进群链接：https://t.co/eETQag5GmP https://t.co/1V6jRPnWOs https://t.co/7OijqKXngE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 497,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 270
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

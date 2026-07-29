@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977989620366536704"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1977989627828166887",
+    "created_at": "2025-10-14T06:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T07:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977989627828166887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R1r0yyrvaD",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1977989627828166887/photo/1",
+          "media_key": "3_1977989620366536704",
+          "start": 0,
+          "url": "https://t.co/R1r0yyrvaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977989627828166887",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/R1r0yyrvaD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977989620366536704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3M7FHNbcAAmC0U.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977989620366536704"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1977989627828166887",
+        "created_at": "2025-10-14T06:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977989627828166887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1r0yyrvaD",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1977989627828166887/photo/1",
+              "media_key": "3_1977989620366536704",
+              "start": 0,
+              "url": "https://t.co/R1r0yyrvaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977989627828166887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/R1r0yyrvaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 424,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 132
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

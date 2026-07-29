@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1979815753701642247",
+    "created_at": "2025-10-19T12:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T13:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979882110057140300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825303571405082624",
+          "start": 0,
+          "username": "shengege1516"
+        },
+        {
+          "end": 27,
+          "id": "1959978816430022656",
+          "start": 14,
+          "username": "gui_hei58942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979882110057140300",
+    "in_reply_to_user_id": "1825303571405082624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979815753701642247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengege1516 @gui_hei58942 谢谢哥0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1979815753701642247",
+        "created_at": "2025-10-19T12:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979882110057140300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825303571405082624",
+              "start": 0,
+              "username": "shengege1516"
+            },
+            {
+              "end": 27,
+              "id": "1959978816430022656",
+              "start": 14,
+              "username": "gui_hei58942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979882110057140300",
+        "in_reply_to_user_id": "1825303571405082624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979815753701642247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengege1516 @gui_hei58942 谢谢哥0xFa4f556BDee6CEB688294b500Ef9F9A858Fb16B1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825303571405082624",
+        "conversation_id": "1979815753701642247",
+        "created_at": "2025-10-19T07:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979815753701642247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1959978816430022656",
+              "start": 4,
+              "username": "gui_hei58942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979815753701642247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1896,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 101,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "1.关注@gui_hei58942\n2关注我\n留bnb地址。空投88888888空投🐦币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 444,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 159
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T22:48:03.000Z",
+        "description": "币圈小韭菜，",
+        "id": "1825303571405082624",
+        "name": "dajiuge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945631434187669504/aODqZb8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 1106,
+          "like_count": 1617,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1797
+        },
+        "username": "shengege1516",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T13:59:12.000Z",
+        "description": "17年入圈，三次去中心化。但是币圈是普通人唯一的机会。这次我一定能行！/地推主持一天1000➕真人地址/币安注册进内部群https://t.co/1g7ZDaTL0L商务对接👉 https://t.co/za7XRULiUm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "accounts.maxweb.black/register?ref=1…",
+                "end": 83,
+                "expanded_url": "https://accounts.maxweb.black/register?ref=1163487739",
+                "start": 60,
+                "url": "https://t.co/1g7ZDaTL0L"
+              },
+              {
+                "display_url": "t.me/+c8-SU45aRUFhM…",
+                "end": 112,
+                "expanded_url": "https://t.me/+c8-SU45aRUFhMWFl",
+                "start": 89,
+                "url": "https://t.co/za7XRULiUm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chinesedogecoi…",
+                "end": 23,
+                "expanded_url": "https://t.me/chinesedogecoinorg",
+                "start": 0,
+                "url": "https://t.co/NNI30hf8ZA"
+              }
+            ]
+          }
+        },
+        "id": "1959978816430022656",
+        "location": "Vila Chinesa, Mogi das Cruzes",
+        "name": "和尚",
+        "pinned_tweet_id": "1977569993043915199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972716280747589632/SSgWvj-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 400,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/NNI30hf8ZA",
+        "username": "gui_hei58942",
+        "verified": true
+      }
+    ]
+  }
+}

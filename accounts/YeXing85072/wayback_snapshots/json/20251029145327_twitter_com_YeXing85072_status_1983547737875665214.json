@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1983434204865278356",
+    "created_at": "2025-10-29T14:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983547737875665214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1544082499030028290",
+          "start": 0,
+          "username": "BertHicks13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983547737875665214",
+    "in_reply_to_user_id": "1544082499030028290",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983434204865278356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BertHicks13 1174017882"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1983434204865278356",
+        "created_at": "2025-10-29T14:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983547737875665214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1544082499030028290",
+              "start": 0,
+              "username": "BertHicks13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983547737875665214",
+        "in_reply_to_user_id": "1544082499030028290",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983434204865278356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BertHicks13 1174017882"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544082499030028290",
+        "conversation_id": "1983434204865278356",
+        "created_at": "2025-10-29T07:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T08:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983434204865278356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983434204865278356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 17349,
+          "like_count": 165,
+          "quote_count": 3,
+          "reply_count": 220,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "收集币安id\n空投币安人生\n关注我转发点赞\n人人有份，每人10000 个\n72小时后见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 492,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 237
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T22:15:42.000Z",
+        "description": "注册下载gate，永享40%返佣\nhttps://t.co/yWZLsa7hOz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gatenode.cloud/share/btc110",
+                "end": 40,
+                "expanded_url": "https://www.gatenode.cloud/share/btc110",
+                "start": 17,
+                "url": "https://t.co/yWZLsa7hOz"
+              }
+            ]
+          }
+        },
+        "id": "1544082499030028290",
+        "name": "唐门",
+        "pinned_tweet_id": "1938444270282874991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676794453200363520/s_koh0QL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9813,
+          "following_count": 224,
+          "like_count": 6849,
+          "listed_count": 9,
+          "media_count": 576,
+          "tweet_count": 2433
+        },
+        "username": "BertHicks13",
+        "verified": false
+      }
+    ]
+  }
+}

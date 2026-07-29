@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969297781081694208",
+        "3_1969297781098496000"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1969297814728380571",
+    "created_at": "2025-09-20T07:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T08:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969297814728380571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x5WqbUooK0",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1969297814728380571/photo/1",
+          "media_key": "3_1969297781081694208",
+          "start": 0,
+          "url": "https://t.co/x5WqbUooK0"
+        },
+        {
+          "display_url": "pic.x.com/x5WqbUooK0",
+          "end": 23,
+          "expanded_url": "https://x.com/YeXing85072/status/1969297814728380571/photo/1",
+          "media_key": "3_1969297781098496000",
+          "start": 0,
+          "url": "https://t.co/x5WqbUooK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969297814728380571",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/x5WqbUooK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1969297781081694208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1RZ5epW4AAHd-v.jpg",
+        "width": 758
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1969297781098496000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1RZ5etXQAAupG-.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969297781081694208",
+            "3_1969297781098496000"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1969297814728380571",
+        "created_at": "2025-09-20T07:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T08:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969297814728380571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5WqbUooK0",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1969297814728380571/photo/1",
+              "media_key": "3_1969297781081694208",
+              "start": 0,
+              "url": "https://t.co/x5WqbUooK0"
+            },
+            {
+              "display_url": "pic.x.com/x5WqbUooK0",
+              "end": 23,
+              "expanded_url": "https://x.com/YeXing85072/status/1969297814728380571/photo/1",
+              "media_key": "3_1969297781098496000",
+              "start": 0,
+              "url": "https://t.co/x5WqbUooK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969297814728380571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x5WqbUooK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "",
+        "id": "1962759363246129152",
+        "name": "星野紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 145,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

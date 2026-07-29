@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986265403321110528",
+        "3_1986265404764004356",
+        "3_1986266389133598723"
+      ],
+      "media_source_tweet_id": [
+        "1986266392350629946",
+        "1986266392350629946",
+        "1986266392350629946"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1986494773616910573",
+    "created_at": "2025-11-06T18:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T19:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986494773616910573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegra m. Click to",
+          "display_url": "t.me/+RJo9gVAXrrdiM…",
+          "end": 107,
+          "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+          "start": 84,
+          "status": 200,
+          "title": "Telegram: Join Group Chat",
+          "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+          "url": "https://t.co/eETQag5GmP"
+        },
+        {
+          "display_url": "pic.x.com/H2H1Gdzkkc",
+          "end": 131,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+          "media_key": "3_1986265403321110528",
+          "start": 108,
+          "url": "https://t.co/H2H1Gdzkkc"
+        },
+        {
+          "display_url": "pic.x.com/H2H1Gdzkkc",
+          "end": 131,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+          "media_key": "3_1986265404764004356",
+          "start": 108,
+          "url": "https://t.co/H2H1Gdzkkc"
+        },
+        {
+          "display_url": "pic.x.com/H2H1Gdzkkc",
+          "end": 131,
+          "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+          "media_key": "3_1986266389133598723",
+          "start": 108,
+          "url": "https://t.co/H2H1Gdzkkc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986494773616910573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986266392350629946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: bdxn、dash两单策略没毛病，bdxn跌幅50%，新币MMT顺势拿下，aia看跌方向依旧没毛病\n想进来的评论回复1或者加入电报。\nhttps://t.co/eETQag5GmP https://t.co/H2H1Gdzkkc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1986265403321110528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ch3FKaUAAxGWj.jpg",
+        "width": 934
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986265404764004356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ch3KibIAQfbOA.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986266389133598723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5CiwdmbIAM-uvh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986265403321110528",
+            "3_1986265404764004356",
+            "3_1986266389133598723"
+          ],
+          "media_source_tweet_id": [
+            "1986266392350629946",
+            "1986266392350629946",
+            "1986266392350629946"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986494773616910573",
+        "created_at": "2025-11-06T18:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986494773616910573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegra m. Click to",
+              "display_url": "t.me/+RJo9gVAXrrdiM…",
+              "end": 107,
+              "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "start": 84,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "url": "https://t.co/eETQag5GmP"
+            },
+            {
+              "display_url": "pic.x.com/H2H1Gdzkkc",
+              "end": 131,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+              "media_key": "3_1986265403321110528",
+              "start": 108,
+              "url": "https://t.co/H2H1Gdzkkc"
+            },
+            {
+              "display_url": "pic.x.com/H2H1Gdzkkc",
+              "end": 131,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+              "media_key": "3_1986265404764004356",
+              "start": 108,
+              "url": "https://t.co/H2H1Gdzkkc"
+            },
+            {
+              "display_url": "pic.x.com/H2H1Gdzkkc",
+              "end": 131,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+              "media_key": "3_1986266389133598723",
+              "start": 108,
+              "url": "https://t.co/H2H1Gdzkkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986494773616910573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986266392350629946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: bdxn、dash两单策略没毛病，bdxn跌幅50%，新币MMT顺势拿下，aia看跌方向依旧没毛病\n想进来的评论回复1或者加入电报。\nhttps://t.co/eETQag5GmP https://t.co/H2H1Gdzkkc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986265403321110528",
+            "3_1986265404764004356",
+            "3_1986266389133598723"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986266392350629946",
+        "created_at": "2025-11-06T02:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T03:52:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986265407515451814",
+          "1986266392350629946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegra m. Click to",
+              "display_url": "t.me/+RJo9gVAXrrdiM…",
+              "end": 90,
+              "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "start": 67,
+              "status": 200,
+              "title": "Telegram: Join Group Chat",
+              "unwound_url": "https://t.me/+RJo9gVAXrrdiMDll",
+              "url": "https://t.co/eETQag5GmP"
+            },
+            {
+              "display_url": "pic.x.com/H2H1Gdzkkc",
+              "end": 114,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+              "media_key": "3_1986265403321110528",
+              "start": 91,
+              "url": "https://t.co/H2H1Gdzkkc"
+            },
+            {
+              "display_url": "pic.x.com/H2H1Gdzkkc",
+              "end": 114,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+              "media_key": "3_1986265404764004356",
+              "start": 91,
+              "url": "https://t.co/H2H1Gdzkkc"
+            },
+            {
+              "display_url": "pic.x.com/H2H1Gdzkkc",
+              "end": 114,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1986266392350629946/photo/1",
+              "media_key": "3_1986266389133598723",
+              "start": 91,
+              "url": "https://t.co/H2H1Gdzkkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986266392350629946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "bdxn、dash两单策略没毛病，bdxn跌幅50%，新币MMT顺势拿下，aia看跌方向依旧没毛病\n想进来的评论回复1或者加入电报。\nhttps://t.co/eETQag5GmP https://t.co/H2H1Gdzkkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 497,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 280
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1988876532027121955",
+    "created_at": "2025-11-13T07:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988876532027121955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988876532027121955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988430286867296548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 日内分析\nBTC107000短空至103500止盈后，下跌至102450。\n看法：没有跌破99800之前，都是干扰信号，目前上涨结构没有被改变，主要思路接多待涨为主。\n建议：再跌接多，支撑区间102000-101500可接多，止损99800，上…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1988876532027121955",
+        "created_at": "2025-11-13T07:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988876532027121955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988876532027121955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988430286867296548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 日内分析\nBTC107000短空至103500止盈后，下跌至102450。\n看法：没有跌破99800之前，都是干扰信号，目前上涨结构没有被改变，主要思路接多待涨为主。\n建议：再跌接多，支撑区间102000-101500可接多，止损99800，上…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626084307226988546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1988430286867296548",
+        "created_at": "2025-11-12T02:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988430286867296548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pilgrim_wyl/st…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/pilgrim_wyl/status/1988071312603181258",
+              "start": 160,
+              "url": "https://t.co/z8Eylxt2aT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988430286867296548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日内分析\nBTC107000短空至103500止盈后，下跌至102450。\n看法：没有跌破99800之前，都是干扰信号，目前上涨结构没有被改变，主要思路接多待涨为主。\n建议：再跌接多，支撑区间102000-101500可接多，止损99800，上方108500可短空。\n\n ETH上涨结构没有变化，日内警惕3330位置。\n看法：3350跌破不收回短期，山寨多单要先离场观望。\n建议：3330-3000挂多，止损3250，3670-3690可短空，止损3730."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988071312603181258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日内分析\nBTC107000短空至103500止盈后，下跌至102450。\n看法：没有跌破99800之前，都是干扰信号，目前上涨结构没有被改变，主要思路接多待涨为主。\n建议：再跌接多，支撑区间102000-101500可接多，止损99800，上方108500可短空。\n\n ETH上涨结构没有变化，日内警惕3330位置。 https://t.co/z8Eylxt2aT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 493,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 298
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 66,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1985309950810439905",
+    "created_at": "2025-11-03T11:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T12:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985309950810439905"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 22,
+          "tag": "giggle"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626084307226988546",
+          "start": 3,
+          "username": "pilgrim_wyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985309950810439905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985307144699465869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pilgrim_wyl: 复盘一下 #giggle。\n你们都在喊被割了，讲我是怎么做的吧，这个币还没上现货我就喊了在270附近先空进去，也有质疑我的，后面盈利50倍。随即在75附近全部平仓后反手开多，然后下午爆拉111平仓逃顶，这波多空双吃堪称币圈最牛逼的操作。\n最后，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_1985307138240253952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G406UtjbkAA_K6K.jpg",
+        "width": 1110
+      },
+      {
+        "height": 495,
+        "media_key": "3_1985307139125235712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G406Uw2bUAARSsk.jpg",
+        "width": 546
+      },
+      {
+        "height": 511,
+        "media_key": "3_1985307139120971777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G406Uw1aQAEPSOf.jpg",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1985309950810439905",
+        "created_at": "2025-11-03T11:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985309950810439905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "giggle"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626084307226988546",
+              "start": 3,
+              "username": "pilgrim_wyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985309950810439905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985307144699465869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pilgrim_wyl: 复盘一下 #giggle。\n你们都在喊被割了，讲我是怎么做的吧，这个币还没上现货我就喊了在270附近先空进去，也有质疑我的，后面盈利50倍。随即在75附近全部平仓后反手开多，然后下午爆拉111平仓逃顶，这波多空双吃堪称币圈最牛逼的操作。\n最后，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985307138240253952",
+            "3_1985307139125235712",
+            "3_1985307139120971777"
+          ]
+        },
+        "author_id": "1626084307226988546",
+        "conversation_id": "1985307144699465869",
+        "created_at": "2025-11-03T11:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985307144699465869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "giggle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRgZYApfMd",
+              "end": 176,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985307144699465869/photo/1",
+              "media_key": "3_1985307138240253952",
+              "start": 153,
+              "url": "https://t.co/uRgZYApfMd"
+            },
+            {
+              "display_url": "pic.x.com/uRgZYApfMd",
+              "end": 176,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985307144699465869/photo/1",
+              "media_key": "3_1985307139125235712",
+              "start": 153,
+              "url": "https://t.co/uRgZYApfMd"
+            },
+            {
+              "display_url": "pic.x.com/uRgZYApfMd",
+              "end": 176,
+              "expanded_url": "https://x.com/pilgrim_wyl/status/1985307144699465869/photo/1",
+              "media_key": "3_1985307139120971777",
+              "start": 153,
+              "url": "https://t.co/uRgZYApfMd"
+            },
+            {
+              "display_url": "x.com/pilgrim_wyl/st…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/pilgrim_wyl/status/1985181211506176348",
+              "start": 177,
+              "url": "https://t.co/5gSDtB1RS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985307144699465869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985181211506176348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "复盘一下 #giggle。\n你们都在喊被割了，讲我是怎么做的吧，这个币还没上现货我就喊了在270附近先空进去，也有质疑我的，后面盈利50倍。随即在75附近全部平仓后反手开多，然后下午爆拉111平仓逃顶，这波多空双吃堪称币圈最牛逼的操作。\n最后，承认强者你就是强者。类似的操作还有coai，20就看空到3。 https://t.co/uRgZYApfMd https://t.co/5gSDtB1RS2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 500,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 266
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T05:01:37.000Z",
+        "description": "量化公司干了一年后all in币圈，二级交易员，擅长捕抓各类多空信号，alpha新币已博弈上百倍收益",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RJo9gVAXrrdiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RJo9gVAXrrdiMDll",
+                "start": 0,
+                "url": "https://t.co/A5fdBvMt6d"
+              }
+            ]
+          }
+        },
+        "id": "1626084307226988546",
+        "location": "TG频道👉",
+        "name": "澜泉｜0x1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083966656880640/B9N1u2la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 65,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/A5fdBvMt6d",
+        "username": "pilgrim_wyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985038401213706240"
+      ],
+      "media_source_tweet_id": [
+        "1985038495161983020"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985170872785867219",
+    "created_at": "2025-11-03T02:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T03:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985170872785867219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894980688241401862",
+          "start": 3,
+          "username": "yyycoin999"
+        },
+        {
+          "end": 62,
+          "id": "1748954184244920320",
+          "start": 48,
+          "username": "Qingwawangzhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/547IQMMsFG",
+          "end": 86,
+          "expanded_url": "https://x.com/yyycoin999/status/1985038495161983020/photo/1",
+          "media_key": "3_1985038401213706240",
+          "start": 63,
+          "url": "https://t.co/547IQMMsFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985170872785867219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985038495161983020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @yyycoin999: 发欧易UID  发你5U 35块钱马上赚到手  你就这点出息  @Qingwawangzhi https://t.co/547IQMMsFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 305,
+        "media_key": "3_1985038401213706240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4xF6KHaMAAKtup.png",
+        "width": 1197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985038401213706240"
+          ],
+          "media_source_tweet_id": [
+            "1985038495161983020"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985170872785867219",
+        "created_at": "2025-11-03T02:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T03:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985170872785867219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894980688241401862",
+              "start": 3,
+              "username": "yyycoin999"
+            },
+            {
+              "end": 62,
+              "id": "1748954184244920320",
+              "start": 48,
+              "username": "Qingwawangzhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/547IQMMsFG",
+              "end": 86,
+              "expanded_url": "https://x.com/yyycoin999/status/1985038495161983020/photo/1",
+              "media_key": "3_1985038401213706240",
+              "start": 63,
+              "url": "https://t.co/547IQMMsFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985170872785867219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985038495161983020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @yyycoin999: 发欧易UID  发你5U 35块钱马上赚到手  你就这点出息  @Qingwawangzhi https://t.co/547IQMMsFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985038401213706240"
+          ]
+        },
+        "author_id": "1894980688241401862",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985038495161983020",
+        "created_at": "2025-11-02T17:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985038495161983020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1748954184244920320",
+              "start": 32,
+              "username": "Qingwawangzhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/547IQMMsFG",
+              "end": 70,
+              "expanded_url": "https://x.com/yyycoin999/status/1985038495161983020/photo/1",
+              "media_key": "3_1985038401213706240",
+              "start": 47,
+              "url": "https://t.co/547IQMMsFG"
+            },
+            {
+              "display_url": "x.com/Qingwawangzhi/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Qingwawangzhi/status/1985032515497926977",
+              "start": 71,
+              "url": "https://t.co/FVSBbiDj71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985038495161983020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3101,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985032515497926977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "发欧易UID  发你5U 35块钱马上赚到手  你就这点出息  @Qingwawangzhi https://t.co/547IQMMsFG https://t.co/FVSBbiDj71"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 500,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 261
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T05:19:44.000Z",
+        "description": "价值币推销员  喜欢讲故事   这叼毛说的话不可信  保护好自己的钱包",
+        "id": "1894980688241401862",
+        "name": "瑶总",
+        "pinned_tweet_id": "1977366087780929537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946583679075004418/jNFygFbL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 634,
+          "like_count": 11028,
+          "listed_count": 22,
+          "media_count": 2334,
+          "tweet_count": 8506
+        },
+        "username": "yyycoin999",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-21T06:22:50.000Z",
+        "description": "",
+        "id": "1748954184244920320",
+        "name": "青蛙王子",
+        "pinned_tweet_id": "1971221231463707039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968538521247031296/PguhynCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 2603,
+          "like_count": 5024,
+          "listed_count": 1,
+          "media_count": 973,
+          "tweet_count": 7768
+        },
+        "username": "Qingwawangzhi",
+        "verified": false
+      }
+    ]
+  }
+}

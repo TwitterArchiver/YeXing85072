@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980405140021510555",
+    "created_at": "2025-10-21T07:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980530052476596309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1475554155271970818",
+          "start": 0,
+          "username": "crypto_pump00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980530052476596309",
+    "in_reply_to_user_id": "1475554155271970818",
+    "lang": "fi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980405140021510555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crypto_pump00 9SR9sWcSmfq2BZyAz952zHKSLFetxJatxX923fLrqJZw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_1980405136703848448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3vP-qyXgAAHbGZ.jpg",
+        "width": 716
+      },
+      {
+        "height": 984,
+        "media_key": "3_1980405137106448384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3vP-sSWsAAyjwo.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980405140021510555",
+        "created_at": "2025-10-21T07:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980530052476596309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1475554155271970818",
+              "start": 0,
+              "username": "crypto_pump00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980530052476596309",
+        "in_reply_to_user_id": "1475554155271970818",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980405140021510555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crypto_pump00 9SR9sWcSmfq2BZyAz952zHKSLFetxJatxX923fLrqJZw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980405136703848448",
+            "3_1980405137106448384"
+          ]
+        },
+        "author_id": "1475554155271970818",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1980405140021510555",
+        "created_at": "2025-10-20T22:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T23:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980405140021510555"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "TRUMP",
+              "probability": 0.5831,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "BGS",
+              "probability": 0.4587,
+              "start": 74,
+              "type": "Organization"
+            },
+            {
+              "end": 194,
+              "normalized_text": "SOL",
+              "probability": 0.5418,
+              "start": 192,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "TRUMP"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "BGS"
+            },
+            {
+              "end": 195,
+              "start": 191,
+              "tag": "SOL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qQogJo5yz",
+              "end": 304,
+              "expanded_url": "https://x.com/crypto_pump00/status/1980405140021510555/photo/1",
+              "media_key": "3_1980405136703848448",
+              "start": 281,
+              "url": "https://t.co/6qQogJo5yz"
+            },
+            {
+              "display_url": "pic.x.com/6qQogJo5yz",
+              "end": 304,
+              "expanded_url": "https://x.com/crypto_pump00/status/1980405140021510555/photo/1",
+              "media_key": "3_1980405137106448384",
+              "start": 281,
+              "url": "https://t.co/6qQogJo5yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980405140021510555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "TRUMP"
+              },
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "BGS"
+              },
+              {
+                "end": 195,
+                "start": 191,
+                "tag": "SOL"
+              },
+              {
+                "end": 415,
+                "start": 411,
+                "tag": "BGS"
+              },
+              {
+                "end": 453,
+                "start": 449,
+                "tag": "SOL"
+              },
+              {
+                "end": 532,
+                "start": 528,
+                "tag": "SOL"
+              },
+              {
+                "end": 539,
+                "start": 535,
+                "tag": "SOL"
+              },
+              {
+                "end": 549,
+                "start": 545,
+                "tag": "BGS"
+              },
+              {
+                "end": 577,
+                "start": 573,
+                "tag": "BGS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 329,
+                "id": "1870762647257268224",
+                "start": 314,
+                "username": "Bitcoin_GreenX"
+              },
+              {
+                "end": 1071,
+                "id": "1870762647257268224",
+                "start": 1056,
+                "username": "Bitcoin_GreenX"
+              }
+            ]
+          },
+          "text": "I made over $5,000,000 trading memecoins this month.\n\nThe next $TRUMP is $BGS.\nDon't miss this opportunity to make it 10000%\n\nI will change the life of one of my followers by giving away 400 $SOL (~$100,000)\n\nTo enter: Like, RT and comment address\n\nMany keep asking me for my next play: I just put 40 SOL into the @Bitcoin_GreenX presale, I believe this will easily 100x my money.\n\nIf you also want to join the $BGS presale, simply send minimum 0.5 $SOL to: \n\nSent to SOL:\nBSjiAic8pFvYCzip2br36R5o1QZY5e7XrULawFxeoWsr\n\nMin: 0.5 $SOL\n1 $SOL 2.5M $BGS\nWhy I am so bullish on $BGS? \n- Top tier artwork\n- Trustworthy and experienced dev team\n- Great community, they raised 100+ SOL in 1 days! \n- Large budget for marketing\n- I’ve seen a lot of whales jumping onto this\n- Listing price will be 100x of the presale price so at launch you immediately start with 100x profit! \n\nIt’s very hard to find a legit presale but when you find one it’s like winning the lottery, guaranteed profits. 💰 After my research and connections in the crypto space I have determined @Bitcoin_GreenX  is the best bet. \n\nYou really don’t want to miss this opportunity."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 692,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "I made over $5,000,000 trading memecoins this month.\n\nThe next $TRUMP is $BGS.\nDon't miss this opportunity to make it 10000%\n\nI will change the life of one of my followers by giving away 400 $SOL (~$100,000)\n\nTo enter: Like, RT and comment address\n\nMany keep asking me for my next https://t.co/6qQogJo5yz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 472,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 207
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-27T19:48:50.000Z",
+        "description": "",
+        "id": "1475554155271970818",
+        "name": "Crypto Pump",
+        "pinned_tweet_id": "1979491688277275097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661428733801103368/pvdXVseF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83604,
+          "following_count": 15,
+          "like_count": 20,
+          "listed_count": 39,
+          "media_count": 41,
+          "tweet_count": 63
+        },
+        "username": "crypto_pump00",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "1980209387328164196",
+    "created_at": "2025-10-21T07:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980530168625262885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741276212398305280",
+          "start": 0,
+          "username": "Doge420Dogeman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980530168625262885",
+    "in_reply_to_user_id": "1741276212398305280",
+    "lang": "fi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980209387328164196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doge420Dogeman 9SR9sWcSmfq2BZyAz952zHKSLFetxJatxX923fLrqJZw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_1980209321435594752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sd4uEWAAApPYW.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "1980209387328164196",
+        "created_at": "2025-10-21T07:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980530168625262885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741276212398305280",
+              "start": 0,
+              "username": "Doge420Dogeman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980530168625262885",
+        "in_reply_to_user_id": "1741276212398305280",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980209387328164196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doge420Dogeman 9SR9sWcSmfq2BZyAz952zHKSLFetxJatxX923fLrqJZw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980209321435594752"
+          ]
+        },
+        "author_id": "1741276212398305280",
+        "conversation_id": "1980209387328164196",
+        "created_at": "2025-10-20T09:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980209387328164196"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Airdrop",
+              "probability": 0.646,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "DOGE420",
+              "probability": 0.5746,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "Airdrop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xiVU79we1x",
+              "end": 296,
+              "expanded_url": "https://x.com/Doge420Dogeman/status/1980209387328164196/photo/1",
+              "media_key": "3_1980209321435594752",
+              "start": 273,
+              "url": "https://t.co/xiVU79we1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980209387328164196",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Airdrop"
+              },
+              {
+                "end": 383,
+                "start": 375,
+                "tag": "Airdrop"
+              },
+              {
+                "end": 391,
+                "start": 384,
+                "tag": "Crypto"
+              },
+              {
+                "end": 396,
+                "start": 392,
+                "tag": "BNB"
+              },
+              {
+                "end": 407,
+                "start": 403,
+                "tag": "BSC"
+              },
+              {
+                "end": 416,
+                "start": 408,
+                "tag": "Doge420"
+              },
+              {
+                "end": 429,
+                "start": 417,
+                "tag": "DOGE420Coin"
+              },
+              {
+                "end": 441,
+                "start": 430,
+                "tag": "FreeCrypto"
+              },
+              {
+                "end": 456,
+                "start": 442,
+                "tag": "CryptoAirdrop"
+              },
+              {
+                "end": 466,
+                "start": 457,
+                "tag": "Giveaway"
+              },
+              {
+                "end": 478,
+                "start": 467,
+                "tag": "CryptoNews"
+              },
+              {
+                "end": 495,
+                "start": 479,
+                "tag": "CryptoCommunity"
+              },
+              {
+                "end": 508,
+                "start": 496,
+                "tag": "PancakeSwap"
+              },
+              {
+                "end": 513,
+                "start": 509,
+                "tag": "OKX"
+              },
+              {
+                "end": 523,
+                "start": 514,
+                "tag": "MetaMask"
+              },
+              {
+                "end": 529,
+                "start": 524,
+                "tag": "DeFi"
+              },
+              {
+                "end": 541,
+                "start": 530,
+                "tag": "Blockchain"
+              },
+              {
+                "end": 552,
+                "start": 542,
+                "tag": "ToTheMoon"
+              },
+              {
+                "end": 562,
+                "start": 553,
+                "tag": "DogeArmy"
+              },
+              {
+                "end": 571,
+                "start": 563,
+                "tag": "DogeFam"
+              },
+              {
+                "end": 586,
+                "start": 572,
+                "tag": "CryptoRewards"
+              },
+              {
+                "end": 596,
+                "start": 587,
+                "tag": "BNBChain"
+              },
+              {
+                "end": 611,
+                "start": 597,
+                "tag": "CryptoTrading"
+              },
+              {
+                "end": 626,
+                "start": 612,
+                "tag": "CryptoProject"
+              },
+              {
+                "end": 639,
+                "start": 627,
+                "tag": "CryptoToken"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "doge420dogeman.netlify.app",
+                "end": 336,
+                "expanded_url": "http://doge420dogeman.netlify.app",
+                "start": 313,
+                "url": "https://t.co/yRTnSE0up4"
+              },
+              {
+                "display_url": "t.me/Dogeman_Doge420",
+                "end": 373,
+                "expanded_url": "http://t.me/Dogeman_Doge420",
+                "start": 350,
+                "url": "https://t.co/639rxtNAsJ"
+              }
+            ]
+          },
+          "text": "#Airdrop\n\n🎁 Claim your FREE $DOGE420 now!\n✅ Follow, Like & Retweet\n💬 Drop your wallet address in the comments\n\nToken Name: DOGE420\nNetwork: BNB Smart Chain (BSC)\nContract: 0x36d985EB135b32F1A4f1C09d8bdd2d61b48bB036\n\n🔒 Liquidity locked until 2030\n\n💡Use MetaMask, OKX or PancakeSwap for  Trade & Swap 👌\n\n🌐 Website: https://t.co/yRTnSE0up4\n\n💬 Telegram: https://t.co/639rxtNAsJ\n\n#Airdrop #Crypto #BNB       #BSC #Doge420 #DOGE420Coin #FreeCrypto #CryptoAirdrop #Giveaway #CryptoNews #CryptoCommunity #PancakeSwap #OKX #MetaMask #DeFi #Blockchain #ToTheMoon #DogeArmy #DogeFam #CryptoRewards #BNBChain #CryptoTrading #CryptoProject #CryptoToken"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 195404,
+          "like_count": 2083,
+          "quote_count": 26,
+          "reply_count": 1992,
+          "retweet_count": 1195
+        },
+        "reply_settings": "everyone",
+        "text": "#Airdrop\n\n🎁 Claim your FREE $DOGE420 now!\n✅ Follow, Like &amp; Retweet\n💬 Drop your wallet address in the comments\n\nToken Name: DOGE420\nNetwork: BNB Smart Chain (BSC)\nContract: 0x36d985EB135b32F1A4f1C09d8bdd2d61b48bB036\n\n🔒 Liquidity locked until 2030\n\n💡Use MetaMask, OKX or https://t.co/xiVU79we1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 473,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 209
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T01:56:19.000Z",
+        "description": "Dogeman ($DOGE420) coin on BNB Smart Chain.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "doge420dogeman.netlify.app",
+                "end": 23,
+                "expanded_url": "https://doge420dogeman.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/V3jYffxewS"
+              }
+            ]
+          }
+        },
+        "id": "1741276212398305280",
+        "location": "Moon ",
+        "name": "Đogeman $Đoge420",
+        "pinned_tweet_id": "1979524219223580772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917714468525535232/WNoPNVgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9771,
+          "following_count": 30,
+          "like_count": 2162,
+          "listed_count": 2,
+          "media_count": 952,
+          "tweet_count": 3199
+        },
+        "url": "https://t.co/V3jYffxewS",
+        "username": "Doge420Dogeman",
+        "verified": true
+      }
+    ]
+  }
+}

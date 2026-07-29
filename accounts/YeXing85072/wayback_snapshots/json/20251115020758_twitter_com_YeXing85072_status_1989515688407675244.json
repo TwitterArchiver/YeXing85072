@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989515680614682624",
+        "3_1989515680702763009",
+        "3_1989515680673402881"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989515688407675244",
+    "created_at": "2025-11-15T02:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989515688407675244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9ur61PMEV",
+          "end": 150,
+          "expanded_url": "https://x.com/YeXing85072/status/1989515688407675244/photo/1",
+          "media_key": "3_1989515680614682624",
+          "start": 127,
+          "url": "https://t.co/E9ur61PMEV"
+        },
+        {
+          "display_url": "pic.x.com/E9ur61PMEV",
+          "end": 150,
+          "expanded_url": "https://x.com/YeXing85072/status/1989515688407675244/photo/1",
+          "media_key": "3_1989515680702763009",
+          "start": 127,
+          "url": "https://t.co/E9ur61PMEV"
+        },
+        {
+          "display_url": "pic.x.com/E9ur61PMEV",
+          "end": 150,
+          "expanded_url": "https://x.com/YeXing85072/status/1989515688407675244/photo/1",
+          "media_key": "3_1989515680673402881",
+          "start": 127,
+          "url": "https://t.co/E9ur61PMEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989515688407675244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们社区刚刚开始发展，这是昨日社区单子盈利情况，我们社区和其他入金社区的不同是其他社区吹嘘的高回报率通过的是高杠杆，而我们社区会教你顶级的仓位控制和严格的杠杆策略，低杠杆也将有高回报率，和吹嘘让你暴富的社区不同，我们社区不求立马暴富，只求资产稳步上涨。 https://t.co/E9ur61PMEV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 183,
+        "media_key": "3_1989515680614682624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wt-HobkAAvarJ.jpg",
+        "width": 636
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1989515680702763009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wt-H9bkAEc1y_.jpg",
+        "width": 934
+      },
+      {
+        "height": 915,
+        "media_key": "3_1989515680673402881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wt-H2bkAEVaSb.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989515680614682624",
+            "3_1989515680702763009",
+            "3_1989515680673402881"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989515688407675244",
+        "created_at": "2025-11-15T02:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989515688407675244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9ur61PMEV",
+              "end": 150,
+              "expanded_url": "https://x.com/YeXing85072/status/1989515688407675244/photo/1",
+              "media_key": "3_1989515680614682624",
+              "start": 127,
+              "url": "https://t.co/E9ur61PMEV"
+            },
+            {
+              "display_url": "pic.x.com/E9ur61PMEV",
+              "end": 150,
+              "expanded_url": "https://x.com/YeXing85072/status/1989515688407675244/photo/1",
+              "media_key": "3_1989515680702763009",
+              "start": 127,
+              "url": "https://t.co/E9ur61PMEV"
+            },
+            {
+              "display_url": "pic.x.com/E9ur61PMEV",
+              "end": 150,
+              "expanded_url": "https://x.com/YeXing85072/status/1989515688407675244/photo/1",
+              "media_key": "3_1989515680673402881",
+              "start": 127,
+              "url": "https://t.co/E9ur61PMEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989515688407675244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们社区刚刚开始发展，这是昨日社区单子盈利情况，我们社区和其他入金社区的不同是其他社区吹嘘的高回报率通过的是高杠杆，而我们社区会教你顶级的仓位控制和严格的杠杆策略，低杠杆也将有高回报率，和吹嘘让你暴富的社区不同，我们社区不求立马暴富，只求资产稳步上涨。 https://t.co/E9ur61PMEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 493,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 302
+        },
+        "username": "YeXing85072",
+        "verified": false
+      }
+    ]
+  }
+}

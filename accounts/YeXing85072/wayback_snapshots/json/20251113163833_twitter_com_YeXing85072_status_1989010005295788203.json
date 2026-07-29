@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988167696077516801",
+        "3_1988167696060731392",
+        "3_1988167696056463360",
+        "3_1988167696052359168"
+      ],
+      "media_source_tweet_id": [
+        "1988167713248997859",
+        "1988167713248997859",
+        "1988167713248997859",
+        "1988167713248997859"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "1989010005295788203",
+    "created_at": "2025-11-13T16:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T17:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989010005295788203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2303572463",
+          "start": 3,
+          "username": "rporter326"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zXuVGTlVBu",
+          "end": 82,
+          "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+          "media_key": "3_1988167696077516801",
+          "start": 59,
+          "url": "https://t.co/zXuVGTlVBu"
+        },
+        {
+          "display_url": "pic.x.com/zXuVGTlVBu",
+          "end": 82,
+          "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+          "media_key": "3_1988167696060731392",
+          "start": 59,
+          "url": "https://t.co/zXuVGTlVBu"
+        },
+        {
+          "display_url": "pic.x.com/zXuVGTlVBu",
+          "end": 82,
+          "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+          "media_key": "3_1988167696056463360",
+          "start": 59,
+          "url": "https://t.co/zXuVGTlVBu"
+        },
+        {
+          "display_url": "pic.x.com/zXuVGTlVBu",
+          "end": 82,
+          "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+          "media_key": "3_1988167696052359168",
+          "start": 59,
+          "url": "https://t.co/zXuVGTlVBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989010005295788203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988167713248997859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @rporter326: 这条点赞转发里抽2个送一张lsd一贴，或者大麻上头thc电子烟单根，12号9点开奖！ https://t.co/zXuVGTlVBu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_1988167696077516801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dj_F6bcAEqipk.jpg",
+        "width": 944
+      },
+      {
+        "height": 828,
+        "media_key": "3_1988167696060731392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dj_F2bUAAOxeX.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1988167696056463360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dj_F1aMAAapcs.jpg",
+        "width": 960
+      },
+      {
+        "height": 1188,
+        "media_key": "3_1988167696052359168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dj_F0bkAAM6Cf.jpg",
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988167696077516801",
+            "3_1988167696060731392",
+            "3_1988167696056463360",
+            "3_1988167696052359168"
+          ],
+          "media_source_tweet_id": [
+            "1988167713248997859",
+            "1988167713248997859",
+            "1988167713248997859",
+            "1988167713248997859"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "1989010005295788203",
+        "created_at": "2025-11-13T16:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989010005295788203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2303572463",
+              "start": 3,
+              "username": "rporter326"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXuVGTlVBu",
+              "end": 82,
+              "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+              "media_key": "3_1988167696077516801",
+              "start": 59,
+              "url": "https://t.co/zXuVGTlVBu"
+            },
+            {
+              "display_url": "pic.x.com/zXuVGTlVBu",
+              "end": 82,
+              "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+              "media_key": "3_1988167696060731392",
+              "start": 59,
+              "url": "https://t.co/zXuVGTlVBu"
+            },
+            {
+              "display_url": "pic.x.com/zXuVGTlVBu",
+              "end": 82,
+              "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+              "media_key": "3_1988167696056463360",
+              "start": 59,
+              "url": "https://t.co/zXuVGTlVBu"
+            },
+            {
+              "display_url": "pic.x.com/zXuVGTlVBu",
+              "end": 82,
+              "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+              "media_key": "3_1988167696052359168",
+              "start": 59,
+              "url": "https://t.co/zXuVGTlVBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989010005295788203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988167713248997859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @rporter326: 这条点赞转发里抽2个送一张lsd一贴，或者大麻上头thc电子烟单根，12号9点开奖！ https://t.co/zXuVGTlVBu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988167696077516801",
+            "3_1988167696060731392",
+            "3_1988167696056463360",
+            "3_1988167696052359168"
+          ]
+        },
+        "author_id": "2303572463",
+        "conversation_id": "1988167713248997859",
+        "created_at": "2025-11-11T08:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988167713248997859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXuVGTlVBu",
+              "end": 66,
+              "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+              "media_key": "3_1988167696077516801",
+              "start": 43,
+              "url": "https://t.co/zXuVGTlVBu"
+            },
+            {
+              "display_url": "pic.x.com/zXuVGTlVBu",
+              "end": 66,
+              "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+              "media_key": "3_1988167696060731392",
+              "start": 43,
+              "url": "https://t.co/zXuVGTlVBu"
+            },
+            {
+              "display_url": "pic.x.com/zXuVGTlVBu",
+              "end": 66,
+              "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+              "media_key": "3_1988167696056463360",
+              "start": 43,
+              "url": "https://t.co/zXuVGTlVBu"
+            },
+            {
+              "display_url": "pic.x.com/zXuVGTlVBu",
+              "end": 66,
+              "expanded_url": "https://x.com/rporter326/status/1988167713248997859/photo/1",
+              "media_key": "3_1988167696052359168",
+              "start": 43,
+              "url": "https://t.co/zXuVGTlVBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988167713248997859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 61140,
+          "like_count": 183,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "这条点赞转发里抽2个送一张lsd一贴，或者大麻上头thc电子烟单根，12号9点开奖！ https://t.co/zXuVGTlVBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他🚪88",
+        "id": "1962759363246129152",
+        "name": "酷酷蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962759497937788929/gC-Def3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 492,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 300
+        },
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-25T13:51:08.000Z",
+        "description": "需要购买的直接私信我",
+        "id": "2303572463",
+        "location": "距离你7.32KM",
+        "name": "上头电子烟大麻Rush闪送大王",
+        "pinned_tweet_id": "1988835051870577137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985950247517069314/RIhBOh3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 6,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 59
+        },
+        "username": "rporter326",
+        "verified": false
+      }
+    ]
+  }
+}
