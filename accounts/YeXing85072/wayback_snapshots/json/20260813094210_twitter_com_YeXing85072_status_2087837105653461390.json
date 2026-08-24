@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "2087837105653461390",
+    "created_at": "2026-08-13T09:42:10.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087837105653461390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1202981939931561984",
+          "start": 3,
+          "username": "isekaijoucho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087837105653461390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087686975885340908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @isekaijoucho: ヰ世界情緒の呟くほどでもないけど、\nなんとなく話したい事を置いておく場所。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "2087837105653461390",
+        "created_at": "2026-08-13T09:42:10.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087837105653461390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1202981939931561984",
+              "start": 3,
+              "username": "isekaijoucho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087837105653461390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087686975885340908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @isekaijoucho: ヰ世界情緒の呟くほどでもないけど、\nなんとなく話したい事を置いておく場所。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1202981939931561984",
+        "conversation_id": "2087686975885340908",
+        "created_at": "2026-08-12T23:45:37.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087686975885340908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087686975885340908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 857,
+          "impression_count": 84430,
+          "like_count": 2702,
+          "quote_count": 28,
+          "reply_count": 2,
+          "retweet_count": 252
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ヰ世界情緒の呟くほどでもないけど、\nなんとなく話したい事を置いておく場所。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087837105653461390",
+        "name": "光明托马",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962759363246129152/1759735633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078790288156569600/YRB0meFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 674,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "YeXing85072",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1678705629240909825/plbFmgKc_bigger.jpg",
+          "description": "KAMITSUBAKI STUDIO",
+          "url": "https://twitter.com/kamitsubaki_jp",
+          "user_id": [
+            "1184692378197622785"
+          ]
+        },
+        "created_at": "2019-12-06T16:03:56.000Z",
+        "description": "ヰ世界情緒( ɪꜱᴇᴋᴀɪᴊᴏᴜᴄʜᴏ )といいます。歌い、創ります🌏 ∣ ✉️ : isekaijoucho.info@gmail.com ∣ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ：@isekai_info ∣ ꜰᴀ : #ヰ世界情緒美術部 ∣ ᴛᴀɢ : #もしもし情緒ちゃん #ゴミダスといっしょ ∣ 星界 ∣ 夜河世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 105,
+                "tag": "ヰ世界情緒美術部"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "tag": "もしもし情緒ちゃん"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "tag": "ゴミダスといっしょ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "isekai_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/isekaijoucho",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/isekaijoucho",
+                "start": 0,
+                "url": "https://t.co/PJ6G9AMcmb"
+              }
+            ]
+          }
+        },
+        "id": "1202981939931561984",
+        "is_identity_verified": false,
+        "location": "KAMITSUBAKI STUDIO",
+        "most_recent_tweet_id": "2087829294009700619",
+        "name": "ヰ世界情緒",
+        "pinned_tweet_id": "2077709839544033507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1202981939931561984/1727265470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039327396277714944/1oDTJ2qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188517,
+          "following_count": 124,
+          "like_count": 5173,
+          "listed_count": 1559,
+          "media_count": 874,
+          "tweet_count": 7820
+        },
+        "url": "https://t.co/PJ6G9AMcmb",
+        "username": "isekaijoucho",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
