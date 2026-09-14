@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094439128285024256"
+      ],
+      "media_source_tweet_id": [
+        "2094439132688998676"
+      ]
+    },
+    "author_id": "1962759363246129152",
+    "conversation_id": "2094773183593467974",
+    "created_at": "2026-09-01T13:03:40.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094773183593467974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1202981939931561984",
+          "start": 3,
+          "username": "isekaijoucho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/my3bqbZO6E",
+          "end": 47,
+          "expanded_url": "https://x.com/isekaijoucho/status/2094439132688998676/photo/1",
+          "media_key": "3_2094439128285024256",
+          "start": 24,
+          "url": "https://t.co/my3bqbZO6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094773183593467974",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2094439128285024256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 519
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094439132688998676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isekaijoucho: 08.31 https://t.co/my3bqbZO6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 879,
+        "media_key": "3_2094439128285024256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDxSlUbkAA_Zbe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094439128285024256"
+          ],
+          "media_source_tweet_id": [
+            "2094439132688998676"
+          ]
+        },
+        "author_id": "1962759363246129152",
+        "conversation_id": "2094773183593467974",
+        "created_at": "2026-09-01T13:03:40.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094773183593467974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1202981939931561984",
+              "start": 3,
+              "username": "isekaijoucho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/my3bqbZO6E",
+              "end": 47,
+              "expanded_url": "https://x.com/isekaijoucho/status/2094439132688998676/photo/1",
+              "media_key": "3_2094439128285024256",
+              "start": 24,
+              "url": "https://t.co/my3bqbZO6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094773183593467974",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2094439128285024256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 519
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094439132688998676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isekaijoucho: 08.31 https://t.co/my3bqbZO6E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094439128285024256"
+          ]
+        },
+        "author_id": "1202981939931561984",
+        "conversation_id": "2094439132688998676",
+        "created_at": "2026-08-31T14:56:16.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094439132688998676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/my3bqbZO6E",
+              "end": 29,
+              "expanded_url": "https://x.com/isekaijoucho/status/2094439132688998676/photo/1",
+              "media_key": "3_2094439128285024256",
+              "start": 6,
+              "url": "https://t.co/my3bqbZO6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094439132688998676",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2094439128285024256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 55113,
+          "like_count": 3926,
+          "quote_count": 6,
+          "reply_count": 69,
+          "retweet_count": 519
+        },
+        "reply_settings": "everyone",
+        "text": "08.31 https://t.co/my3bqbZO6E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094773183593467974",
+        "name": "光明托马",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962759363246129152/1759735633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078790288156569600/YRB0meFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 651,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "YeXing85072",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1678705629240909825/plbFmgKc_bigger.jpg",
+          "description": "KAMITSUBAKI STUDIO",
+          "url": "https://twitter.com/kamitsubaki_jp",
+          "user_id": [
+            "1184692378197622785"
+          ]
+        },
+        "created_at": "2019-12-06T16:03:56.000Z",
+        "description": "ヰ世界情緒( ɪꜱᴇᴋᴀɪᴊᴏᴜᴄʜᴏ )といいます。歌い、創ります🌏 ∣ ✉️ : isekaijoucho.info@gmail.com ∣ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ：@isekai_info ∣ ꜰᴀ : #ヰ世界情緒美術部 ∣ ᴛᴀɢ : #もしもし情緒ちゃん #ゴミダスといっしょ ∣ 星界 ∣ 夜河世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 105,
+                "tag": "ヰ世界情緒美術部"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "tag": "もしもし情緒ちゃん"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "tag": "ゴミダスといっしょ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "isekai_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/isekaijoucho",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/isekaijoucho",
+                "start": 0,
+                "url": "https://t.co/PJ6G9AMcmb"
+              }
+            ]
+          }
+        },
+        "id": "1202981939931561984",
+        "is_identity_verified": false,
+        "location": "KAMITSUBAKI STUDIO",
+        "most_recent_tweet_id": "2094747310622482476",
+        "name": "ヰ世界情緒",
+        "pinned_tweet_id": "2077709839544033507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1202981939931561984/1727265470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039327396277714944/1oDTJ2qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189236,
+          "following_count": 124,
+          "like_count": 5411,
+          "listed_count": 1560,
+          "media_count": 888,
+          "tweet_count": 7999
+        },
+        "url": "https://t.co/PJ6G9AMcmb",
+        "username": "isekaijoucho",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
