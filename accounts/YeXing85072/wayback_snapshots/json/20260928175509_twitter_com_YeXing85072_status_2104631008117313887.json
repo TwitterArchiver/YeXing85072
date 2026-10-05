@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1962759363246129152",
+    "conversation_id": "2104233876419952900",
+    "created_at": "2026-09-28T17:55:09.000Z",
+    "display_text_range": [
+      22,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T18:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104631008117313887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857483338006802434",
+          "start": 0,
+          "username": "nininililily"
+        },
+        {
+          "end": 21,
+          "id": "1937925047458664449",
+          "start": 14,
+          "username": "WiaAir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104631008117313887",
+    "in_reply_to_user_id": "1857483338006802434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104233876419952900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nininililily @WiaAir 姐抽我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104233868694028288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO9jgvagAAsW4i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962759363246129152",
+        "conversation_id": "2104233876419952900",
+        "created_at": "2026-09-28T17:55:09.000Z",
+        "display_text_range": [
+          22,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104631008117313887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857483338006802434",
+              "start": 0,
+              "username": "nininililily"
+            },
+            {
+              "end": 21,
+              "id": "1937925047458664449",
+              "start": 14,
+              "username": "WiaAir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104631008117313887",
+        "in_reply_to_user_id": "1857483338006802434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104233876419952900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nininililily @WiaAir 姐抽我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104233868694028288"
+          ]
+        },
+        "author_id": "1857483338006802434",
+        "conversation_id": "2104233876419952900",
+        "created_at": "2026-09-27T15:37:05.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104233876419952900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPEGdWwuUF",
+              "end": 52,
+              "expanded_url": "https://x.com/nininililily/status/2104233876419952900/photo/1",
+              "media_key": "3_2104233868694028288",
+              "start": 29,
+              "url": "https://t.co/jPEGdWwuUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104233876419952900",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104233868694028288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1464,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "两百fo粉丝离抽两个送一人四板红普\n转发评论关注自动参加 https://t.co/jPEGdWwuUF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104631008117313887",
+        "name": "光明托马",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962759363246129152/1759735633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078790288156569600/YRB0meFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 661,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "YeXing85072",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-15T17:58:47.000Z",
+        "description": "帝王正在建立她的王国\n黑夜 白昼 都是王的赐福\n🚪52/88（纯绿\n(˶‾᷄ ⁻̫ ‾᷅˵)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mihuonojiao124",
+                "end": 23,
+                "expanded_url": "https://t.me/mihuonojiao124",
+                "start": 0,
+                "url": "https://t.co/A4Skx0FMLv"
+              }
+            ]
+          }
+        },
+        "id": "1857483338006802434",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2104628517451542613",
+        "name": "めいわく",
+        "pinned_tweet_id": "2101457742162690194",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857483338006802434/1790558625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092909113906970624/zDMZcrt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 67,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 587
+        },
+        "url": "https://t.co/A4Skx0FMLv",
+        "username": "nininililily",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T17:26:44.000Z",
+        "description": "可以叫我小寒或W！/生理心理女/INTP/自伤🔪/od💊/烟酒👌/脑残智障精神病/文艺消肿比/纯血铜仁钕/\n匿名提问：https://t.co/5QvclcWDDF\n1.0：@AirWiaAir\n🦋指路：ChillyWinter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "AirWiaAir"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/chilly_57586",
+                "end": 82,
+                "expanded_url": "https://ngl.link/chilly_57586",
+                "start": 59,
+                "url": "https://t.co/5QvclcWDDF"
+              }
+            ]
+          }
+        },
+        "id": "1937925047458664449",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104625397183009214",
+        "name": "小寒2.00000",
+        "pinned_tweet_id": "2103411386990968971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937925047458664449/1786469368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061314473768718337/LusnPfoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 202,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "WiaAir",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
